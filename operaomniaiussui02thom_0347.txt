@@ -1,0 +1,146 @@
+ 
+
+PHYSICORUM ARISTOTELIS
+LIBER vn
+
+ 
+
+LECTIO PRIMA
+
+NECESSE EST OMNE QUOD MOVETUR AB ALIQUO ALIO MOVERI
+
+‘'An-ow τὸ κινούμενον ἀνάγκη ὑπό τινος κινεῖσθαι. Εἰ μὲν
+οὖν ἐν ἑαυτῷ μὴ ’έχει τὴν ἀρχήν τῆς κινήσεως, φα-
+νερὸν ὅτι ὑφ’ ἑτέρου κινεῖται. Ei δ’ ἐν αὐτῷ, εἰλήφθω
+ἐφ’ οὗ τὸ ΑΒ, ὃ κινεῖται μή τῷ τῶν τούτου τι κι-
+νεῖσθαι. Πρῶτον ἐν οὖν τὸ ὑπολαμβάνειν τὸ ΑΒ
+ὑφ’ ἑαυτοῦ κινεῖσθιοιι διαὶ τὸ ὅλον τε κινεῖσθαι καὶ
+alred μηθενὸς τῶν ἔξωθεν, ὅμοιόν ἐστιν ὥσπερ ἂν εἴ
+τις τοῦ ΔΕ κινοῦντος τὸ ΕΖ, καὶ αὐτοῦ κινουμένου
+
+· ὑπολαμβάνοι τὸ ΔΕΖ ὑφ’ αὐτοῦ κινεῖσθαι, διαὶ τὸ
+μὴ συνορᾶν πότερον ὑπὸ ποτέρου κινεῖται, πότερον
+τό ΔΕ ὑπὸ τοῦ ΕΖ ἦ τὸ ΕΖ ὑπὸ τοῦ ΔΕ.
+
+Ἔτι τὸ ὐφ’ αὑτοῦ κινούμενον οὐδέποτε παύσεται κι-
+νούμενον τῷ ἕτερόν τι στῆναι κινούμενον. Ἀνάγκη
+τοίνυν, εἴ τι παύεται κινούμενον τῷ ἕτερόν τι στῆ-
+ναι, τοῦθ’ ὑφ’ ἐτέρου κινεῖσθαι, Τούτου γάρ φανεροῦ
+γινομένου, ἀνάγκη πᾶν τὸ κινούμενον κινεῖσθαι υπό
+τινος. Ἐπεὶ γάρ εἴληπται τὸ ΑΒ κινούμενον, διαι-
+ρετὸν ἔσται· πᾶν γάρ τὸ κινούμενον διαιρετόν ἦν.
+Διῃρήσθω τοίνυν ’ᾖ τὰ Γ. Ἀνάγκη δή τοῦ Br ἠρε-
+μοῦντος ἠρεμεῖν καὶ τό AB· εἰ γάρ μή, εἰλήφθω κι-
+νούμενον. Τοῦ τοίνυν ΒΓ ἠρεμοῦντος, κινοῖτο ἄν τὸ
+ΑΓ· οὐκ ἄρα καθ’ αὐτὸ κινεῖται τὸ ΑΒ. Ἀλλ’ ὑπέ-
+
+κειτο καθ’ αὐτὸ κινεῖσθαι πρῶτον. Δῆλον τοίνυν ὅτι .
+
+τοῦ ΓΒ ἠρεμοῦντος ἦρεμῆσει καὶ τὸ ΒΑ, καὶ τότε
+παύσεται κινούμενον. Ἀλλ’ εἴ τι τῷ ἄλλο ἠρεμεῖν
+ἵσταται καὶ παύεται κινούμενον, τοῦθ’ ὑφ’ ἑτέρου
+κινεῖται. Φανερόν δη ὅτι πᾶντό κινούμενον ὑπό τινος
+κινεῖται· διαιρετόν τε γάρ ἐστι πᾶν τὸ κινούμενον,
+καὶ τοῦ μέρους ἠρεμοῦντος ἡρεμῆσει καὶ τὸ ὅλον.
+
+ὃῑΝοΡςῑε. - 1 . Argumentum et divisio textus et libri. - 2. Omne
+
+quod movetur, ab alio movetur. Quod quidem manifestum est
+
+in his in quibus principium motus est ab extrinseco. Unde pro-
+batur respectu mobilis quod in seipso habeat sui motus prin-
+cipium. Sicut autem quod est calidum non ab alio, oportet quod
+sit primo et per se calidum, ita si aliquid ponatur movere se-
+
+ipsum, oportet quod sit primo et per se motum, et non secun-,
+
+dum partem. Probatur ergo thesis primo, excludendo id unde
+maxime videri posset quod aliquid non moveatur ab alio, vide-
+licet quia non movetur ab extrinseco, sed ab interiori principio.
+Sed opinari quod mobile, puta corpus animatum, movetur a se-
+ipso, propter hoc quod toturn movetur et non movetur ab aliquo
+exteriori, simile est ac dicere quod mobile, cuius una pars mo·
+vetur et altera movet, movetur a seipso, quia non discernitur
+quae pars sit movens, et quae mota. Corpus ergo animatum vi-
+detur movere seipsum inquantum una pars movet aliam, scilicet
+anima corpus. — 3. Probatur thesis directe. Quod movetur a se-
+ipso, non quiescit a suo motu per quietem cuiuscumque alterius.
+Sed omne quod movetur, quiescit ad quietem alterius, scilicet
+partis: nam si quiescente una parte, totum non quiescit, totum
+movetur ratione alterius partis, et ita non movetur primo et
+per se, contra id quod supponitur. Ergo omne quod movetur,
+cum sit divisibile, quiescit ad quietem alterius, et consequenter
+non a seipso sed ab alio movetur. -— 4. Obiectio Galeni contra
+hanc rationem: dicit enim quod ea quae moventur secundum
+partem, per se moventur. Sed deceptus fuit ex aequivocatione
+eius quod est per se: quod hic accipitur non solum prout op—
+ponitur ei quod est per accidens, sed etiarn ei quod est secun-
+
+Opp. D. Tamna T. 11.
+
+* Omne quod movetur, necesse est ab aliquo moveri. Si
+igitur in seipso non habet principium motus, mani-
+festum est quod ab altero movetur: aliud enim erit
+movens. Si autem in seipso, accipiatur AB, quod mo-
+veatur secundum se, et non eo quod eorum quae
+huius sunt, aliquid movetur. Primum igitur, opinari AB
+a seipso moveri, propter id quod totum movetur, et
+a nullo exteriorum, simile est sicut si quis, ipso DE
+movente ΕΖ, et ipso moto, opinetur DEZ a seipso
+moveri, propter id quod non videtur utrum ab utro
+moveatur, et utrum DE ab EZ, aut EZ ,a DE.
+
+*Amplius‚ quod a seipso movetur, nullo modo pausabit cum
+movetur, in stando aliquid alterum quod movetur. Ne-
+cesse est ergo, si aliquid pausat quod movetur, in stan-
+do aliquid alterum, hoc ab altero moveri. Hoc autern
+manifesto facto, necesse est omne quod movetur, mo—
+veri ab aliquo. Quoniam enim acceptum est AB moveri,
+divisibile erit: omne enim quod movetur, divisibile est.
+Dividatur igitur in C. Necesse igitur, BC quiescente,
+quiescere et AB. Si enim non, accipiatur moveri. BC
+igitur quiescente, movebitur utique AC. Non ergo mo-
+vetur per se AB. Sed concessum est per seipsum mo-
+veri primum. Manifestum igitur quod BC quiescente,
+quiescet et AB: et tunc pausabit quod movetur. Sed
+si aliquid in quiescendo aliud, stat et pausat moveri, hoc
+ab altero movetur. Manifestum est igitur quod omne
+quod movetur, ab aliquo movetur. Divisibile enim
+est omne quod movetur, et parte quiescente, quiescit
+totum.
+
+dum partem: unde dicit non solum per se, sed etiam primo. -
+5. Alia obiectio Avicennae. Si'ponitur aliquod mobile a seipso
+moveri primo et per se, impossibile est supponere quod aliqua
+pars eius quiescat. Ex hac autem suppositione impossibili, ex
+qua ratio procedit, non vero ex eo quod aliquid a seipso
+moveatur, sequitur illud inconveniens ad quod ratio ipsa ducit,
+nempe quod totum moveatur non primo et per se. - Respon-
+sio quaedam, quam dupliciter excludit ipse Avicenna‚ - 6. Alia
+Averrois solutio, quae conveniens est inquantum dicit quod
+haec conditionalis, si mobilis moventis seipsum pars quiescit,
+totum quiescit, est vera, licet tum antecedens tum consequens
+sit impossibile; non autem quantum adhoc, quod supra posita de-
+monstratio est de genere demonstrationum quae dicuntur demon-
+strationes signi, vel demonstrationes quia. Dicendum namque
+videtur esse demonstrationem propter quid: continet enim cau-
+sam quare sit impossibile aliquid movere seipsum. Cum emm
+movere seipsum nihil aliud sit quam esse sibi causa sui motuS,
+oportet quod ei quod ponitur moveri a seipso, primo competat
+moveri; seu oportet quod sit primum mobile, cuius motus non
+dependeat a priori. Sed hoc est impossibile: nam motus cuiusli-
+bet mobilis dependet a motu suarum partium. Per hanc ergo ra-
+tionem ostenditur causa quare nullum mobile moveat seipsum3
+sicut ex eo quod esse cuiuslibet divisibilis dependet ab esse par-
+tium, ostenditur quare nullum divisibile sit primum ens. — 7. Ma-
+nifestatur quod huic doctrinae concordat sententia Platonicorum,
+qui ponentes aliqua movere seipsa, dixerunt quod nullum cor-
+poreum aut divisibile movet seipsum, sed hoc est tantummodo
+substantiae spiritualis, quae intelligit et amat seipsam.
+
+41
+
+'¹ Cap. 1. Text. 1.
+
+'¹ Text. 2.
+

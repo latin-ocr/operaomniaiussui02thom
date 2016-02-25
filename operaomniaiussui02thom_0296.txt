@@ -1,0 +1,181 @@
+' Lect. praec.
+
+270
+
+PHYSICORUM ARISTOTELIS LIB. VI
+
+LEcT10 SECUNDA
+
+SI MAGNITUDO EX INDIVISIBILIBUS COMPONITUR‚ MOTUM EX IIS COMPONI OPORTET:
+HUIUS IMPOSSIBILITAS OSTENDITUR
+
+Τοῦ δ’ αὑτοῦ λόγου καὶ μέγεθος καὶ χρόνον καὶ κίνησιν ⁴⁵ Eiusdem autem rationis est et magnitudinem et tempus · Seq· etp-¹·
+
+ἐξ ἀδιαιρέτων συγκεῖσθαι, καὶ διαιρεῖσθαι εὶς ἀδιαί-
+ρετα ἦ μηθέν.
+
+Δῆλον δ’ ὲκ τῶνδε· εἱ γάρ τὸ μέγεθος ἐξ ἀδιαιρέτων
+σύγκειται, καὶ τ’, κίνησις ’ἡ τούτου ἐξ ἴσων κινήσεων
+ἔσται ἀδιαιρέτων,
+
+οἷον εἰ τό ΑΒΓ ἐκ τῶν ΑΒΓ ἐστὶν ἀδιαιρέτων, ἢ κίνησις
+ἐφ’ ἧς ΔΕΖ, ἦν ἐκινήθη ‘ro' Ω ἐπὶ τῆς ΔΒΓ διαστά-
+σεως, ἕκαστον τὸ μέρος ἔχει ἀδιαίρετον.
+
+Εἰ δέ παρούσης κινήσεως ἀνάγκη κινεῖσθαί τι, καὶ εἰ
+κινεῖταί τι, παρεῖναι κίνησιν, καὶ τὸ κινεῖσθαι ἔσται
+ἐξ ἀδιαιρέτων. Te μὲν δή Α ἐκινήθη τὸ Ω τήν τὸ Δ
+κινούμενον κίνησιν, τὸ δὲ Β τήν τὸ Ε, καὶ τὸ Γ
+ὡσαύτως τήν τὸ Ζ.
+
+Et δή ἀνάγκη τὸ κινούμενον ποθέν ποι μή ἅμα κινεῖ-
+σθαι καὶ κεκινῆσθαι οὖ ἐκινεῖτο ὅτε ἐκινεῖτο (οἷον
+εἰ Θηβαζέ τις αδίζει, ἀδύνατον ἅμα βαδίζειν θή-
+βαζε καὶ βαβα ικέναι Θήβαζε)·
+
+τήν δὲ τὸ Α τήν ἀμερῆ ἐκινεῖτο τὰ Ω, ᾖ ἡ ‘ro‘ Δ κί-
+νησις παρῆν. ’“Ὠστ’ εἰ μὲν ὕστερον διῆλθεν ἦ διῄει,
+διαιρετὴ ἀν εἴη· ὅτε γάρ διῄει, οὔτε ἠρέμει οὔτε
+διεληλύθει, ἀλλά μεταξύ ἦν. Εἰ δ’ ἅμα διέρχεται
+καὶ διελήλυθε τὸ βαδίζον ὅτε βαδίζει, βεβαδικὸς
+ἐκεῖ ἔσται καὶ κεκινημένον οὗ κινεῖται. Εἰ δὲ τήν
+μὲν ὅλην την ΑΒΓ κινεῖταί τι, καὶ ἡ κίνησις ἦ κι-
+νεῖται τά ΔΕΖ ἐστί, τήν δ’ ἀμερῆ τήν A οὐθὲν κι-
+νεῖται, ἀλλά κεκίνηται, εἴη ἂν ἡ κίνησις οὐκ ἐκ κι-
+νήσεων, ἀλλ’ ἐκ κινημάτων,
+
+καὶ τὸ κεκινῆσθαί τι μή κινούμενον· τήν γὰρ Α διελή-
+λυθεν οὐ διεξιόν. Ὥστε ἔσται τι βεβαδικέναι μηδέ-
+ποτε βαδίζον· ταύτην γάρ βεβάδικεν οὐ βαδίζον
+ταύτην.
+
+Ei οὖν ἀνάγκη ἦ ἠρεμεῖν ἦ κινεῖσθαι πᾶν, ἠρεμεῖ δὲ
+καθ’ ἕκαστον τῶν ΑΒΓ, ὥστ’ ἔσται τι συνεχῶς ἦρε-
+μοῦν ἅμα καὶ κινούμενον· τήν γάρ ΑΒΓ ὅλην ἐκι-
+νεῖτο, καὶ ἠρέμει ὁτιοῦν μέρος, ὥστε καὶ πᾶσαν.
+
+Καὶ εἰ μὲν τά ἀδιαίρετα τῆς ΔΕΖ, κινήσεις κινήσεως
+πα ούσης ἐνδέχοιτ’ ἀν μη κινεῖσθαι, ἀλλ’ ἠρεμεῖν·
+εἱ δὲ μη κινήσεις, τήν κίνησιν μή ἑκ κινήσεων εἶναι.
+
+SYNorsts. -- 1. Argumentum et divisio textus. Ad compositio-
+nem ex indivisibilibus vel divisionem in ea quod attinet, eadem
+ratio est de magnitudine et tempore et motu. — 2. Subdivisio tex-
+tus. Ponitur conclusio quoad motum respectu magnitudinis per
+quam transit motus — 3. Exemplificatur conclusio. Alia subdivisio
+textus. - 4. Praenotamen primum. Secundum quamcumque par-
+tem praesentis motus necesse est aliquid moveri, et e converso
+si aliquid movetur, oportet quod adsit sibi aliquis motus. Ex
+his sequitur quod singulis partibus magnitudinis per quam aliquid
+movetur, respondeant singulae partes motus. Praenotamen alte-
+rum. Quod movetur de uno termino in aliurn, inquantum et
+quando movetur, non potest simul motum esse. Manifestantur
+haec duo praenotamina. — 5. Probatur quod si magnitudo ex
+punctis componitur, motum componi necesse est non ex motibus,
+sed ex momentis. Mobile enirn secundum impartibilem magni-
+tudiniS partem moveri nequit; quia si moveretur, oporteret talem
+partem esse divisibilem, ad hoc ut responderet mobili, quod
+successive movetur ct non potest simul moveri et motum esse.
+
+   
+
+2 ι
+
+et motum ex indivisibilibus componi et dxvrdi m in-
+.divisibilia, aut nihil.
+
+* Manifestum est autem ex his. Si enim magnitudo ex indi-
+visibilibus componitur, et motus qui huius est, ex aequa-
+libus erit motibus indivisibilibus-
+
+Ut si ipsa ΑΒΕ ex ΑΒΕ est indivisibilibus, et motus in
+quo DEZ, secundum quem motum est ipsum O in
+spatio quod est ΑΒΕ, unamquamque partem habet in-
+divisibilem.
+
+* Si igitur praesentis motus necesse moveri per aliqum par—
+tem, et si moveatur aliquid, adesse motum; et moveri
+erit ex indivisibilibus. Secundum igitur A motum est
+ipsum 0, motu quo D movetur3 secundum vero B,
+quo ipsum Ε; et secundum C, quo ipsum Z.
+
+* Si igitur necesse est quod movetur unde et quo, non simul
+moveri et motum esse, quo movit quando movet (ut
+si Thebas ali uis it, impossibile est simul ire Thebas et
+ivisse Thebacsg:
+
+Secundum A igitur impartibile motum est O secundum
+quod ipsum D motus aderat. Quare si posterius quidem
+devenerit quam venit, divisibile utique erit. Cum enim
+veniret, neque quiescebat neque transierat, sed in me-
+dio erat. Si autem simul venerit et venit veniens, cum
+venit, ventum ibi erit, et motum esse ubi movetur. * Si
+vero secundum totum ΑΒΕ moveatur aliquid, et mo—
+tus quo movetur DEZ est; secundum autem imparti-
+bile A nihil movetur, sed motum est; erit utique mo-
+tus non ex motibus, sed ex momentis.
+
+Et motum esse aliquid non motum: secundum enim A
+transivit non transiens. Quare erit aliquid transitum
+esse, non aliquando transiens: hanc enimvtransivit non
+transiens hanc.
+
+* Si igitur necesse est aut quiescere aut moveri omne, quiescit ·
+
+autem per unumquodque eorum quae sunt A B C; ergo
+est aliquid continue quiescens simul et quod movetur.
+Per totam enim ABC movebatur, et quiescebat secun-
+dum quamlibet partem: quare et per totam.
+
+Et si indivisibilia quae sunt DEZ, motus sunt, motu prae-
+sente continget utique non moveri, sed quiescere. Si
+autem non sunt motus, motum non ex motibus esse.
+
+Si ergo dicatur quod mobile movetur per totam magnitudinem,
+ita quod secundum impartibiles magnitudinis partes non mo-
+veatur, sed tantum motum sit, sequitur quod motus non sit ex
+motibus sed ex momentis-,- quia cuilibet parti magnitudinis non
+respondet nisi momentum. - 6. Impossibile autern est motum
+componi ex momentis. α) Primo, quia sequeretur quod aliquid
+sit motum quod prius non movebatur: sicut autem nihil est
+praeteritum quod non fuit praesens, ita nec motum esse potest
+quod non fuit in moveri. — 7. b) Praeterea, in singulis par-
+tibus indivisibilibus quiesceret mobile, cum per ipsa moveri
+non possit3 ergo per totam magnitudinem quiescit: supponitur
+autem per totam moveri; simul ergo movetur et quiescit. -
+8. c) Demum, vel illa indivisibilia motus sunt et ipsa motus,
+vel non. Si sunt motus, cum indivisibilibus partibus magnitu-
+dinis respondeant, secundum quas non fit motus, sequitur prae-
+sente motu mobile non moveri, contra primam suppositionem:
+si autem non sunt motus, componitur motus ex non motibus;
+quod inconveniens videtur.
+
+. fffflgszuia rationes supra ²* positae manife- hic * ostendere quod eadem ratio est de magni· ·
+”“’ stiores sunt in linea et aliis continuis tudine et tempore et motu. Et dividitur in partes
+
+, ⁴ ι, quantitatibus positionem habentibus, in duas: primo proponit intentum; secundo probat
+
+:iss-⁹2 s
+
+    
+
+‘⁸³44
+
+Text. 4.
+
+” Text. 5.
+
+· Text. 6.
+
+⁹ Text. 7.
+
+‘Text.8.
+
+Text. 9.
+
+wiffam
+
+quibus proprie invenitur contactuS, vult propositum, ibi: Manifestum est autem ex his ‘¹ etc. · Num· κει-
+
+ 
+

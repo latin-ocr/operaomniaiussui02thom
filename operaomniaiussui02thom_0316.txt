@@ -1,0 +1,184 @@
+· Num. 6.
+
+· omnes add. to.
+
+β
+
+· mobilis om. ε
+rc.
+
+· motus codd.
+exc. uixsr.
+
+⁶ neque aab.
+
+'¹ Num. praec.
+
+' quae vab.
+
+290
+
+simul curret divisio motus secundum partes tem-
+poris et secundum partes mobilis.
+
+3. Deinde cum dicit: Sit igitur ipsius quidem etc„
+manifestat positos modos: et primo ostendit quod
+motus dividatur secundum partes mobilis; secun-
+do quod dividatur secundum partes temporis, ibi:
+Alius autem secundum tempus ²⁴²¹ etc. Primum osten-
+dit tribus rationibus: quarum prima talis est. Ex
+quo moto toto moventur *partes, motus illius par-
+tis quae est AB, sit DE; et motus alterius partis,
+quae est BC, sit EZ β. Sicut ergo totum mobile AC
+componitur ex AB et BC, ita totus motus DZ corn-
+ponitur ex DE et EZ. Cum ergo utraque partium
+mobilis moveatur secundum utramque partium mo-
+tus, ita tamen quod neutra pars mobilis ²³⁴ movetur
+secundum motum alterius partis (quia secundum
+hoc totus motus esset unius partis, quae moveretur
+motu suo et motu alterius partis), oportet dicere
+quod totus motus DZ sit totius mobilis AC; et sic
+motus totius dividitur per motum '³ partium.
+
+4. Secundam rationem ponit ibi: Amplius autem,
+si omnis motus etc.: quae talis est. Omnis motus
+est alicuius mobilis: totus autern motus DZ non ²*
+est alterius partium; quia neutra movetur secun-
+dum toturn motum, sed utraque movetur secundum
+partes motuS, ut dictum est ²³⁴. Neque iterum po-
+test dici quod sit motus cuiuscumque alterius mo-
+bilis separati ab AC: quia si totus iste motus esset
+totius alterius mobilis, sequeretur quod partes huius
+motus essent partium illius mobilis; sed partes
+huius motus qui dicitur DZ ⁷, sunt partium huius
+mobilis quae sunt AB, BC, et nullarum aliarum3
+quia si essent et harum et aliarum, sequeretur quod
+unus motus esset plurium, quod est impossibile.
+Relinquitur ergo quod totus motus sit totius ma-
+gnitudinis, sicut et partes partium3 et ita motus
+totius dividitur secundum partes mobilis.
+
+5. Tertiam rationem ponit ibi: Amplius au-
+tem, si est quidem etc.: quae talis est. Omne
+quod movetur, habet aliquem motum: si igitur
+totus motus qui est DZ, non sit totius mobilis
+quod est AC, oportet quod aliquis alius motus
+sit eius; et sit ille motus TI. Ab hoc ergo motu δ
+ΤΙ auferantur per divisionem motus utrarumque
+partium, quos oportet esse aequales iis quae sunt
+DEZ, hac rationet· quia unius mobilis non est
+nisi unus motus3 unde non potest dici quod rno-
+tus partium, qui ⁹⁵ auferuntur a motu TI, qui
+ponitur esse totius, sint maiores aut minores quarn
+DE et EZ, qui ponebantur motus earundem par-
+tium. Aut ergo motus partium consumunt per
+divisionem toturn TI, aut deficiunt ab eo, aut
+
+credidit transponendo: manifestum est quod BC prius pertransibit hoc
+signum F quam AB.
+
+β) sit EZ.— sit EF Pinna in hoc numero; similiter pro DZ, DF3
+sed in sequentibus numeris P·redit ad lectionem codicum.
+
+Υ) ‘1¹¹1' dicitur DZ. - Pro qui, quae AlKLQYa; pro dicitur, quod
+om. Ι, ese cet. exc. ADKNOQTY. - Pergit N: quae sunt partes par-
+tium huius mobilis quod dicitur AC, quae sunt AB et Bc,- pro par-
+tium, partium partes EG, partes cet. exc. BHLRS& pro AB BC le-
+gunt ΑΒΕ Pinna et b.
+
+ὃ) Ab hoc ergo motu etc.- Pro ergo, quod orn. NR, autem BCF
+Hvaz‚ ergo autem E; pro motu TI, motu qui est ΤΙ Pub,- pro
+auser-antur, auferatur Pab et codd. exc. BCFMVXZ3 pro quos, quas
+FN; pro oportet, oporteat Pub et codd. exc. EFGHLNZsB.
+
+PHYSICORUM ARISTOTELIS LlB. VI
+
+superexcedunt. Si consumunt totum TI, et non
+excedunt nec deficiunt, sequitur quod motus ΤΙ-
+sit aequalis motui ²³⁸ DZ, qui est motus partium,
+et non differat ab eo. Si autem motus partium
+deficiunt a T1, ita quod TI excedat DZ in KI,
+ista pars motus quae est KI, nullius mobilis erit.
+Non enim est motus totius AC, neque partium
+eius; quia unius non est nisi unus motus, et tam
+toti quam partibus assignatus est iam alius motus.
+Neque iterum potest dici quod sit alicuius alterius
+mobilis; quia totus motus ³⁹ TI est quidam motus
+continuus3 et motus continuus oportet quod sit
+continuorum, ut in quinto * ostensum est. Unde
+non potest esse quod pars huius motus continui,
+quae est KI ¹, sit alicuius mobilis quod non con-
+tinuetur cum ABC. Similiter etiam sequitur in-
+conveniens, si dicatur quod motus partium excell
+lat secundum divisionem; quia sequetur quod
+partes excedant totum, quod est impossibile. Si
+ergo hoc est impossibile, quod excedat vel defi?
+ciat, necesse est quod motus partium sit aequalis
+et idem motui totius.- Haec igitur ζ divisio est
+secundum motus partium3 et necesse est quod¹
+talis partitio inveniatur in motu, propter hoe
+quod omne quod movetur est partibile.
+
+6. Deinde cum dicit: Alius autem secundum
+tempus etc.‚ ostendit ²²⁴ quod motus dividatur se-
+eundum divisionem temporis, tali ratione. Omnis
+motus est in ternpore: et omne tempus est di·
+visibile, ut probatum est *. Cum ergo in minori
+tempore sit minor motus, necesse est quod omnis
+motus dividatur secundum tempus.
+
+7. Deinde cum dicit: 'Quoniam autem omne
+quod movetur etc„ ostendit quae simul dividantur
+c‘um motu. Et circa hoc tria facit: primo ponit
+quinque quae simul dividunum secundo ostendit
+quod'in omnibus praedictis simul invenitur fini-
+
+tum et infinitum, ibi: Et in ipso finita esse ⁸ etc.; ·
+
+tertio ostendit in quo horum primo invenitur ¹·
+divisio et infinitum, ibi: Secutum autem maxime
+est ⁴⁴ etc. Circa primum duo facit: primo propo-v
+nit quod intendit; secundo manifestat propositum,
+ibi: Accipiatur enim tempus *ἒ etc.
+
+Dicit ergo primo ¹⁸, quod 'quia omne quod mo- ·
+
+vetur, movetur in aliquo, idest secundum aliquod
+genus vel speciem, et iterum in aliquo tempore3
+et iterum cuiuslibet mobilis est aliquis motus:
+necesse est quod ista quinque simul dividantur ’,ν
+scilicet tempus, et motus, et ipsum moveri, et
+mobile quod movetur, et id in quo est motus,
+vel locus vel qualitas vel quantitas. Sed tamen
+non est eodem modo divisio omnium eorum in
+
+ε) quae est KL-qm' est TI Pinna et a b, non quidem false, sed mi-
+nus perspicue quam codd.. quorum leet. determinat verbum par-85 cf.
+pnulo supra isra pars motus ete-Pro non continuetur, non continetur
+CDHQTnG, continetur EpG, ras. pF.
+
+ζ) Haec igitur. - His praemittunt edd. Venet- ¹504 et sequentes De-
+inde concludit, quod nullus codex nec a b habent, ideoque expungimus.
+
+η) primo invenitur. — primo om. Pab et codd. exc. BCDFHMNT
+VXZle; EG hab. lacunam. Ex ultimo num. lectionis manifestum est
+quod primo non debet omitti. ,
+
+0) simul dividantur.-1ta EGK, stmiliter sive stmu1dfvfdamur N,
+similiter dividantur Pa» et cet. codd: sed tum in divisione textu· n. pri·
+mo et supra in hoc num.. tum infra in seqq. numm.. et codd. et edd.
+habent non similiter sed simul. - Pro vel Iocus, ut locus EFNRZeI.
+
+      
+
+· motui om. rab. v
+
+· ηιοΜοω.ιάῡ.;
+· αα. vn, n. ι. >
+
+‘'cot-emme
+
+¹ Leet. ux.
+
+· Nun. ιι.
+

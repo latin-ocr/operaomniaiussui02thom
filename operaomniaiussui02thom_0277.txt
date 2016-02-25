@@ -1,0 +1,171 @@
+ 
+
+CAP. lv, LECT. vu
+
+251
+
+LECTIO SEPTIMA
+
+ITERUM DE UNlTATE NUMERICA MOTUS - DUO ALII MODI SECUNDARII UNITATIS MOTUS
+
+Ἐπεὶ δὲ συνεχής πᾶσα κίνησις, την τε ἁπλῶς μίαν
+ἀνάγκη καὶ συνεχῆ εἶναι, εἴπερ πᾶσα διαιρετή, καὶ
+εἱ συνεχής, μία. Οὐ γοὶρ πᾶσα γένοιτ’ ἂν συνεχής
+παίσῃ, ὥσπερ οὐδ’ ἄλλο οὐδέν τῷ τυχόντι τὸ τυ-
+χόν, ἀλλ’ ὅσων ἓν τοὶ ἕσ ατα. Ἕσχατα δὲ τῶν μὲν
+οὐκ ἔστι, τῶν δ’ ἐστὶν λλα τῷ εἴδει καὶ ὁμώνυμα·
+πῶς γοὶρ ὀὲν ἅψαιτο ἦ ἓν γένοιτο τὸ ἔσχατον γραμ-
+μῆς καὶ βαδίσεως; Ἐχόμεναι μέν οὖν εἷεν ἄν καὶ
+αἱ μή αὐταὶ τῷ εἴδει, μηδὲ τῷ γένει· δραμών γαρ
+ἄν τις πυρέξειεν εὐθύς, καὶ οἷον ἢ λαμπάς ἐκ. δια-
+δοχῆς φορά ἐχομένη, συνεχής δ’ οὔ. Κεῖται γάρ τό
+συνεχές, ὦν τα ἔσχατα ἕν. “Ὠστ’ ἐχόμενα καὶ ἑφεξῆς
+εἰσὶ τῷ τόν χρόνον εἶναι συνεχῆ, συνεχεῖς δὲ τῷ τοίς
+κινήσεις· τοῦτο δ’, ὅταν ἓν τό ἔσχατον γίνηται
+ἀμφοῖν. Διό ἀνάγκη την αὐτην εἶναι τῷ εἴδει καὶ
+ἑνός καὶ ἐν ἑνὶ χρόνῳ τήν ἀπλῶς συνεχῆ κίνησιν καὶ
+μίαν· τῷ χρόνῳ μέν, ὅπως μή ἀκινησία μεταξύ ᾗ·
+ὲν τῷ διαλείποντι γάρ ἠρεμεῖν ἀνάγκη. Πολλαὶ οὖν
+καὶ οὗ μία ἡ κίνησις, ὦν ἐστιν ἠρεμία μεταξύ. ’Ὥστε
+εἴ τις κίνησις στάσει διαλαμβάνεται, οὐ μία, οὐδὲ
+συνεχής· διαλαμβάνεται δέ, εἰ μεταξύ χρόνος. Τῆς
+δὲ τῷ εἴδει μή μιᾶς οὕ, καὶ εἰ μή διαλείπεται ό
+χρόνος· ὁ μὲν γάρ χρόνος εἷς, τῷ εἴδει δ’ ’ή κίνησις
+ἄλλη· τῆν μὲν γαρ μίαν ἀνάγκη καὶ τῷ εἴδει μίαν
+
+⁸ εἶναι, ταύτην δ’ ἁπλῶς εἶναι μίαν οὐκ ἀνάγκη. Τίς
+μὲν οὖν κίνησις ἁπλῶς μία, εἴρηται.
+
+Ἔτι δὲ λέγεται μία καὶ ἡ τέλειος, ἑάν τε κατά γένος
+&civ τε κατ’ εἶδος ’ᾗ ἑάν τε κατ’ οὐσίαν, ὥσπερ καὶ
+ἐπὶ τῶν ἄλλων τὸ τέλειον καὶ ὅλον τοῦ ἑνός. Ἔστι δ’
+ὅτε κᾶν ἀτελής ᾗ μία, λέγεται, ἑοὶν ᾕμόνον συνεχής.
+
+’Έτι δ’ ἄλλως παραὶ τοὶς εἰρημένας λέγεται μία κίνησις
+
+’ ἡ ὁμαλής. Ἡ γάρ ἀνώμαλος ἔστιν ὠς οὗ δοκεῖ μία,
+ἀλλά μᾶλλον η ὁμαλῆς, ὥσπερ ἡ εὐθεῖα· ἢ γάρ ἀνώ-
+μαλος ὃιαιρετή. Ἔοικε δὲ διαφέρειν ὠς τό μᾶλλον
+καὶ ἧττον.
+
+Ἔστι δ’ ὲν ἀποίσῃ κινήσει τὸ ὁμαλῶς ἦ μή· καὶ γάρ
+ἆίν ἀλλοιοῖτο ὁμαλῶς, καὶ φέροιτο ἐφ’ ὁμαλοῦ, οἷον
+κύκλου ἦ εὐθείας, καὶ περὶ αὔξην ὡσαύτως καὶ φθίσιν.
+
+Ἀνωμαλίας δ’ ἐστὶ διαφορά. ὁτὲμὲν ἐφ’ ᾧ κινεῖται· ἀδό-
+νατον γάρ ὁμαλήν εἶναι τήν κίνησιν μή ἐπὶ ὁμαλῷ
+εγέθει, οἷον ἦ τῆς κεκλασμένης κίνησις ἦ ἢ τῆς
+ελικος ἦ ἄλλου μεγέθους, ὢν μη ἐφαρμόττει τό τυ-
+χόν ἐπὶ τό τυχὸν μέρος. Ὀτὲ δὲ οὔτε ἑν τῷ ποῦ
+οὔτ’ ἐν τῷ ποτὲ οὔτε εἰς ὅ, ἀλλ’ ἐν τῷ ὥς, Τα-
+χυτῆτι γὰρ καὶ βραδυτῆτι ἐνίοτε διώρισται· ἧς μέν
+γάρ τό αὐτὸ ταχος, ὁμαλής· ἧς δὲ μή, ἀνώμαλος.
+
+Διὸ οὐκ εἴδη κινήσεως οὐδὲ διαφοραὶ τάχος καὶ βραδυ-
+τής, ὅτι ποίσαις ἀκολουθεῖ ταῖς διαφόροις κατ’ εἶδος.
+‘fler’ οὐδὲ βαρύτης καὶ κουφότης ’ἡ εἱς τό αὐτό,
+οἷον γῆς πρός αὐτην ἦ πυρός πρὸς αὑτό.
+
+Μία μὲν οὖν ἢ ἀνώμαλος τῷ συνεχής, ἧττον δέ, ὅπερ
+τῇ κεκλασμένῃ συμαίνει φορᾷ· τό δ’ ἧττον μίξις ἀεὶ
+τοῦ ἐναντίου.
+
+Εἰ δὲ πᾶσαν τήν μίαν ἐνδέχεται καὶ ὁμαλήν εἶναι καὶ
+μή, οὐκ ἂν εἴησαν αἱ μη κατ’ εἶδος ἐχόμεναι αὐταὶ
+μία καὶ συνεχής· πῶς γάρ ὀὶν εἴη ὁμαλής ἡ ἑξ ἀλ-
+λοιώσεως συγκειμένη καὶ φορᾶς; δέοι γάρ ᾰῖν ἐφαρ-
+μοττειν.
+
+* Quoniam autem continuus est omnis mmm, et simpli-
+citer quidem unum necesse est et continuum esse: si-
+quidem omnis divisibilis est; et si continuus, unus. Non
+enim omnis fiet continuus omni, sicut neque aliud
+nullum contingenti contingens: sed quorum unum sunt
+extrema. Ultima autem aliquorum quidem non sunt3
+aliquorum autem sunt, sed specie differentia et aequi-
+voca sunt. Quomodo namque tanget aut unum fiet
+ultimum lineae et ambulationis? * Habiti igitur sunt
+et qui neque idem specie neque idem genere sunt.
+Postquam enim cucurrit aliquis, statim febricitabit3 et
+ut lampas ex diffusione, loci mutatio est habita, con-
+tinua autem non: ponitur enim continuum, quorum
+ultima unum sunt. Quare habiti et consequenter sunt,
+quia tempus continuum est. Continuum autem est quo
+motus continui sunt: hoc autem est cum unum ulti-
+
+mum fiat ambobus. ’κ’ Unde necesse est eundem se· ⁸
+
+cundum speciem esse, et unius, et in uno ternpore,
+simpliciter continuum motum et unum. Tempore qui-
+dem, ut non immobilitas intersit: in deficienti enim quie-
+scere necesse est. Multi igitur, et non unus motus est,
+quorum quies in medio est: quare si aliquis motus statu
+occupetur, neque unus est neque continuus. Interci-
+pitur autem, si in medio tempus est. Qui autem specie
+non unuS, non etsi, non deficiat tempus: tempus qui-
+dem enim unum est, specie autem motus alius est.
+Motum enim unum necesse est specie unum esse:
+hunc autem simpliciter unum esse non est necesse.
+Quis igitur motus simpliciter unus est, dictum est.
+
+* Amplius autem dicitur unus et perfectus, sive secundum ¹*
+
+genuS‚ sive secundum speciem, sive secundum substan-
+tiam sit; sicut et in aliis perfectum et totum unius est.
+Est autem aliquando, etsi imperfectus sit, unum dici-
+tur, si solum sit continuus.
+
+*Amplius autem, aliter praeter praedictos dicitur motus unus ⁴
+
+regularis. Irregularis enim non videtur unus, sed magis
+regularis, sicut rectus: irregularis enIm divisibilis est.
+Videtur autem differre sicut magis et minus.
+
+Est autem etin omni motu quod regulariter est aut non.
+Et namque alterabitur regulariter3 et feretur in regulari,
+ut circulo aut rectitudine; et circa augmentum simili-
+ter et decrementum.
+
+* Irregularitatis autem differentia est aliquando quidem in ’
+
+quo movetur. Impossibile enim est regularem esse mo-
+tum non in regulari magnitudine; ut reflexi motus, aut
+obliqui, aut alius magnitudinis, quorum non convenit
+contingens in contingentem partem. Aliquando autem
+neque in ubi, neque in quando, neque in eo ad quod,
+neque in quo, sed in eo quod ut. Velocitate enim et
+tarditate aliquando determinatur. Cuius quidem enim
+velocitas est eadem, regularis est: cuius autem non, ir-
+regularis est.
+
+Unde neque species motus neque differentiae sunt velo-
+citas et tarditas3 quia omnes sequuntur differentes se-
+cundum speciem. Quare neque levitas neque gravitas,
+quae in idem est; ut terrae ad ipsam, aut ignis ad
+ipsum.
+
+* Unus igitur irregularis est quo est continuus, minus au-
+tem: quod quidem reflexivo accidit motui. Quod autem
+est minus, commixtio semper contrarii est.
+
+Si autem omnem unum contingit et regularem esse et
+non, non erunt ipsi qui non secundum speciem ha-
+biti sunt, unus et continuus. Quomodo enim erit re-
+gularis motus ex alteratione compositus et loci muta·
+tione? Indiget enim convenire.
+
+⁴ Seq. cap. ιν.
+Text. 39.
+
+⁶ Text. 40.
+
+Text. 4¹-
+
+Text. 42.
+
+Text. 43.
+
+Text. 44.
+
+· Text. 45.
+

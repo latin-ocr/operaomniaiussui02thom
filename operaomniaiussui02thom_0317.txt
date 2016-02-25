@@ -1,0 +1,180 @@
+' Num. neq.
+
+'z · Num. ιο.
+
+,- 31³³! in hoc
+
+   
+
+, ζ’ per partem pb.
+
+CAP. IV, LECT. vi
+
+quibus est motus; sed quorundam quidem per
+se, quorundam vero per accidens: per se quidem
+omnium eorum quae pertinent ad genus quanti-
+tatis, ut est in motu locali, et etiarn in augmento
+et decrement03 per accidens vero in iis quae per-
+tinent ad qualitatem, ut in= motu alterationis.
+
+8. Deinde cum dicit: Accipiatur enim tem—
+
+pus etc„ manifestat quod dixerat. Et primo quan-
+
+tum ad hoc quod tempus et motus simul divi-
+duntur3 secundo quod motus et ipsum moveri
+simul dividuntur, ibi: Eodem autem modo etc.;
+tertio ostendit idem de motu et eo in quo est
+motus, ibi: Similiter autem demonstrabitur ³² etc.
+Circa primum duo facit: primo ostendit quod ad
+divisionem temporis dividitur motus; secundo
+quod e converso ad divisionem motus dividitur
+tempus, ibi: Similiter‘autem et si motus ³² etc.
+Dicit ergo primo. Ponatur quod tempus in quo
+aliquid movetur sit A, et motus qui est in hoc
+tempore sit B. Manifestum est autem quod si
+aliquid movetur per totam magnitudinem in toto
+tempore, quod in medietate temporis movetur
+per minorem magnitudinem. Idem est autem mo-
+veri toto motu, et per totam magnitudinem; et
+parte * motus et per partem magnitudinis. Unde
+manifestum est quod si in toto tempore movetur
+toto motu, quod in parte temporis movebitur mi-
+nori motu: et iterum diviso tempore, invenietur
+minor motus; et sic semper. Ex quo patet quod
+secundum divisionem temporis dividitur motus.
+Deinde curn dicit: Similiter autem, et si motus etc.,
+ostendit quod ‘ e converso, si motus dividitur, et
+tempus dividitur. Quia si per toturn motum movetur
+in toto tempore, per medium motus movebitur
+in medio tempore, et semper minor erit motus in
+minori tempore, si sit mobile idem vel aeque velox.'
+9. Deinde curn dicit: Eodem autem modo etc.,
+ostendit quod rnotus et moveri simul dividuntur.
+Et circa hoc duo facit: primo ostendit quod ipsum
+moveri dividitur secundum divisionem motus;
+secundo quod motus dividitur secundum divisio-
+nem eius q'uod est moveri, ibi: Est autem et
+
+³¹¹ ¹¹00 ponentem ‘³ etc.
+
+Dicit ergo primo, quod eodem modo probatur
+quod ipsum moveri dividitur secundum divisio-
+nem temporis et motus: et ipsum moveri sit C ²².
+Manifestum θεῖ autern quod non tantum movetur
+aliquid secundum partem motus, quantum secun-
+dum totum motum. Manifestum est ergo quod
+secundum medium motum, pars eius quod est
+moveri, erit minor toto ipso moveri, et adhuc
+minor secundum medietatis medium; et sic sem-
+per procedetur. Ergo sicut tempus et motus sern-
+per dividuntur, ita et ipsum moveri.
+
+ι) ostendit quod etc.-Pro ostendit, dicit Plab. Lin. seq. Quia om.
+Plu pro toto tempore, omni tempore codd. exc. N et ab ‚· per ante me-
+dium om. Ρ; pro motus, quod om. EG, motum Ζ; pro si sit etc. N habet:
+Tenet autem ista ratio et praecedens, si sit idem mobile et aeque velox.
+
+κ) et ipsum moveri sit C.— sicut ipsum motus R, sic NsC, et ipsum
+moveri sic (sit) edd. ab et cet. exc. BZsHl et X qui hab. lac. Lectio
+quam retinemus cum PBZsHI, convenit textui.
+
+λ) DC et CE.- DC et CF P. - Inferius pro respondent, respon-
+derent AIKLOTYa.·-1bi, quia si aliquid, quia si aliud codd. exc. BE
+FGNTpH. - Pro hic argumentari, sic argumentari BsH. hoc argu-
+mentum EsF. h'oc argumentari cet. exc. N.
+
+291
+
+Deinde cum dicit: Est autem et ponentem eto,
+probat quod e converso motus dividitur secun-
+dum divisionem *eius quod est moveri. Sint enim
+duae partes motus DC et CE ², secundum qua-
+rum utramque aliquidlmovetur. Et sic si partibus
+eius quod est moveri respondent partes motus,
+oportet dicere quod toti respondeat totum: quia
+si aliquid plus esset in uno quam in altero, erit hic
+argumentari de moveri ad motum, sicut supra '⁴⁵
+argumentati sumus , quando ostendimus quod
+motus totius est divisibilis in motus partium,
+ita quod nec 't' potest deficere nec excellere.
+Similiter etiam et partes eius quod est moveri,
+non possunt excedere partes motus nec deficere:
+quia enim necesse est accipere secundum utram-
+que partem motus hoc quod est moveri, necesse
+est quod totum moveri sit continuum, correspon-
+dens toti motui. Et ita semper fl* partes eius quod
+est moveri, respondent partibus motus, et totum
+toti; et sic unum dividitur secundum alterurn.
+
+io. Deinde cum dicit: Similiter autem demon-
+strabitur etc., ostendit idem de eo in quo est
+motus. Et dicit quod eodem modo demonstrari
+potest, quod longitudo in qua movetur aliquid
+secundum locum, sit divisibilis secundum divi-
+sionem temporis, et motus, et ipsius moveri. Et
+quod dicimus de longitudine in motu locali, est
+etiarn intelligendum de omni eo in quo est mo-
+tus: nisi quod quaedam sunt divisibilia per ac-
+cidens, sieut qualitates in motu alterationis, ut
+dictum est *. - Εῖ inde est quod omnia ista sic di-
+viduntur3 quia illud quod mutatur est divisibile,
+ut ostensum est supra ³⁸. Unde uno horum diviso,
+oportet quod omnia dividantur. ·
+
+1 1. Deinde cum dicit: Et in ipso finita esse etc.,
+ostendit quod sicut se consequuntur praemissa in
+divisibilitate ⁹, ita se consequuntur in hoc quod est
+esse finita vel infinita: ita quod si unum horum
+fuerit finitum, omnia erunt finita3 et si infinitum,
+similiter*.
+
+12. Deinde curn dicit: Secutum autem maxi-
+me ete.7 ostendit in quo praemissorum 'primo in-
+veniatur divisibilitas et finitum seu infinitum. Et
+dicit quod maxime ab ipso quod mutatur, con-
+sequitur de omnibus aliis quod dividantur, et quod
+sint finita vel infinita: quia illud quod est primum
+naturaliter in motu, est ipsum mobile *, θῖ statim
+ipsi ex sua' natura inest esse divisibile, et esse
+finitum vel infinitum3 et sic ex ipso ad alia de-
+rivatur divisibilitas vel finitum. - Quomodo autem
+ipsum mobile sit divisibile, et per ipsum alia
+dividantur, ostensum est prius ²². Sed quomodo
+etiam hoc sic se habet de infinito, ostendetur in-
+ferius in hoc eodem sexto libro ⁹³.
+
+μ.) Et ita semper. ·- Et ita secundum ABCDKMOTYZpIV et α, Et
+ita EFGHLQRSXsIV et b, Et ita secundum quod N.—In fine pro al-
+terum, alium EG.
+
+ν) se consequuntur praemissa in divisibilitate.- se orn. Pab et codd.
+exc. FLNQRSTsBG3 proin divisibilitate, indivisibiliter ed. a, divi-
+sibilitatem P secuta ed. Venet. 1545. — Pro sequenti consequuntur,
+sequuntur 1².—Pro horum, istorum Pb.—-Pro omnia erunt finita, quod
+retinemus cum PLSab, omnia finita sint Β, et aliud EF, et reli-
+qua Q, et reliquum TsH, et omnia sGZ‚ et alia sl, om. cet. exc. N
+qui transponendo habet: suerit infinitum, et reliqua erunt infinitas et
+si suerit finitum, similiter.
+
+· Num. 5.
+
+· non Pb.
+
+¹ Num. 7.
+
+· Lect. praec.
+n. ιο.
+
+“ cf. lect. ix.
+
+· ipsum quod mu-
+tatur ussa ‚ mo-
+bile om. cet. exc.
+N.
+
+· Num.2 ct seqq3-
+lect. praec. n. 10.
+
+⁶ Lect. xx.
+

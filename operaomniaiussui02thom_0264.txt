@@ -1,0 +1,183 @@
+' existens scm.
+
+¹⁵ motus P.
+
+ae r1'3 aut sanationem ‘⁸
+
+“ ,εἰνηρῐῐεὴεν co-
+es exc. 1³0sz
+
+⁸ infirmitatem
+codd. exc. mx
+
+238
+
+dum augmentum et diminutionem. Sed hoc est
+impossibile, quia mutatio non est de numero
+subiectorum, cum non sit substantia per se subsi—
+stens *2 Non ergo potest esse mutatio mutationis
+ut subiecti.
+
+11. Alio modo potest intelligi ut sit mutatio *
+mutationis ut termini, ita scilicet quod aliquod
+subiectum moveatur ex una specie mutationis in
+alteram, sicut ex calefactione in infrigidationem δ
+ut duae mutationes intelligantur
+duo termini unius mutationis, sicut aegritudo et
+sanitas intelliguntur duo termini mutationis, cum
+homo mutatur a sanitate in aegritudinem. Sed
+non estpossibile quod aliquod subiectum moveatur
+per se de mutatione in mutationem, sed solum
+per accidens. Et quod hoc non sit possibile per
+se, probat dupliciter. Primo quidem sic. Omnis
+enim motus est mutatio ab una specie determi-
+nata in aliam speciem determinatam. Et similiter
+generatio et corruptio, quae condividuntur motui,
+habent determinatos terminos: sed est differentia
+intantum quod generatio et corruptio sunt in ter-
+minum oppositum sic, idest secundum contradi-
+ctionem3 sed motus est in terminum oppositum
+non similiter ⁹⁵, sed secundum contrarietatem. Si
+igitur aliquod subiectum mutetur de mutatione
+in mutationem, puta de aegrotatione in dealba-
+tionem, simul dum mutatur subiectum de sanitate
+in aegritudinem, mutabitur etiam ex hac muta-
+tione in aliam. Dum enim subiectum adhuc est
+partim in termino a qUO, movetur ¹ in terminum
+ad quem, sicut dum aliquis aliquid habet de sa-
+nitate, movetur ad aegritudinem. Si igitur motus
+de sanitate in aegritudinem sit terminus a quo
+alicuius motus, dum adhuc durat ista mutatio,
+qua scilicet aliquis mutatur de sanitate in aegri-
+tudinem, simul mutabitur subiectum de hac mu-
+tatione in aliam, quae succedit in subiecto huic
+mutationi. Manifestum est autem quod quando
+pri-ma mutatio fuerit terminata, scilicet cum iam
+quis ex sanitate mutatus est in aegritudinem ³²,
+poterit deinceps succedere sibi quaecumque alia
+mutatio. Nec hoc est mirum; quia contingit ter-
+minata prima mutatione, subiectum quiescere et
+nulla mutatione mutari; et eadem ratione con-
+tingit quod mutetur alia quacumque mutatione.
+Si igitur est aliquis motus de prima mutatione
+in secundam mutationem, quae succedit in sub-
+iecto, sequetur quod motus sit de prima mu-
+tatione in quamcumque aliam indeterminate. Et
+hoc est contra rationem motus per se: quia omnis
+motus est de determinato ad determinatum ter-
+minum: non enim corpus movetur per se de albo
+in quodcumque, sed in nigrum aut medium. Patet
+ergo quod duae mutationes non sunt per se ter-
+mini mutationis alicuius.
+
+12. Secundo autem probat idem per aliam ra-
+tionem. Quia si mutatio quaedam per se est de
+mutatione praecedente in mutationem subsequen-
+
+δ) ex calefactione in infrigidationemn— -PZsG3 ex frigidarione in
+caIefactionem L, ex calefactione in frigidarionem edd. alm· cet. codd.
+utrum legant cum ab, an omittant particulam in, non liquet
+
+PHYSICORUM ARISTOTELIS LIB. V
+
+tem, non oportet quod semper sit mutatio in
+mutationem contingentem, idest ’¹‘ quam contin-
+gat simul esse cum mutatione praecedente. sicut
+dealbatio simul potest esse curn aegrotatione, sed
+sanatio non potest simul esse cum aegrotatione,
+quia sunt contrariae mutationes. Contingit tamen
+quod aegrotationi succedat in eodem subiecto
+sieut dealbatio, ita et sanatio. Et hoc est quod¹
+dicit, quod mutatio quae ponitur esse de una
+mutatione in aliam, non semper erit ‘⁵' m mutatio--
+nem contingentem, cum quandoque succedat non
+contingen& Et illa etiam mutatio non contingens
+est ex quodam in quoddam alterum* , idest inter
+duos alios terminos. Quare ista mutatio non con-
+tingens, in quam aliquis mutatur de aegrotatione,
+erit sanatio opposita aegrotationi. Quod autem
+hoc sit '¹‘ inconveniens, patet ex propositione su-
+pra * inducta, scilicet quod simul dum est prima
+mutatio, mutabitur in secundam: simul ergo dum
+aliquis movetur ad aegritudinem, mutabitur ad
+sanationem ³¹⁶. Sanationis autem terminus est sani-s
+tas: est enim de quodam in quoddam aliud, ut
+dictum est ’ἦ Unde relinquitur quod simul dum ali·-
+quid movetur ad aegritudinem, moveatur etiam
+sanitatem: quod est moveri ad duo contraria si-. ·
+mul, et intendere ea simu13 quod est impossibile.
+Sic igitur manifestum est quod nulla mutatio est
+per se de una mutatione in aliam. v
+
+Sed quod hoc contingat esse per accidens, ut
+praemisit *, manifestat subdens quod per accidens-
+hoc contingit, sicut quando subiectum nunc mu-
+tatur una mutatione et postmodum alia: puta si
+dicatur aliquid ’¹‘ mutari per accidens de recorda--
+tione in oblivionem, vel in quamcumque aliam
+mutationem: quia subiectum mutationis quando-
+que mutatur in scientiam, quandoque in aliquid
+aliud, puta in sanitatem.
+
+13. Secundam rationem ponit ibi: Amplius au-
+tem in infinitum etc„ et* praemittit duas conditiona-⁴
+les. Quarum prima est, quod si mutatio est muta·
+tionis vel generatio generationis, quocumque modo
+necesse est procedere in infinitum: quia eadem
+ratione generatio secunda habebit aliam genera-
+tionem, et sic ’³‘ in infinitum. ,- Secunda conditio-
+nalis est, quod si ordinentur hoc modo genera-s
+tiones et mutationes, quod mutatio sit mutationis
+et generatio generationis, si ultima [mutatio vel
+generatio erit, necesse est quod prima sit. Hanc
+autem secundam conditionalem sic probat. Sit
+enim aliquid quod generetur simpliciter, puta ignis:
+si generationis est generatio, oportet dicere quod
+etiam ista simpliciter * generatio aliquando gene-
+rabatur, et hoc ipsum fieri fiebat. Cum autem ⁴* q
+fiebat ipsa generatio, nondum erat illud quod ge-
+neratur simpliciter, scilicet ignis3 quia aliquid non
+est dum fit, sed quando iam facturn est, tunc
+primo est. Quamdiu ergo fiebat generatio ignis,
+ignis nondum erat factus: nondum ergo erat. Et
+iterum ipsa generatio suae generationis eadem ra·
+
+ε) Dum enim subiectum adhuc est partim ἰη termino a quo, mo-
+verim· Dum enim est subtectum adhuc in termino a quo, paru'm mo-
+vetur codd„ ab et Vener. 1545 (cf. lect. x. n. ιο, ι3).
+
+   
+     
+      
+
+scilicet rab.
+
+est rab, datr.. v„
+
+alterum ωε
+et codd. ἐ
+
+'⁵ sequatur “3qu
+
+· Νιιιιι. praee. .
+
+sanitatem m ¹
+
+⁶ ut dicit ub
+et codd. exe. m
+ad et ιι qul om. ¹
+
+· Num. pnec- ⁸
+
+aliquid dictur .
+
+· et om. nb.
+
+⁸ eu add. m:
+procedit». v .
+
+, ι· ⁴ ·
+'ereo enda a «ῤ’
+
+,Α ,ι , υ ,· ³⁴⁴- Α ..⁴ ·›. .>‘- ‘ , r ὑπ’
+

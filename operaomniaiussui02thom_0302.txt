@@ -1,0 +1,189 @@
+⁴* Num. seq.
+⁸ Ibid.
+
+' Lect. xxu, nn.
+47 5·
+· Lem-xvii, n. ιο.
+
+⁸ Tertium codd.
+et a h.
+
+‘pergo om. pb.
+
+· impedit ticum
+orvxra.
+
+‘ impediri Ακκο
+rxrpcrqv.
+
+ξι sexto add. sep
+
+⁸ etiam om. m:
+ranno. lac. κκ
+
+““ Lecr.1x‚n.8 sq.
+
+· et om. pnoab.
+
+276
+
+in divisibilia, aut etiam ex indivisibilibus componi.
+Et circa hoc tria facit: primo praemittit quaedam
+quae sunt necessaria ad sequentem probationem;
+secundo ponit propositum, ibi: Haec autem cum
+sint ᾗ etc.; tertio probat, ibi: Quoniam enim osten-
+sum est '³² etc.
+
+Praemittit ergo primo, quod omnis motus est
+in tempore; et hoc probatum est in quarto *ε item
+quod in omni tempore possibile sit moveri; quod
+ex definitionetemporis apparet, quae in quarto *
+data est. Secundum ³¹² est, quod omne quod mo-
+vetur, contingit moveri velocius et tardius3 idest
+quod in quolibet mobili est invenire aliquid quod
+velocius movetur, et aliquid quod tardius. - Sed
+haec propositio videtur esse falsa. Determinatae
+enim sunt velocitates motuum in naturat est enim
+aliquis motus ita velox, quod nullus potest esse
+eo velocior, scilicet motus primi mobilis. Ad hoc
+ergo *- dicendum, quod de natura alicuius rei
+possumus loqui dupliciter: vel secundum ratio-
+nem communem, vel secundum quod ad pro-
+priam materiam applicatur. Et nihil prohibet ᾖ·
+aliquid, quod non impeditur ex ratione communi
+rei, impediri ex applicatione ad aliquam mate-
+riam determinatam; sicut non impeditur ex ra-
+tione formae solis esse plures soles, sed ex hoc
+quod tota materia speciei sub uno sole continetur.
+Et similiter ex communi natura motus non prohi-
+betur quin qualibet velocitate data, possit alia
+maior velocitas inveniri *z sed impeditur ex deter-
+minatis virtutibus mobilium et moventium. Hic
+autem Aristoteles determinat de motu secundum
+communem rationem motus, nondum applicando
+motum ad determinata moventia et mobilia: et
+ideo frequenter talibus propositionibus utitur in
+hoc sexto libro, quae sunt verae secundum con-
+siderationem communem motus, non autem se-
+cundum applicationem ad determinata mobilia.
+Et similiter non est contra rationem magnitudinis,
+quod quaelibet magnitudo dividatur in minores:
+et ideo utitur in hoc '³‘ libro, ut accipiat qualibet
+magnitudine data aliam minorem3 licet appli-
+cando magnitudinem ad determinatam naturam,
+sit aliqua minima magnitudo; quia quaelibet na-
+tura requirit determinatam magnitudinem et par—
+vitatem, ut etiam Ψ in primo *ᾖ dictum est. - Ex
+duobus autem praemissis concludit tertium, sci-
+licet quod in omni tempore dato contingit et '¹‘ ve-
+locius et tardius moveri, quam sit motus datus in
+tali tempore.
+
+to. Deinde cum dicit: Haec autem cum sint etc.,
+ex praemissis concludit propositum. Et dicit quod
+cum praemissa sint vera, necesse est quod tempus
+sit continuum, idest divisibile in semper divisi-
+bilia. Supposito enirn quod haec sit definitio con-
+tinui, necesse est quod tempus sit continuum, si
+
+ε) quae ext CD, B quod est tardius. - quae est CKD, quod est
+tardius Plana cum ed. Venet. 1551.
+
+ζ) universaliter. - similiter ΒΕΘ (forte corrupte pro simplicium cf.
+
+PHYSICORUM ARISTOTELIS LIB. VI
+
+magnitudo est continua; quia ad divisionem ma-
+gnitudinis sequitur divisio temporis, et e converso.
+
+Deinde cum dicit: Quoniam enim ostensum
+est etc„ ostendit propositum, scilicet quod simi-
+liter dividatur tempus et magnitudo. Quia enim
+
+ostensum est * quod velocius pertransit aequale ·
+
+spatium in minori tempore, ponatur quod A sit
+velocius et B sit * tardius, et moveatur B tardius
+per magnitudinem quae est CD, in tempore ΖΙ.
+Manifestum est ergo quod A quod est velocius,
+movetur per eandem magnitudinem in minori
+tempore; et sit tempus illud ZT. Iterum autem
+quia ⁴* A quod est velocius, in tempore ZT
+pertransivit totam magnitudinem quae est CD, Β
+quod est tardius ⁸, in eodem tempore pertransit
+minorem magnitudinem, quae sit CK. Et quia B
+quod est tardius, pertransit magnitudinem CK* in
+ternpore ZT, A quod est velocius, pertransibit
+
+'eandem magnitudinem adhuc in minori tempore;
+
+et sic tempus ZT iterum dividetur. Et eo diviso,
+
+secundum eandem rationem dividetur magnitudo ·
+
+CK; quia tardius in parte illius temporis movetur
+per minorem magnitudinem. Et si dividitur ma-
+gnitudo, iterum dividetur et tempus3 quia illam
+partem magnitudinis velocius transibit in minori
+tempore. Et sic semper procedetur, accipiendo
+post motum velocioris aliquod ‘⁸ mobile tardius,
+et post tardius iterum velocius; et utendo eo quod
+demonstratum est, scilicet quod velocius pertrans-
+eat aequale in minori tempore, et tardius in ae-
+
+quali tempore minorem magnitudinem *. Sic enim '
+accipiendo id quod est '⁵ velocius, dividemus tem· ⁴
+
+pus3 et accipiendo id quod est tardius, dividemus
+magnitudinem. Si ergo hoc verum est, quod sem·
+per possit talis conversio fieri, procedendo a velo—
+
+ciori in tardius et a tardiori in velocius; et *¹ facta ‘
+
+tali conversione semper fit divisio magnitudinis
+et temporis3 manifestum erit quod omne tempus
+est continuum, idest divisibile in semper divisi-
+bilia, et similiter omnis magnitudo; quia per eas-
+dem et 2‘· aequales divisiones dividitur tempus et
+magnitudo, ut ostensum est.
+
+11. Deinde cum dicit: Amplius autem et ex
+consuetis etc., ponit tertiam rationem *² ad osten-
+dendum quod magnitudo et tempus similiter di-
+viduntur, ex consideratione -unius et eiusdem mo-
+bilis. Et dicit quod manifestum est etiam per
+rationes quae consueverunt dici, quod si tempus
+est continuum, idest divisibile in semper divisi-
+bilia, quod et magnitudo eodem modo continua
+est: quia unum et idem mobile regulariter mo-
+tum, sicut in toto ternpore pertransit totam ma-
+gnitudinem, ita in medio tempore medium ma-
+gnitudinis, et universaliter t· in minori tempore
+minorem magnitudinem. Et hoc ideo contingit,
+quia similiter dividitur tempus sicut et magnitudo.
+
+om. R, concludit G et editiones omnes3 ceteri vulgo habent 98, quod po-
+test et contingit et concludit explicari, sed ex sensu patet quomodo sit
+hoc loco accipiendum: quae sequuntur enim inducuntur per Aristote-
+
+πη), quod non bene exprimit generalem conclusionem quae hic ponitur.—- lem ut argumentum praecedentium, αἱ γὰρ αὑταὶ διαιρέσεις etc„ et talia
+lbi: Et hoc idco contingit, ideo omittunt EpG; pro contingit, quod S. Thomas solitus est reddere per Et hoc ideo contingit vel simile.
+
+»a«
+
+Num. 7.
+
+⁴⁵ tlt om. nab!
+
+2322? ‘¹¹⁰'
+
+⁸ CK ummah. ’
+
+’ allud rab.
+
+⁶ nom. tex. ’
+
+“ cf. num. 2.
+
+ 
+

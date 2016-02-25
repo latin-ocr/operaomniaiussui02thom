@@ -1,0 +1,67 @@
+xvn
+
+Sed si de authenticitate recensionis a dubitare licet, idem licet de authenticitate
+codicum. Illud certum nobis est, textum N longius distare ab originali quam textum E
+vel I, et familiam A ceteris codicibus praecellere. Sed et haec saepius dubium ingerit.
+Quid enim si tota familia A a consensu ceterorum recedit? Quid si tota praeter S vel V,
+qui antiquissimi sunt et nulli bonitate secundi? Profecto, si semper originalem textum
+familiae A, conferendo eius individuos codices, invenire nobis contigisset (nam sicut ex
+collatione familiarum concluditur ad autographum, ita ex collatione affinium ad primum
+, apographum), iudicium de ea certum formare potuissemus. Sed et tunc restaret determinare
+valorem aliorum affinium codicum, ut sciretur unde emendationes sumendae essent primi
+apographi familiae A; nam omnis apographus menda habet, ne dicam mendosus est.
+
+Ne ergo in crimen vertatur, quod nedum unum codicem, sed nec unam familiam
+putavimus assumere tanquam basim nostrae editionis. Hoc enim saepe nec tutum qui-
+dem fuisset, cum periculum incurrere ‚potuissemus introducendi mutationem, quae post
+ulteriora studia praematura v'ideri posset. Satius duximus nunquam relinquere Pianam
+editionem, nisi quando certum erat eam non resumptum iri ab aliquo, cui fortuna
+meliores codices obtulisset. Huius accipe exemplum ex ΙΙΙ, 11, 3 fine (ε); ut per id quod
+dicitur actus, designetur ordo eius ad anteriorem potentiam, et per id quod dicitur in
+potentia existentis, designetur ordo eius ad ulteriorem actum ,· variantes afficiunt verba
+anteriorem et ulteriorem, et quidem
+
+anteriorem et ulteriorem habent PR et edd. Venet. 1551, 1552, 1561, 1564 et 1566;
+
+praecedentem et ulteriorem ACIKLQSTVXYZab et Venet. 1500, 1506, 1517, 1545;
+
+anteriorem et posteriorem DEFGHMO;
+
+anteriorem vel praecedentem et posteriorem vel ulteriorem N.
+
+Numquid lectio familiae A, quam N tanquam variantem inducit, sincera est, cetero-
+rum vero falsa? Affirmantem monemus, pro praecedentem stare unum primum apo-
+graphum, scilicet familiae A; pro anteriorem ad minus du05, sed probabilius tres apogra-
+phos, originales nempe codicum EG, R et HN, ut de ceteris taceamus. Quidquid alii
+hac in re fecissent, istae considerationes nos prohibuerunt praecedentem certo habere
+authenticum. Exemplum quod dedimus, casu se nobis obtulit; tot enim huiusmodi
+loca sunt, ut sponte et non quaerenti se offerant.
+
+Ex codicibus et editis plusquam viginti millia variantium lectionum in scriptis
+nostris collegimus; quarum maior pars nullum valorem haberet, nisi indolem singulo-
+rum codicum et editionum proderent, ac de affinitate testificarentur. Dicendum est no-
+bis quas ex his variantibus prelo non commiserimus.
+
+Primo quidem non notavimus transpositiones verborum tales, quae sensum minime
+variant; quando per concordantiam codicum authenticae indicabantur eorum disposi-
+tiones, immutavimus Pianam nihil annotando. Animadvertimus, quasi omnes transposi-
+tiones editionis a in sequentibus retentas esse.
+
+Secundo omisimus indicare formulas Secundo ibi etc., quae editio Timothei Ve-
+ronensis pro Deinde cum dicit substituit; nam quia saepe Secundo ibi incongrue po-
+nitur in locis ubi in ista editione, ideoque in sequentibus, occurrit, rati sumus unani-
+mitati codicum et priorum editionum semper credendum esse. Quod ad citationes· textus
+Aristotelis a Timotheo introductas attinet, eas conservamus, cum, ut iam diximus ibi
+codices non semper consentiant. Tamen et eas secundum codices expunximus, quando
+ex aliqua circumstantia de interpolatione constabat. Si quis has citationes expungere
+velit omnes, per me licet; in apparatu variantium omnes fideliter inveniet notatas.
+
+Tertio, omissiones vel repetitiones homoteleutorum inobservatas praeterivimus nisi
+toti alicui familiae communes erant; communes enim si sunt, ad characterem familia-
+rum pertinent. Correctiones etiam talium locorum, sive secunda manu in antiquis sive
+simpliciter pro textu in recentibus codicibus inveniantur, non notavimus, quando opti-
+mae intentioni infelix exitus respondit.
+
+Quarto, omisimus corruptiones singulorum verborum, quae a scriptoribus codicum
+saepe intermutantur cum aliis, quibus compendio vell significato vel utroque assimilantur;
+

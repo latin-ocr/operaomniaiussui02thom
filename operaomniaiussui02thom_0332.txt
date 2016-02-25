@@ -1,0 +1,176 @@
+· aufertur anab.
+
+· finita nn.
+
+· Num. 8.
+
+· Num. 9.
+
+’ Cf. n, 2, seqq.
+
+” Cf. num.praec.
+
+306
+
+differt, dummodo ponatur quod quaelibet pars
+magnitudinis accepta sit finita: quod oportet di-
+cere; alioquin tantum moveretur in parte tem-
+poris, quantum in toto. Sic enim manifestum est
+quod per divisionem temporis auferetur ’Ἢ toturn
+spatium infinitum per aliquam finitam ablationem:
+quia cum tempus dividatur in partes finitas ae-
+quales, et tot oporteat esse partes magnitudinis
+quot temporis, sequitur quod spatium infinitum
+consumetur, facta finita ’Ἢ ablatione, eo quod tot
+modis oportet dividi magnitudinem sicut et tem-
+pus. Hoc autem est impossibile. Ergo manifestum
+est quod infinitum spatium no'n pertransitur in
+tempore finito. Et hoc indifferenter, sive magni-
+tudo spatii sit infinita ’¹‘ ex una parte, sive ex utra-
+que: quia eadem ratio est de utroque.
+
+6. Deinde curn dicit: Demonstratis autem his etc.,
+ostendit quod infinitum et finitum similiter inve-
+nitur in mobili, sicut in magnitudine et tempore.
+Et circa hoc tria facit: primo ostendit quod mo-
+bile non est infinitum, si tempus et magnitudo
+sint finita3 secundo quod mobile non est infini-
+tum, si magnitudo sit infinita et tempus finitum,
+ibi: At vero neque infinitum Ἢ etc.; tertio quod
+mobile non potest esse infinitum, si magnitudo
+sit finita et tempus infinitum, ibi: Amplius autem
+et tempore Ἢ etc.
+
+Primum ostendit duabus rationibus. Circa qua-
+rum primam dicit quod demonstrato quod ma-
+gnitudo finita non pertransitur ternpore infinito Ἢ ,
+neque infinita finitostt, manifestum est ex eadem
+causa, quod neque infinitum mobile potest per·
+transire finitam magnitudinem in tempore finito.
+
+ε 0· Accipiatur enim Ἢ aliqua pars temporis finiti. In
+
+illa parte spatium finitum pertransibit non toturn
+mobile, sed pars mobilis, et in alia parte tem-
+poris similiter, et sic de aliis. Et sic oportebit
+accipere tot partes mobilis, quot accipiuntur par-
+tes temporis. Infinitum autem non componitur ex
+partibus finitis, ut ostensum est Ἢ. Ergo sequetur
+quod mobile quod movetur in toto tempore fi-
+nito, sit finitum.
+
+7. Secundam rationem ponit ibi: Quoniam au-
+tem finitum etc. Et differt haec secunda ratio a
+priori, quia in priori assumebatur pro principio
+idem medium ex quo superius Ἢ· demonstrabat: hic
+autem accipitur pro principio ipsa conclusio su-
+
+¹† petius demonstrata. Ostensum est enim supra *,
+
+quod mobile finitum non potest pertransire spatium
+infinitum in tempore finito: unde manifestum est
+quod eadem ratione nec mobile infinitum potest
+pertransire spatium finitum in tempore finito.
+Quia si infinitum mobile pertransit spatium fini-
+tum, sequitur quod etiam finitum mobile pertran-
+seat spatium infinitum: quia cum tarn mobile
+quam spatium sit quantum, datis duobus quantis,
+nihil differt quod eorum moveatur, et quod quie-
+scat. Hoc enim habebitur pro spatio, quod * quie-
+
+β) pertranseat spatium finitum in tempore finito. -- pertranseat
+(pertranseatur Pb) spatium infinitum intempore flm'to PBNpFO et ab,
+mobile finitum pertranseat spatium infinitum in tempore finito L;
+RSVpkl lac. Cf. num. seq. in quo
+
+PHYSICORUM ARISTOTELIS LIB. VI
+scit; et illud pro mobili, quod movetur. Manife-' > ·
+
+stum est enim quod quodcumque ponatur moveri,
+sequitur quod finitum pertranseat infinitum. Μο-
+veatur enim infinitum quod est A, et sit aliqua
+
+pars eius finita quae est CD. Quando totum mo· ·
+
+vetur, haec · pars finita erit secundum aliquod
+signum spatii, quod sit B; et continuato motu,
+iterum alia pars infiniti mobilis fiet iuxta illudspa-
+tium, et sic semper. Unde sicut mobile pertran-
+sit spatium, ita spatium quodammodo * pertransit
+mobile, inquantum successive alternantur diversae
+partes mobilis iuxta spatium. Unde patet quod
+simul accidit infinitum mobile moveri per fini-
+tum spatium, et finitum transire infinitum. Non
+enim aliter est possibile quod infinitum movea-
+tur per spatium finitum, quam quod finitum per-
+transeat infinitum: aut ita quod finitum feratur
+per infinitum, sicut quando mobile est finitum et
+spatium infinitum3 aut ita quod saltem finitum
+metiatur infinitum, sicut cum spatium est finitum
+et mobile infinitum. Tunc enim, licet finitum non
+feratur per infinitum, tamen finitum mensurat
+
+infinitum, inquantum finitum * spatium fit iuxta '
+
+singulas partes mobilis infiniti. Quia ergo hoc est
+impossibile, sequitur quod infinitum mobile non
+pertransit spatium finitum in ternpore finito.
+
+8. Deinde cum dicit: At vero neque infini-
+tum etc., ostendit quod non potest esse mobile
+infinitum, spatio existente infinito et tempore fi-
+nito. Et hoc est quod dicit, quod infinitum mo-
+bile non pertransit infinitum spatium in tempore
+finito. In omni enim infinito est aliquid finitum:
+si igitur mobile infinitum pertranseat spatium in-
+finitum in tempore finito, sequitur quod pertran-
+seat spatium finitum in tempore finito ¹³3 quod
+est contra praeostensa Ἢ. .
+
+9. Deinde cum dicit: Amplius autem etc., dicit
+quod eadem demonstratio erit, si accipiatur tem-
+pus infinitum et spatium finitum. Quia si pertran-
+sit infinitum mobile finitum spatium in tempore
+infinito, sequitur quod in aliqua parte temporis
+finiti pertranseat aliquam partem spatii: et ita in-
+finitum pertransibit finitum in tempore finito;
+quod est contra praeostensa Ἢ.
+
+ιο. Deinde eum dicit: Quoniam autem neque fi-
+nitum etc., ostendit quod finitum et infinitum simi-2
+
+liter invenitur Ἢ in motu, sicut et Ἢ* in praemissis. '
+
+Et dicit quod quia finitum mobile non pertransit
+spatium infinitum, neque infinitum mobile finitum
+spatium, neque infinitum mobile infinitum spa-
+tium in tempore finito; sequitur ex his quod non
+possit esse motus infinitus in tempore finito.
+Quantitas enim motus accipitur secundum quan·
+titatem spatii: unde non differt motum dicere
+
+infinitum aut magnitudinem. Necesse est enim,-
+
+si unum eorum fuerit infinitum, et alterum infi-
+nitum esse, quia non potest esse aliqua pars loci
+mutationis extra locum.
+
+possibile, videlicet quia secus sequeretur illud quod in numm. 6 et 7
+probatum est esse impossibile, nempe quod mobile infinltum pertruu-
+seat spatium finitum tempore finiem- Pro praeostensa, positum E,
+
+similis conclusio habetur. Et revera ostensa positum G, sed expungit ostensa. - ln fine num. aeq. pro
+
+in his duobus numeris ostenditur propositum per argumentum ad im· praeostensa, ostensa EG.
+
+, ῇ-Ἣψ*
+
+  
+     
+
+· mn,
+m »ab - υἱ
+exe. ιο.
+
+· Nam-5507. ¹ ⁴
+
