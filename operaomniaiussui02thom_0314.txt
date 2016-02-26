@@ -1,0 +1,178 @@
+288
+
+PHYSICORUM ARISTOTELIS LIB. VI
+
+LECTIO SEXTA
+
+DUO MODI QUIBUS DIVIDITUR MOTUS: QUAE SIMUL CUM IPSO DIVIDANTUR
+
+Κίνησις δ’ ἐστὶ διαιρετὴ διχῶς '.. ἕνα μὲν τρόπον τῷ * Motus autem est divisibilis dupliciter: uno quidem modo
+
+χρόνῳ, ἄλλον δέ κατά, τοὶς των μερῶν τοῦ κινουμέ-
+νου κινήσεῦς, οἷον, εἰ τό ΑΓ κινεῖται ὅλον, καὶ τό
+AB κινηθήσεται καὶ τὸ ΒΓ.
+
+Ἔστω δή τοῦ μὲν ΑΒ ἡ ΔΕ, τοῦ δὲ ΒΓ ἡ ΕΖ κί-
+νησις τῶν μερῶν. Ἀνάγκη δή τήν ὅλην, ἐφ’ ἧς ’ἡ
+ΔΖ, τοῦ ΑΓ εἶναι κίνησιν· κινήσεται γὰρ κατοί ταύ-
+την, ἐπείπερ ἑκάτερον τῶν μερῶν κινεῖται καθ’ ἑκα-
+τέραν. Οὐθὲν δέ κινεῖται κατὰ τήν τοῦ ἄλλου κί-
+νησιν· ὥστε ἧ ὅλη κίνησις τοῦ ὅλου ἐστὶ μεγέθους
+κίνησις.
+
+Ἔτι δ’ εἰ πᾶσα ἐν κίνησις τινός, ’ἡ δ’ ὅλη κίνησις ’ἦ
+ἐφ’ ἧς ΔΖ, μητε τῶν μερῶν ἐστὶ μηδετέρωυ (μέρους
+γαῖρ ἑκατέρα) μήτ’ ἄλλου μηδενός <06 γάρ ’ἢ ὅλη
+ὅλου, καὶ τοὶ με’ η τῶν μερῶν· τοὶ δε μέρη τῆς ΔΖ
+τῶν ΑΒΓ καὶ οὐδένων ἄλλων· πλειόνων γάρ οὑκ ἦν
+μία κίνησις), κάν ἦ ὅλη κίνησις εἴη ἂν τοῦ ΔΒΓ
+μεγέθους.
+
+Ἔτι δ’ εἰ μέν ἐστιν ἄλλη τοῦ ὅλου κίνησις, οἷον ἔφ’ ἧς
+ΘΙ, ἀφαιρεθήσεται ἀπ’ αὗτῆς ἡ ε’κοίτερων τῶν με-
+ρῶν κίνησις· αὗται δ’ ἴσαι ἔσονται ταῖς ΔΕ ΕΖ· μία
+
+οὶρ ἑνὸς κίνησις· ὥστ’ εἰ μὲν ὅλη διαιρεθήσεται ή
+ξΙ εἷς τοὶς τῶν μερῶν κινήσεις, ἴση ἔσται ἡ ΘΙ τῇ
+ΔΖ· εἰ δ’ ἀπολείπει τι, οἷον τὸ ΚΙ, αὕτη οὐδενὸς
+ἔσται κίνησις· οὔτε γοὶρ τοῦ ὅλου, οὔτε τῶν μερῶν,
+διοὶ τὸ μίαν εἶναι ἑνός, οὔτε ἄλλου οὐθενός· ἡ γάρ
+συνεχὴς κίνησίς ἐστι συνεχῶν τινῶν· ὡσαύτως δὲ καὶ
+εἰ ὑπερβάλλει κατοί τήν διαίρεσιν. “Ὦστ’ εἰ τοῦτο
+ἀδύνατον, ἀνάγκη τήν αὐτήν εἶναι καὶ ἴσην. Αὕτη
+μὲν οὖν ἡ διαίρεσις κατοί τοὶς τῶν μερῶν κινήσεις
+
+ἐστί, καὶ ἀνάγκη παντὸς εἶναι τοῦ μεριστοῦ αὐτήν.’
+
+Ἀλλη δὲ κατσὶ τὸν χρόνον· ἐπεὶ γάρ ἅπασα κίνησις ἑν
+χρόνῳ, χρόνος δ’ἒ. πᾶς διαιρετός, ἐν δέ τῷ ἑλοίττονι
+ἑλοίττων ἡ κίνησις, ἀνάγκη πᾶσαν κίνησιν διαιρεῖ-
+σθαι κατα τόν χρόνον.
+
+Ἐπεὶ δὲ πᾶν τό κινούμενον ’ἑν τινι κινεῖται καὶ χρόνον
+τινοί, καὶ παντός ἐστι [κινουμένου] κίνησις, ἀνάγκη
+τοὶς αὐτας εἶναι διαιρέσεις τοῦ τε χρόνου καὶ τῆς
+κινήσεως καὶ τοῦ κινεῖσθαι καὶ τοῦ κινουμένου, καὶ
+ἐν qi ἡ κίνησις· πλήν οὖ πάντων ὁμοίως, ἐν οἷς ἧ
+κίνησις, ἀλλά τοῦ μὲν ποσοῦ καθ’ αὑτό, τοῦ δὲ
+ποιοῦ κατά συμβεβηκός.
+
+Εἰλήφθω γὰρ ὁ χρόνος ἑν ᾧ κινεῖται ἐφ’ ᾦ Α, καὶ ἡ κί-
+νησις ἐφ’ ᾦ Β. Εἰ οὖν τήν ὅλην ἐν τῷ παντὶ χρόνῳ
+κεκίνηται, ἐν τῷ ἡμίσει ὲλοίττω, καὶ πάλιν τούτου
+διαιρεθέντος, ἐλάττω ταύτης, καὶ ἀεὶ οὕτως.
+
+Ὁμοίως δέ καὶ εἰ η’ κίνησις διαιρετή, καὶ ὅ χρόνος διαι-
+ρετός· εἰ γαρ τήν ὅλην ἐν τῷ παντί, την ἡμίσειαν
+ἑν τῷ ἡμίσει, καὶ πάλιν τήν ἐλάττω ἐν τῷ ἐλάττονι.
+
+Τὸν αὐτὸν δὲ τρόπον καὶ τό κινεῖσθαι διαιρεθήσεται.
+Ἔστω γαρ ἐφ’ qi Γ τὸ κινεῖσθαι. Karai δή τήν ’ἠμί-
+σειαν κίνησιν ἔλαττον ἔσται τοῦ ὅλου, καὶ πάλιν
+κατά την τῆς ἡμισείας ἡμίσειαν, καὶ ἀεὶ οὕτως.
+
+Ἐστι δὲ καὶ ἐκθέμενον τὸ καθ’ ἑκατέραν τῶν κινήσεων
+κινεῖσθαι, οἷον κατα τε τήν ΔΓ καὶ τήν ΓΕ, λέγειν
+ὅτι τὸ ὅλον ἔσται κατοί τήν ὅλην· εἰ γάρ ἄλλο,
+πλείω ἔσται κινεῖσθαι κατσὶ τήν αὐτὴν κίνησιν, ὥσ-
+περ ἐδείξαμεν καὶ τήν κίνησιν διαιρετήν εἱς τοὶς τῶν
+
+μερων κινησεις οὖσαν· ληφθέντος γὰρ τοῦ κινεῖσθαι
+
+καθ’ ἑκατέραν, συνεχὲς ἔσται τὸ ὅλον.
+
+Ὡσαύτως δὲ δειχθήσεται καὶ τὸ μῆκος διαιρετόν, καὶ
+ὅλως παν ἑν ᾧ ἐστὶν ἦ μεταβολή· πλὴν ἔνια κατα
+συμβεβηκός, ὅτι τὸ μεταβάλλον ἐστὶ διαιρετόν· ἑνὸς
+γοὶρ διαιρουμένου, πάντα διαιρεθήσεται.
+
+tempore3 alio vero secundum motus partium illius quod
+
+mcgvetun tgcsi ipsum AC movetur totum, et AB mo-
+ve itur et .
+
+Sit igitur ipsius quidem AB qui est DE, BC *autem qui ·
+
+est ΕΖ, motus partium. Necesse est igitur totum in
+quo est DZ, ipsius AC esse motum. Movebitur enim
+secundum hunc, qnippe cum utraque partium movetur
+secundum utrumque; nulla enim movebitur secundum
+alterius motum. Quare totus motus totius est magnitu-
+dinis motus.
+
+* Amplius autem, si omnis motus alicuius est; totus au-
+tem motus qui est in quo est DZ, nequepartium est
+neutrae (partis enim utraque est) neque alterius nullius
+(cuius enim totus totius, et partes partium sunt: partes
+autem ipsius DZ sunt ipsarum quae sunt ΑΒΕ, et nul-
+larum aliarum: plurium enim non erat unus motus): et
+utique totus motus erit ipsius ABC magnitudinis.
+
+* Amplius autem, si est quidem totius alius motus: ut in
+quo TI, removebitur ab eo qui sit utrarumque partium
+motus-Hi autem aequales erunt iis quae sunt DEZ:
+unius enim unus motus. Quare si totus quidem divide-
+tur qui est TI in partium motus, aequalis erit qui est
+TI ei qui est DZ. Si vero deficit aliquid, ut quod est
+Kl, hic nullius erit motus: neque enim totius neque
+partium, propter id quod unus unius est, neque alterius
+nullius; continuus enim motus est continuorum quo-
+rundam. Similiter autem est et si excellat secundum
+divisionem. Quare si hoc impossibile est, necesse eundem
+esse et aequalem. Haec igitur divisio secundum partium
+motus est, et necesse omnis esse partibilis ipsam.
+
+* Alius autem secundum tempus. Quoniam enim omnis mo-
+'tus in tempore, tempus autem omne divisibile est, in
+minori autem minor motus; necesse est omnem dividi
+motum secundum tempus.
+
+* Quoniam autem omne quod movetur, in aliquo movetur
+et quodam tempore, et omnis moti est motus; necesse
+est easdem divisiones esse temporis, et motus, et ipsius
+moveri, et eius quod movetur, et eius in quo motus est.
+Sed non omnium similiter est in quibus motus est: sed
+quanti quidem secundum seipsum, qualis autem secun-
+dum accidens.
+
+Accipiatur enim tempus in quo movetur in quo A, et mo—
+tus in quo B. Si igitur secundum toturn motum in toto
+tempore est motum, in medio per minorem; et iterum
+hoc diviso, per minorem hoc, et sic semper.
+
+Similiter autem et si motus divisibilis sit, et tempus divisi-
+bile. Si enim per totum in toto, per medium in medio;
+et iterum per minorem in minori.
+
+* Eodem autem modo et ipsum moveri dividetur. Sit enim
+in quo est C ipsum moveri. Secundum igitur medium
+motum, minor erit tot0; et iterum secundum medietatis
+medium, et sic semper. ·
+
+Est autem et ponentem secundum utrumque motum ipsum
+moveri, ut secundum DC et (ΞΕ, dicere quod totum
+erit secundum totum. Si namque aliud plus, erit ipsum
+moveri secundum eundem motum, sicut determinavi-
+mus et motum divisibilem in partium motus esse. Ac-
+cepto enirn ipso moveri secundum utrumque, continuum
+erit totum.
+
+* Similiter autem demonstrabitur et longitudo divisibilis, et
+omnino illud omne in quo est mutatio, praeter quae·
+dam quae secundum accidens. Quod enim mutatur, est
+divisibi1e3 uno enim diviso, omnia dividentur.
+
+'Tenen
+
+· Text. 35.
+
+·ren. ³⁶-
+
+”rue 37.
+
+· Text. 38.
+
+‘ Text. 39.
+
+ 
+

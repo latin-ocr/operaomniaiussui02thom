@@ -1,0 +1,170 @@
+¹* Num. seq.
+
+⁸ sit DEFGHNORZ.
+
+· aliquis codd.
+α.
+
+’ etmotis Μ, mo-
+tis cet. exc
+LOSTz-rCFGuQY.
+
+· et om. neroum
+
+ 
+
+’ 4 non est continuus, hic ostendit idem
+»γ = rationibus communibus et logicis. Et
+circa hoc duo facit: primo dicit de quo est in-
+tenti0; secundo probat propositum, ibi: Omne
+enim quod movetur ³² etc. Dicit ergo primo, quod
+si aliquis velit rationabiliter, idest logice, intendere
+ad propositum ostendendum, videbitur hoc idem
+sequi, scilicet quod motus reflexus non est ²³³ con-
+tinuus, ex rationibus quae ponentur.
+
+2. Deinde cum dicit: Omne enim quod move-
+tur etc., ostendit propositum: et primo solum
+in motu reflexo locali; secundo communiter in
+omnibus motibus, ibi: Amplius et ex his manife-
+stum ³¹³ etc. Prima ratio talis est. Omne quod move-
+tur continue, a principio sui motus serebatur sicut
+in finem ad hoc ad quod pervenite secundum
+loci mutationem, nisi fuerit aliquid prohibens (quia
+a prohibente potuisset in aliam partem deflecti).
+Exemplificat autem hanc propositionem, dicens
+quod si aliquid ἦ· per motum localem pervenit ad
+B, non solum quando propinquum erat, sed statim
+quando incepit moveri, movebatur ad B: non est
+enim aliqua ratio quare magis moveatur ad B
+nunc quam prius. Et simile est in aliis motibus.
+Si autem ita sit quod motus reflexus sit continuus,
+verum erit dicere quod id quod movetur ab A
+in C, et iterum reflectitur in A, continue move-
+tur. Ergo in prima parte motus qui est ab A in
+C, movebatur ad terminum ultimae partis qui est
+A, et sic dum movetur ab A, movetur ad A.
+Sequitur ergo quod simul moveatur contrariis
+motibus: quia in motibus rectis ⁵* contrarium est
+moveri ab eodem et ’³ in idem3 in motibus autem
+
+circularibus non est contrarium. Hoc autem est
+
+impossibile, quod aliquid simul moveatur contra-
+riis motibus: ergo impossibile est quod motus
+reflexus sit continuus.
+
+3. Deinde cum dicit: Simul autem et ex hoc etc.,
+ex eodem medio ducit ad aliud inconveniens. Si
+enim aliquid, dum movetur ab A, movetur ad A;
+non autem potest moveri ad A nisi ex aliquo
+contraposito, quod sit C, in quo mobile nondum
+fuit cum incipit moveri ab A: sequitur quod ali-
+quid movetur ex illo termino in quo non est;
+quod est impossibile. Non enim potest aliquid
+recedere a loco in quo non est β. Sic ergo im-
+possibile est quod motus reflexus sit continuus.
+Et si hoc est impossibile, necesse est quod in
+puncto reflexionis mobile quiescat, scilicet in C.
+Ex quo patet quod non est unus motus; quia
+motus qui distinguitur per interpositionem quietis,
+non est unus.
+
+4. Deinde cum dicit: Amplius et ex his etc.,
+probat idem universalius in quolibet genere mo-
+tus, tribus rationibus. Quarum prima talis est.
+Omne quod movetur, movetur aliqua specierum
+
+a) serebatur sicut in finem ad hoc ad quod pervenie.—- serebatur
+in finem ad quem pervenit PTb,· sicut om. AiJfflKMvavas pro fi-
+nem, fine FNRZ: ad quod om'. E.
+
+β) quod est impossibile... non σει- IIoc homoteleuton, quod omit-
+
+PHYSICORUM ARISTOTELIS LIB. VIII
+
+motus supra * assignatarum: et similiter omne qu‘od vav, ¹ect· ιι· ¹
+quiescit oportet quod quiescat aliqua quietum ’¹‘ op· ² 4⁸1²oe v·
+
+positarum praedictis motibus. Ostensum est enim
+supra in quinto ⁴⁵, quod non potest esse alius mo-
+tus praeter assignatos. Accipiamus ergo aliquem
+motum distinctum ³* ab aliis motibus hoc modo,
+quod sit differens specie ab aliis, sieut dealbatio
+differt a denigratione; non autem sic quod rno-
+tus qui accipitur distinguatur ab aliis sicut una
+pars motus ab aliis partibus eiusdem motus,' ut
+una pars dealbationis distinguitur ab aliis parti-
+bus dealbationis eiusdem. Accepto ergo uno tali
+motu sicut dictum est, verum est dicere quod
+illud quod non semper movetur hoc motu, ex
+necessitate prius quiescebat opposita quiete:'sicut
+quod non semper dealbatur, aliquando quiesce-
+bat quiete opposita dealbationi. Sed* haec propo-
+sitio non esset vera, si aliqua pars determinata mo—
+tus acciperetur: non enirn est necesse ut id*quod
+non semper movebatur hac parte dealbationis,
+quod antea quiesceret quiete opposita3 quia antea
+etiam dealbabatur alia parte dealbationis. Et pro· ,
+pter hoc signanter dixit: et non si aliqua pars
+est totiuS. Hanc autern propositionem sic probat.
+Duorum ’³ privative oppositorum necesse est, cum ‘
+unum non inest, alterum inesse susceptibili: quies
+autem opponitur motui privative: ergo si mobile
+erat quando sibi motus non inerat, ex necessitate
+sequitur quod tunc quies sibi inesset. Hac ergo· ’
+propositione probata, ex ratione supra ⁴⁵ posita assu-
+mit * minorem, dicens quod si motus recti contra-
+rii sunt qui est ab A ad C, et qui est a C ad A;
+et non contingit simul esse motus contrarios:
+manifestum est quod quando movebatur ab A
+ad C, non movebatur tunc a C ad A; et sic isto
+motu qui est a C ad A non semper movebatur.
+Unde secundum propositionem praemissam, ne-
+cesse est quod mobile prius quiesceret quiete op-
+posita. Ostensum est autem in quinto ²⁸, quod mo··
+tui qui est a C, opponitur quies quae est in C:
+ergo quiescebat in C. Non ergo motus reflexus
+erat unus et continuus, cum distinguatur per in-
+terpositionem quietis.
+
+5. Secundam rationem ponit ibi: Amplius ‹zu-⁴
+tem et haec ratio etc.: quae ’ talis est. Simul cor—
+rumpitur non album et generatur album: et e
+contrario simul corrumpitur album et fit * non
+album. Sed si motus reflexus in quolibet genere
+sit continuus, sequetur quod continue 'alteratio
+terminetur ad album, et incipiat ex albo rece-
+dere, et quod non quiescet ibi aliquo tempore:
+alioquin non esset continua alteratio, si interpo-
+neretur quies. Sed sicut dictum est, cum fit al-
+bum, corrumpitur non album; et cum receditur
+ab albo, fit non album ⁷. Sequetur ergo quod
+simul corrumpatur non album, et fiat non album:
+quia ista tria sunt in eodem tempore, scilicet fieri
+album, et corrumpi non album , et iterum fieri
+
+tunt PABCIKMQTVXYab, restituimus ex ceteris codicibus; pro a 1000,
+
+de Ioco habent EG.
+γ) et cum receditur ab albo, fit non album. — Hoc iterum homot-
+
+om. PAC1KMQTVXY; pro ab albo, de albo BDF.
+
+· · Lect. ιιι.
+
+affirma*
+
+'aeram
+
+· Μ om. rb.
+
+ἵ Num. 2.
+
+· sumit rb, ali-
+quis amnesi-a. ¹
+
+'12e‹=t.1x,n.3.¹
+
+ammae:
+

@@ -1,0 +1,193 @@
+{j ,
+,ᾗ
+,ὴ
+
+4²*
+2⁵
+
+.
+
+ 
+
+CAP. 11, LECT. 111 273
+
+LECTIO TERTIA
+
+TEMPUS 1N DIVISIBILITATE MAGNITUDINEM SEQUITUR ET E CONVERSO
+
+Ὀμοίως δ’ ἀνάγκη τῷ μήκει καὶ τῇ κινήσει ἀδιαίρετον
+εἶναι τόν χρόνον, καὶ συγκεῖσθαι ἐκ τῶν νῦν οντων
+ἀδιαιρέτων·
+
+εἰ γάρ πᾶσα, διαιρετός, ἐν τῷ ἐλάττονι δὲ τό ἱσοταλές
+δίεισιν ἔλαττον, διαιρετὸς ἔσται καὶ ὀ χρόνος. Εἰ
+δ’ ὁ χρόνος διαιρετός ἐν ᾦ φέρεταί τι τήν A, καὶ
+ἡ τὸ Α ἔσται διαιρετῆ.
+
+Ἐπεὶ δὲ πᾶν μέγεθος εἰς μεγέθη διαιρετόν (δέδεικται
+γάρ ὅτι ἀδύνατον ἐξ ἀτόμων εἷναί τι συνεχές, με’-
+γεθος δ’ ἐστὶν ἅπαν συνεχές), ἀνάγκη τὸ θᾶττον ἐν
+τῷ ἴσῳ χρόνῳ, μεῖζον καὶ ἐν τῷ ἐλάττονι ἴσον καὶ
+ἐν τῷ ἐλάττονι πλεῖον κινεῖσθαι, καθάπερ ὀρίζονταί
+τινες τό θᾶττον.
+
+Ἔστω γάρ τὸ ἐφ’ ᾦ A τοῦ ἐφ’ ᾤ Β θᾶττον. Ἐπεὶ τοίνυν
+θᾶττόν ἐστι τὸ πρότερον μεταβάλλον, ἐν ᾧ χρόνῳ
+τὸ A μεταβέβληκεν ἀπὸ τοῦ Γ εὶς τὸ Δ, οἷον ἐν
+τῷ ΖΗ, ἐν τούτῳ τὸ Β, οὔπω ἔσται πρὸς τῷ Δ,
+ἀλλ’ ἀπολείψει· ὥστ’ ἐν τῷ ’ίσῳ χρόνῳ πλεῖον δίεισι
+τὸ Θόἰττον.
+
+Ἀλλά μήν καὶ ἐν τῷ ἐλάττονι, πλεῖον· ἑν ᾦ γάρ τὸ A
+γεγένηται πρὸς τῷ Δ, τὸ Β ἔστω πρὸς τῷ Ε τό
+βραδύτερον ὄν. Οὐκοῦν ἐπεὶ τό Α πρός τῷ Δ εγέ-
+νηται ἐν ἅπαντι τῷ ΖΗ χρόνῳ, πρὸς τῷ Θ εσται
+ἐν ἐλάττονι τούτου· καὶ ἔστω ἐν τῷ ΖΚ. Τὸ μὲν
+οὖν ΓΘ, ὃ διελήλυθε τὸ A, μεῖζόν ἐστι τοῦ ΓΕ, ὁ
+δὲ χρόνος ὀ ΖΚ ἐλάττων τοῦ παντὸς τοῦ ΖΗ· ὥστε
+ἐν ἐλάττονι μεῖζον δίεισι. ’
+
+Φανερόν δὲ ἐκ τούτων καὶ ὅτι τό θᾶττον ἐν ἐλάττονι
+χρόνῳ δίεισι τὸ ἴσον.
+
+Ἐπεὶ γάρ τήν μείζω ἐν ἐλάττονι διέρχεται τοῦ βραδυ-
+τέρου, αὐτὸ δὲ καθ’ αὐτὸ λαμβανόμενον ἐν πλείονι
+χρόνῳ τήν μείζω τῆς ἐλάττονος, οἷον τήν ΑΜ τῆς
+ΛΞ, πλείων ἀν ε’ίη ό χρόνος ὁ ΠΡ, ἐν ᾦ τήν ΛΜ
+διέρχεται, ἦ ὀ ΠΣ, ἐν ᾦ τήν ΛΞ. Ὥστε εἱ ὀ ΠΡ
+χρονος ἐλάττων ἐστὶ τοῦ ΠΧ, ἐν ᾤ τὸ βραδύτερον
+διέρχεται τήν ΛΞ, καὶ ὁ ΠΣ ἐλάττων ἐσται τοῦ
+ἐφ’ ᾤ ΠΧ· τοῦ γάρ ΠΡ ἐλάττων, τὸ δὲ τοῦ ἐλάτ-
+τονος ἐλαττον καὶ αὐτὸ ἔλαττον· ὥστε ἐν ἐλάττονι
+κινηθήσεται τὸ ἴσον.
+
+Ἔτι δ’ εἱ πᾶν ἀνάγκη ἦ ἐν ἴσῳ χρόνῳ ἦ ἐν ἐλάττονι
+ἦ ἐν πλείονι κινεΐσθαι, καὶ τὸ μὲν ἐν πλείονι βρα-
+δύτερον, τὸ δ’ ἐν ἴσῳ ὶσοταχές, τὸ δὲ θᾶττον οὔτε
+ἱσοταχές οὔτε βραδύτερον, οὔτ’ ἂν ἐν ’ίσῳ οὔτ’ ἐν
+πλείονι κινοῖτο τὸ θᾶττον. Λείπεται οὖν ἐν ἐλάτ-
+τονι, ὥστ’ ἀνάγκη καὶ τό ἴσον μέγεθος ἐν ἐλάττονι
+χρόνῳ διιέναι τὸ θᾶττον.
+
+Ἐπεὶ δὲ πᾶσα μὲν κίνησις ἐν χρόνῳ, καὶ ἐν ἅπαντι χρόνῳ
+δυνατόν κινηθῆναι, πᾶν δέ τό κινούμενον ἐνδέχεται
+καὶ θᾶττον κινεῖσθαι καὶ βραδύτερον, ἐν ἅπαντι
+χρόνῳ ἔσται τὸ θᾶττον κινεῖσθαι καὶ βραδύτερον.
+
+Τούτων δ’ ὄντων, ἀνάγκη καὶ τόν χρόνον συνεχῆ εἶναι.
+Λέγω δὲ συνεχὲς τὸ διαιρετόν εἰς ἀεὶ διαιρετά· τού-
+του γοὶρ ὑποκειμένου τοῦ συνεχοῦς, ἀνάγκη συνεχῆ
+εἶναι τὸν χρόνον.
+
+Ἐπεὶ γάρ δέδεικται ὅτι τὸ θᾶττον ἐν ἐλάττονι χρόνῳ
+δίεισι τὸ ἴσον, ἔστω τὸ μὲν ἐφ’ ᾧ A θᾶττον, τό δ’
+ἐφ’ ᾦ Β βραδύτερον, καὶ κεκινήσθω τὸ βραδύτερον
+τὸ ἐφ’ ᾦ ΓΔ μέγεθος ἐν τῷ ΖΗ χρόνῳ· δῆλον τοίνυν
+ὅτι τό θᾶττον ἐν ἐλάττονι τούτου κιντῖσεται τό
+αὐτὸ μέγεθος· καὶ κεκινήσθω ἐν τῷ ΖΘ. Πάλιν δ’
+ἐπεὶ τὸ θάττον ἐν τῷ ΖΘ διελήλυθε τήν ὅλην τήν
+ΓΔ, τὸ βραδύτερον ἐν τῷ αὐτῷ χρόνῳ τήν ἐλάττω
+δίεισιν· ἔσται οὖν ἐφ’ ἦς ΓΚ. Ἐπεὶ δὲ τὸ βραδύτε-
+
+ον τὸ Β ἐν τῷ· ΖΘ χρόνῳ τήν ΓΚ διελήλυθε, τό
+εᾶττον ἐν ἐλάττονι δίεισιν· ὥστε πάλιν διαιρεθήσε-
+
+Opp. D. ‘summa T. 11
+
+ 
+
+* Similiter autem necesse longitudini et motui indivisibile
+esse tempus, et componi ex ipsis nunc existentibus indi-
+visibilibus. ,
+
+Si enim omnis divisibilis est, in minori autem tempore
+aequaliter velox transibit minorem, divisibile erit et
+ternpus. Si autem tempus divisibile erit in quo fertur ali-
+quid per ipsum A, et quae est ipsum A erit divisibile.
+
+* Quoniam autem omnis magnitudo in magnitudines divi-
+sibilis est (ostensum est enim quod impossibile est
+ex atomis continuum esse aliquod: magnitudo autem
+omnis continua est), necesse est velocius in aequali tem-
+pore maius, et in minori plus moveri, sicut definiunt
+quidam ipsum velocius.
+
+Sit enim ipsum in quo A eo in quo B velocius. Quoniam
+igitur velocius est id quod primum mutatur, in quo
+tempore ipsum A mutatum est ab ipso C in ipsum D,
+scilicet in tempore ΖΙ, in hoc ipsum B non erit iuxta
+ipsum D, sed deficiet. Quare in aequali tempore plus
+abibit velocius.
+
+* At vero et in minori plus. In quo enim A factum est iuxta
+ipsum D, ipsum B erit iuxta E, cum tardius est. Ergo
+quoniam ipsum A ad ipsum D factum est in omni in
+quo est ΖΙ tempore, ad ipsum T erit in minori hoc;
+et erit in quo ZK. Ipsum quidem igitur CT, quod
+transierit ipsum A, maius est ipso CE. Tempus autem
+quod est ZK, minus est omni eo quod est ZI: quare
+in minori transibit maius.
+
+’¹‘ Manifestum autem ex his et quod velocius in minori tem-
+pore pertransibit aequale.
+
+Quoniam enim maiorem in minori transit tardiori, ipsum
+autem secundum seipsum acceptum in pluri tempore
+maiorem minori, ut quae est LM ea quae est LX; plus
+utique erit tempus quod PR, in quo ipsum A transit
+LM, quam quod est PS, in quo transit ipsum LX.
+Quare si PR tempus minus est eo in quo est PH, in
+quo quod est tardius transit ipsum LX, et quod est
+ΡΞ tempus, minus est eo in quo est PH: ipso enim
+PR minus est, minore autem minus et ipsum minus
+est. Quare in minori movebitur per aequale.
+
+* Amplius autem, si omne necesse quidem est aut in aequali
+aut in minori autin pluri moveri; et quod quidem in
+pluri, tardius est, quod autem in aequali, aeque velox3
+velocius autem non est aequaliter velox neque tardius:
+neque utique in pluri aut aequali movetur ipsum velo-
+cius. Relinquitur igitur in minori. Quare necesse est ae-
+qualem magnitudinem minori tempore transire velocius.
+
+* Quoniam autem omnis quidem motus in tempore est, et
+in omni ternpore possibile est moveri; omne autem
+quod movetur, contingit et velocius moveri et tardius3
+in omni tempore erit ipsum velocius et tardius moveri.
+
+Haec autem cum sint, necesse est et tempus continuum
+esse. Dico autem continuum, quod est divisibile in sern-
+per divisibilia. Huiusmodi enim supposito continuo,
+necesse est et tempus continuum esse.
+
+* Quoniam enim ostensum est quod velocius in minori
+ternpore transibit aequale, sit quod quidem in quo A ve-
+locius, quod autem est in quo B tardius, et sit motum
+id quod tardius est per magnitudinem quae est CD,
+in quo est ΖΙ tempore. Manifestum igitur est quod
+velocius in minori quam hoc movebitur per eandem
+magnitudinem3 et sit motum A in quo est ZT. Iterum
+autem, quoniam A quod est velocius, in eo quod est
+ZT transivit totam quae est CD, ipsum tardius in
+eodem ternpore minorem transit: sit igitur in quo CK.
+Quoniam autem tardius quod est ipsum B, in eo quod
+
+35
+
+⁸ Seq. cap. ι.
+Text. ιο.
+
+“ (Σορ.η.Τ,
+
+‘ Text. 12.
+
+'² Text. ¹3-
+
+· Text. ¹4·
+
+“ Text. ¹5·
+
+⁸ Text. 16.
+
+. u.
+

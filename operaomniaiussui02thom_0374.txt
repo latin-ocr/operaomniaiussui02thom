@@ -1,0 +1,186 @@
+' Cf. num. 1.
+
+⁶ Num. 5.
+
+· rationem rrab.
+
+⁶ Num. seq.
+
+· vero add. nor,
+autem add. cmm
+
+ooooo
+
+⁶ Lect. vu, n. ιο.
+
+“ obsectione
+
+' [σοι. ιιι
+
+· Num. 7.
+
+m CN.
+
+,n.5.
+
+348
+
+prosequitur quantum ad aliam partem dubitatio-
+nis, scilicet de motu circulari et recto *. Et primo
+obiicit ad hoc quod motus circularis sit aeque
+velox motui recto; secundo obiicit in contrarium,
+ibi: At vero si sunt comparabilia '¹‘ etc. Circa pri-
+mum duo facit: primo obiicit ad propositum; se-
+cundo excludit cavillosam responsionem *‚ ibi:
+Amplius nihil differt ²* etc. Obiicit autem primo
+sic. Motus circularis et rectus sunt differentiae
+motus localis, sicut et motus sursum et deorsum.
+Sed statim necesse est quod aliquid velocius aut
+tardius moveatur, si unum movetur sursum, aliud '¹‘
+deorsum3 vel etiam si idem quandoque movetur
+sursum, quandoque deorsum. Videtur ergo quod
+similiter oporteat dicere quod motus rectus sit
+velocior aut tardior circulari; sive idern sit quod
+movetur circulariter et recte, sive aliud et aliud. -
+Est autem considerandum quod in hac ratione
+non facit mentionem de aeque velociss, sed de ve-
+lociori et tardiori, quia haec ratio sumitur ex si-
+militudine motus qui est sursum, cuius principium
+est levitas, et motus qui est deorsum, cuius prin-
+cipium est gravitas; quidam autem existimave-
+runt gravitatem et levitatem idem esse velocitati
+et tarditati (quod in quinto * removit).
+
+4. Deinde cum dieit': Amplius nihil differt etc.,
+excludit quandam cavillosam obviationem ἦ. Pos-
+set enim aliquis propter rationem praemissam con-
+cedere quod motus circularis esset aut velocior
+aut tardior quam rectus, non autem aeque velox.
+Et hoc excludit, dicens quod nihil differt quan-
+tum ad praesentem rationem, si aliquis dicat quod
+necessarium est quod id quod movetur circulari-
+ter, moveatur⁷velocius aut tardius quarn id quod
+movetur recte; quia secundum hoc motus circu-
+laris erit maior vel minor in velocitate quam
+rectus; undefsequitur quod etiam esse possit '¹‘
+aequalis. Et quod hoc sequatur manifestat sic.
+Sit A tempus in quo aliquid velocius motum
+pertranseat ipsum B, qui ²¹⁵ est circulus: aliud au-
+tem tardius in eodem tempore pertranseat ipsum
+C, quod* est recta linea. Quia ergo velocius in
+eodem tempore pertransit maius, sequetur quod
+B circulus sit aliquid maius quarn C linea recta:
+sic enim supra in sexto ²³² definivimus velocius.
+Sed ibidem ³² etiam diximus quod velocius in mi-
+nori tempore pertransit aequale. Ergo erit acci-
+pere aliquam partem huius temporis quod est A,
+in qua corpus quod circulariter movetur, pertran-
+sibit aliquam partem huius circuli quod est B,
+et in eadem parte temporis pertransibit ipsum C;
+cum tamen corpus tardius in toto A tempore
+pertransiret totum C. Sequetur ergo quod illa pars
+circuli sit aequalis toti C, quia idem pertransit
+aequale in aequali tempore. Et sic linea circularis
+erit aequalis rectae, et motus circularis per con-
+sequens aeque velox rectO.
+
+5. Deinde cum dicit: At vero si sunt compa-
+
+β). dc aeque veloci. - lta codd. et alu P secuta Vcnct. 1504: de
+κνανι et levi, non bene; nam s. Thomas intendit explicare quare Ari-
+stotcles. cum in superiori ratione locutus sit de motu aequali, maiore
+ct minore in velocitate, in hac ratione dc »notu aequali tacuerit.
+
+γ) necessarium cst... moveatur.— lta PNORsH ct b,- ESpBF hnb. lac-⁶,
+
+PHYSICORUM ARISTOTELIS LIB. VII
+
+rabilia etc., obiicit in contrarium. Quia si ²⁴ motus
+circularis et rectus sunt comparabiles in velocitate,
+sequitur quod modo dictum est ³¹¹, scilicet quod
+linea recta sit aequalis circulo, propter hoc quod
+aeque velox est quod per aequale movetur. Sed
+linea circularis et linea ’¹¹ recta non sunt compara·-
+biles, ut possint dici aequales: ergo neque motus
+circularis et rectus possunt dici aeque veloces.
+6. Deinde curn dicit: Sed quaecumque non ae-
+quivoca etc„ solvit propositam dubitationem 0. Et
+primo inquirit in communiquid cui sit compa-
+rabile ‘³3 secundo adaptat ad propositum, ibi: Sic
+
+et circa motum * etc. Circa primum tria facit: ·
+
+primo ponit unum quod requiritur ad compara-
+tionem; secundo * secundum, ibi: Aut quia sunt
+in alio *etc.; tertio concludit tertium, ibi: Sic ergo
+
+non solum oportet* etc. Circa primum tria facit: ·
+
+primo ponit quid requiratur ²³⁸ ad comparationem3
+secundo obiicit in contrarium, ibi: Aut primum
+quidem ⁴’ etc.; tertio solvit, ibi: Aut et in his ea-
+dem ratio ‘¹‘ etc.
+
+7. Dicit ergo primo, quod quaecumque non
+sunt aequivoca, videntur esse comparabilia; ita
+scilicet quod secundum ea quae non aequivoce
+praedicantur, possint ea de quibus praedicantur,
+ad invicem comparari. Sicut acutum aequivoce
+sumitur: uno enim modo dicitur in magnitudi-
+nibus, secundum quern modum angulus dicitur
+acutus, et stylus acutus; alio modo dicitur in sa-
+poribus, secundum quem modum vinum dicitur
+acutum3 tertio modo dicitur in vocibus, seeun-
+dum quem modum vox ultima, idest suprema,
+in melodiis, vel chorda in cythara dicitur acuta.
+Ideo ergo non potest fieri comparatio ut dica—
+tur quid sit acutius, utrum stylus aut vinum aut
+vox ultima, quia acutum de eis aequivoce prae-
+dicatur: sed vox ultima potest comparari secun-
+dum acuitatem, ei quae est iuxta ipsam in or·
+dine melodiae, ‘propter hoc quod acutum non
+aequivoce, sed secundum eandem rationem prae·
+dicatur de utraque. Se'cundum hoc ergo poterit
+dici ad propositam quaestionem, quod ideo mo-
+tus rectus et circularis non comparantur in ve-
+locitate, quia velox aequivoce dicitur hic et ibi.
+Et multo minus est eadem ratio velocis in alte-
+ratione et loci mutatione: unde etiam haec multo
+minus comparabilia sunt.
+
+8. Deinde cum dicit: Aut primum quidem ete„
+
+obiicit contra id quod dictum est ²¹². Et dicit quod ”
+
+quantum ad primum aspectum hoc non videtur
+esse verum, quod *³ si aliqua non sunt aequivoca,
+quod sint comparabilia. Inveniuntur enim aliqua
+non aequivoca, quae tamen non sunt compara-
+bilia; sicut hoc ipsum quod est multum, secun-
+dum eandem rationem dicitur de aqua et de
+aere, et tamen non sunt comparabilia aer et
+aqua secundum multitudinem. Si autem non velit
+aliquis hoe concedere quod multum idem signi-
+
+necessart'um est quod id quod movetur circulariter, necessarium est
+quod moveatur cet. et α.
+ὃ) quid cui sit comparabile.- lta codd et b,· quid et cui sir com-
+
+parabile ed. a et Venet. 1504, quid et cui sit aliquid comparabile P
+
+secuta Vener. 1545.
+
+     
+
+'hic ο »ι
+{gg-eta, 12
+
+· Num. pratee⁷
+
+· Iinea om. · ,ο
+ron, ιι lac. ⁴
+
+Ἰώ,
+
+xveu et a ὓ. ε·
+

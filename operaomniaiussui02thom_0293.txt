@@ -1,0 +1,155 @@
+ 
+
+PHYSICORUM
+
+ARISTOTELIS
+
+LIBER VI
+
+ 
+
+LEcTIO PRIMA
+
+OSTENDITUR NULLUM CONTINUUM EX INDIVISIBILIBUS COMPONI
+
+Εἰ δ’ ἐστὶ συνεχὲς καὶ ἀπτόμενον καὶ ἑφεξῆς, ὠς διώρι-
+σται πρότερον, συνεχῆ μὲν ὧν τοὶ ἔσχατα ἐ’ν, ἁπτό-
+μενα δ’ ὦν ἅμα, ἑφεξῆς δ’ ὧν μηδὲν μεταξύ συγ-
+γενές, ἀξύνατον ἐξ ἀδιαιρέτων εινοιί τι συνεχές, οἷον
+γραμμήν ἐκ. στιγμῶν, εἴπερ ’ἡ γραμμή μὲν συνεχές,
+ἡ στιγμή δὲ ἀδιαίρετον.
+
+Οὔτε γοὶρ ἓν τοὶ ἔσχατα τῶν στιγμῶν· οὐ γοί ἐστι τὸ
+μὲν ἔσχατον τὸ δ’ ἄλλο τι μόριον τοῦ ά ιαιρέτου·
+οὔθ’ ἅμα τοὶ ἔσχατα· οὗ γοίρ ἐστιν ἔσχατον τοῦ ἀμε-
+ροῦς οὐδέν· ἕτερον γοὶρ-τὸ ἔσχατον καὶ οὖ ἔσχατον.
+
+‘Eva δ’ ἀνάγκη ’ἤτοι συνεχεῖς εἶναι τοὶς στιγμοίς ἦ ἀπτο-
+μένας ἀλλήλων, ἐξ ὦν ἐστι τὸ συνεχές. ‘O δ’ αὐτὸς
+λόγος καὶ ἐπὶ πάντων τῶν ἀὲικιρέτων. Συνεχεῖς μέν
+δή οὐκ ἂν εἶεν διᾶ. τὸν εἰρημένον λόγον· ἅπτεται δ’
+ἅπαν ἦ ὅλον ὅλου, ἦ μέρος μέρους, ἦ ὅλου μέρος.
+Ἐπεὶ ’δ’ ἀμερὲς τὸ ἀδιαίρετον, ἀνάγκη ὅλον ὅλου
+ἅπτεσθαι· ὅλον δ’ ὅλου ἀπτόμενον οὐκ ἔσται συν-
+εχές· τὸ γάρ συνεχὲς ἔχει τό μὲν ἄλλο τὰ δ’ ἄλλο
+μερος, καὶ διαιρεῖται εἰς οὕτως ἔτερα, καὶ τόπῳ κε-
+χωρισμένα. ·
+
+Ἀλλοὶ μήν οὐδ’ ἑφεξῆς ἔσται στιγμή στιγμῆς ἦ τό νῦν
+τοῦ νῦν, ὥστ’ ἐκ τούτων εἶναι τὸ μῆκος ἦ τὸν χρό-
+νον· ἐφεξῆς μὲν γοίρ ἐστιν ὧν μηθέν ἐστι μεταξύ
+συγγενές, στιγμῶν δ’ ἀεὶ τὸ μεταξύ γραμμή καὶ
+τῶν νῦν χρόνος. =
+
+Ἔτι διαιροῗτ’ ἂν εἰς ἀδιαίρετα, εἴπερ ἐξ ὧν ἐστὶν ε’κοί-
+τερον, εἰς ταῦτα διαιρεῖται. Ἀλλ’ οὗθέν ἦν τῶν
+συνεχῶν εἰς ἀμερῆ διαιρετόν.
+
+'Ano δε γένος οὐχ οἷόντ’ εἶναι μεταξῦ τῶν στιγ ῶν
+καὶ τῶν νῦν οὐθέν· εἰ γοὶρ ἔσται, δῆλον ὠς ητοι
+&Siai ετον ἔσται ἦ Stoa ετόν, καὶ εἰ διαιρετόν, ἦ
+εἰς &gimpa-ot ἦ εἷς ἀεὶ §tuipsa-oi· τοῦτο δὲ συνεχές.
+
+Φανερόν δὲ καὶ ὅτι πᾶν συνεχὲς διαιρετὸν εἰς ἀεὶ διαι-
+ρετά· εἰ γοὶρ εἰς ἀδιαίρετα, ἔσται ἀδιαίρετον ἀδιαι-
+ρέτου ἀπτόμενον· ἓν γάρ τὸ ἔσχατον, καὶ ἅπτεται
+τῶν συνεχῶν.
+
+SYNoPsts. -— 1. Argumentum et divisio textus et libri. - 2. Ex
+definitionibus prius datis continui, contacti et eius quod est con-
+sequenter, sequitur impossibile esse continuum ex indivisibilibus
+componi, v. g. lineam ex punctis. - 3. Subdivisio textus. Pri-
+ma ratio ad ostendendum propositum. Et primo probatur quod
+ex indivisibilibus non componitur continuum neque per modum
+continuationis, neque per modum contactus. a) Eorum ex quibus
+componitur aliquid unum vel per modum continui, vel per mo-
+dum contigui, oportet esse aliqua ultima, quae sint unum, vel
+quae sint simu13 sed in indivisibili non est accipere aliud et
+aliud3 ergo in indivisibili non est accipere ultimum, quod dicitur
+respectu alicuius partis3 ergo etc. — 4. b) Probatur specialiter
+quoad contactum. Cum enim partibus careant indivisibilia, se
+invicem tangere oportet secundum se tota; sed ex duobus, quo-
+rum unum toturn tangit totum aliud, non potest componi con-
+tinuum: nam omne continuum habet partem extra partem tum
+in se ipso, tum etiam in ordine ad locum in his quae positio-
+nem habent; ergo etc. - 5. Probatur secundo quantum ad mo-
+dum eius quod est consequenter. Inter duo puncta est semper
+
+linea media, et inter duo nunc tempus medium; consequenter.
+
+autem est unum alteri, quorum non est medium eiusdem generis3
+
+'³‘ Si autem est continuum, et quod tangit, et consequenter,
+sicut definitum est prius (continua quidem quorum
+ultima unum, quae vero tanguntur quorum simul, con-
+sequenter autem quorum nihil est medium sui generis),
+impossibile est ex indivisibilibus esse aliquid continuum,
+ut lineam esse ex punctis; si vere linea quidem conti-
+nuum est, punctum autem indivisibile.
+
+Neque enim unum sunt ultima punctorum: non est enirn
+hoc quidem ultimum, illud autem aliqua pars indivisi-
+bilis. Neque simul sunt ultima: non enim est ultimum
+ullum impartibilis3 alterum enim est ultimum et cuius
+est ultimum.
+
+’Ἀ Amplius, necesse est aut continua esse puncta, aut tangen-
+tia se ad invicem, ex quibus est continuum: eadem
+autem res est et in omnibus indivisibilibus. Continua
+igitur non erunt propter praedictam rationem. Tangit
+autem omne, aut totum totum, aut pars partem, aut
+totum pars. Quoniam autem impartibile est indivisibile,
+necesse est totum tangere totum. Totum autem toturn
+tangens, non est continuum: continuum enim habet hoc
+quidem aliam, illud vero aliam partem3 et dividitur in
+sic diversas et loco separatas.
+
+At vero neque consequenter erit punctum ad punctum,
+aut ipsum nunc ad ipsum nunc, ut ex his sit longitudo
+aut tempus. Consequenter enim sunt, quorum nullum
+est medium proximum: punctorum autem semper est
+medium linea, et ipsorum nunc tempus.
+
+*Amplius‚ dividerentur in indivisibilia, si ex quibus est utrum-
+que, in ipsa dividitur. Sed nullum est continuorum in
+impartibilia divisibile.
+
+Nullum autem aliud genus potest esse medium punctorum
+et ipsorum nunc. Si namque erit, manifestum est quod
+aut divisibile aut indivisibile erit: et si divisibile, aut
+in indivisibilia aut in semper divisibilia.v Hoc autem
+est continuum.
+
+Manifestum autem est quod omne continuum est divisibile
+in semper divisibilia. Si enim in indivisibilia divideretur
+continuum, esset indivisibile indivisibile tangens: unum
+enim est ultimum continuorum et quae tanguntur.
+
+non ergo linea componitur ex punctis, aut tempus ex nune, sicut
+consequenter se habentibus. — 6. Secunda ratio principalis. Si
+ex indivisibilibus componeretur continuum, in ea divisibile esset3
+proindeque non esset divisibile in infinitum, contra eius definitio-
+nem. - 7. Manifestantur duo supposita in praecedentibus ratio-
+nibus: et primo quod inter duo puncta sit linea media, et inter
+duo nunc tempus. Si sunt duo puncta, oportet ea situ differre,
+alioquin non essent duo sed unum3 etcum non possint se tan-
+gere, necesse est quod distent ab invicem et sit aliquid medium
+inter ipsa. Non autem medium indivisibile: quia cum debeat et
+ipsum situ differre et distare ab aliis indivisibilibus, requireret
+aliud medium, et sic in infinitum. Medium ergo oportet esse di-
+visibile: non tamen in impartibilia, quia in hoc casu redibit
+quaestio quomodo ex indivisibilibus possit componi divisibile.
+Erit ergo medium divisibile in divisibilia; consequenter erit ali-
+quid confinuum, ut puta linea inter duo puncta, tempus inter
+duo nunc, et similiter in aliis continuis. — 8. Secundo quod omne
+continuum sit divisibile in divisibilia. Secus enim indivisibilia, ut
+continuum constituerent, se Invicem tangere deberent; nam ulti-
+ma continuorum unum sunt, et eorum partes invicem se tangunt:
+iam vero probatum est duo indivisibilia se contingere non posse.
+
+⁴⁸ Cap. 1 Text. 1.
+
+⁴ Text. 2.
+
+“ Text. 3.
+

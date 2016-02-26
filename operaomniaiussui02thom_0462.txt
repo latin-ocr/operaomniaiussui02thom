@@ -1,0 +1,158 @@
+PHYSICORUM ARISTOTELIS LIB. VIII
+
+LECTIO DECIMANONA
+
+PER RATIONES PROPRIAS OSTENDITUR QUOD MOTUS CIRCULARIS POTEST ESSE CONTINUUS ¹⁸,
+ITEM QUOD EST PRIMUS MOTUUM
+
+Ἡ δ’ ἐπὶ τῆς περιφεροῦς ἔσται μία καὶ συνεχής· οὐθὲν * Qui autem in circulari, erit unus et continuus: nullum · &mg-pam.
+
+γὰρ ἀδύνατον συμβαίνει· τό γὰρ ἐκ τοῦ Α κινούμε-
+νον ἅμα κινήσεται εἰς τὸ Α κατα τήν αὐτην πρό-
+θεσιν· εὶς ὃ γάρ ἥξει, καὶ κινεῖται εἰς τοῦτο, ἀλλ’
+οὐχ ἅμα κινήσεται ταὶς ἐναντίας οὐδὲ τοίς ἀντικει-
+μέναςῖ οὗ γάρ ἅπασα ἡ εἰς τοῦτο τῇ ἑκ τούτου
+ἐναντία οὗὸ’ ἀντικειμένη, ἀλλ’ ἐναντία μὲν ἢ ἐπ’
+εὐθείας (ταύτῃ γάρ ἐστιν ἐναντία κατοὶ τόπον, οἷον
+ἡ κατα διάμετρον· ἀπέχει γοὶρ πλεῖστον), ἀντικει-
+μένη δὲ ἡ κατα τὸ αὑτό ἦκος. “Ὠστ’ οὐδὲν κωλύει
+συνεχῶς κινεῖσθαι καὶ μηδιένα χρόνον διαλείπειν· ἦ
+μὲν γάρ κύκλῳ κίνησίς ἐστιν ἀφ’ αὐτοῦ εἰς τὸ αὐτό,
+ἡ δὲ κατ’ εὐθεῖαν ἀφ’ αὑτοῦ εἱς ἄλλο·
+
+καὶ ἠ μὲν ὲν τῷ κύκλῳ οὐδέποτε ἐν τοῖς αὐτοῖς, ἡ δὲ
+κατ’ εὐθεῖαν πολλάκις ἐν τοῖς αὐτοῖς. Τήν μὲν οὖν
+ἀεὶ ἐν ἄλλῳ καὶ ἄλλῳ γιγνομένην ἐνδέχεται κινεῖ-
+σθαι συνεχῶς, την δ’ ἑν τοῖς αὐτοῖς πολλάκις οὐκ
+ἐνδέχεται· ἀνά κη γάρ ἅμα κινεῖσθαι τοὶς ἀντικει-
+μένας. ‘'ssei-7¹ οὑξ1 ὲν τῷ ’ἡμικυκλίῳ οὐδ’ ἑν ἄλλῃ πε-
+ριφερείᾳ οὐδεμιᾷ ἐνδέχεται συνεχῶς κινεῖσθαι· πολ-
+λακις γοὶρ ἀνάγκη ταύτά κινεῖσθαι καὶ τοίς ἐναντίας
+μεταβάλλειν μεταβολάς· οὐ γάρ συνάπτει τῇ ἀρχῇ
+τὸ πέρας. ‘H δὲ τοῦ κύκλου συνάπτει, καὶ εστι
+μόνη τέλειος.
+
+Φανερὸν δὲ καὶ ἐκ ταύτης τῆς διαιρέσεως, ὅτι οὐδὲ τοὶς
+ἄλλας ἐνδέχεται κινήσεις εἶναι συνεχεῖς· ὲν άπάσαις
+γάρ ταῦτοί συμβαίνει κινεῖσθαι πολλάκις, οἷον ἑν
+ἀλλοιώσει τοὶ μεταξύ, καὶ ἐν τῇ τοῦ ποσοῦ τοὶ ἀνά
+μέσον μεγέθη, καὶ ἑν γενέσει καὶ φθορᾷ ὡσαύτως·
+οὐδὲν γάρ διαφέρει ὀλίγα ἦ πολλοὶ ποιῆσαι, ἐν οἷς
+ἐστὶν η μεταβολή, οὐδὲ μεταξύ θεῖναί τι ἦ ἀφελεῖν·
+ἀμφοτέρως γαρ συμβαίνει ταῦτα κινεῖσθαι πολλάκις.
+Δῆλον οὖν ἑκ τουτων, ὅτι οὐδ’ οἰ φυσιολόγοι καλῶς λε’-
+γουσιν οἱ πάντα τοὶ αἰσθητοὶ κινεῖσθαι φάσκοντες
+ἀεί· κινεῖσθαι γάρ ἀνάγκη τούτων τινά τῶν κινή-
+σεων, καὶ μάλιστα κατ’ ἐκείνους ἐστὶν ἀλλοιοῦσθαι·
+ῥεῖν γάρ φασιν ἀεὶ καὶ φθίνειν· ἔτι δὲ καὶ τήν γε’-
+νεσιν καὶ την θοροὶν ἀλλοίωσιν λέγουσιν. ‘0 δὲ λόγος
+νῦν εἴρηκε κα όλου περὶ πάσης κινῆσεως, ὅτι κατ’
+οὐδεμίαν κίνησιν ἐνδέχεται κινεῖσθαι συνεχῶς ἔξω
+τῆς κύκλῳ· ὥστ’ οὔτε κατ’ ἀλλοίωσιν οὔτε κατ’ αύ-
+ξησιν. ’Ότι μὲν οὖν οὔτ’ ἄπειρός ἐστι μεταβολή
+οὐδεμία οὔτε συνεχής ἔξω τῆς κύκλῳ φορᾶς, ἔστω
+τοσαῦθ’ ἡμῖν εἰρημένα.
+
+Ὅτι δὲ τῶν φορῶν ἡ κυκλοφορία πρώτη, δῆλον. Πᾶσα
+ἀρ φορά, ὥσπερ καὶ πρότερον εἴπομεν, ἦ κύκλῳ ἦ
+επ’ εὐθείας ἦ ικτῆ. Ταύτης δ’ ἀνάγκη προτέρας
+εἶναι ἐκείνας· ἐξ. ἐκείνων γάρ συνέστηκε. Τῆς δ’ εὐ-
+θείας η κύκλῳ· ἀπλῆ γαρ καὶ τέλειος μᾶλλον. Ἀπει-
+ρον μέν γάρ οὐκ ἔστιν εὐθεῖαν {epse-Oxi· τὸ γάρ
+οὕτως ἄπειρον οὐκ ἔστιν· ἀλλ’ οὐ ἑ εἱ ἦν, ἑκινεῖτ’
+<iv οὐδέν· ού γαρ γίγνεται τὸ ἀδύνατον· διελθεῖν δὲ
+την ἄπειρον ἀδύνατον. '118’ ἐπὶ τῆς πεπερασμένης
+εὐθείας ἀνακάμπτουσα ἐν συνθετη καὶ δύο κινή-
+σεις, μή ἀνακάμπτουσα ε’ ἀτελῆς καὶ φθαρτή. Πρό-
+τερον δὲ καὶ φύσει καὶ λόγῳ καὶ χρόνῳ τὸ τέλειον
+μὲν τοῦ ἀτελοῦς, τοῦ φθαρτοῦ δὲ τό ἄφθαρτον.
+
+Ἔτι προτέρα ἦν ὲνδέ εται ἀίδιον εἶναι τῆς μή ἐνδεχο-
+
+μένης· τήν μὲν ουν κύκλῳ ἐνδέχεται ἀί ιον εἶναι,
+τῶν δ’ ἄλλων οὕτε φοράν οὔτ’ ἄλλην οὐδεμίαν· στά-
+σιν γάρ δεῖ γίνεσθαι· εἰ δὲ στάσις, ἔφθαρται ἡ κί-
+νησις.
+
+Et
+
+* Quod autem Iationum circularis prima sit, manifestum est. '
+
+enim impossibile contingit.' Quod enim ex A movetur,
+simul movebitur in A, secundum eandem positionem:
+in quod enirn veniet, et movetur in hoc; sed non simul
+movebitur contrariis neque oppositis. Non enim omnis
+qui est in hoc, ei qui est ex hoc contrarius est neque
+oppositus: sed contrarius in recta quidem (hic enim
+est contrarius secundum Iocum: ut oui secundum dia-
+metrum; distat enim plurimum); oppositus autem qui
+est secundum eandem ¹⁶..5itudinem. Quare nihil pro-
+hibet moveri constiue, et nullo tempore deficere: cir-
+cularis quidem enim motus est ab eodem in idem; re-
+ctus autem abeodem in aliud. .
+
+qui quidem in circu10‚ nequaquam in eisdem est: qui
+vero secundum rectitudinem, multoties in eisdem est.
+Eum quidem igitur qui semper in alio et alio fit, con-
+tingit moveri continue: qui vero in eisdem multoties,
+non contingit: necesse est enirn simul moveri contrarios.
+Quare neque in semicirculo, neque in alia circulatione
+neque una contingit moveri continue. Multoties enim
+necesse eadem moveri, et contrarias mutationes mu·
+tari: non enim copulat principio finem. Qui nutem
+circuli, copulat, et solus est perfectus.
+
+* Manifestum autem et ex hac divisione, quoniam uon
+
+contingit alios motus esse continuos. In omnibus enim
+accidit‘ eadem moveri multoties: ut in alteratione me-
+dia; et in eo qui est quantitatis ‚ secundum medium
+magnitudinis; et in generatione et corruptione similiter.
+
+Nihil* enim differt pauca aut multa facere, in quibus eat*
+
+mutatio; neque medium ponere aliquid aut auferre:
+utrobique enim accidit eadem moveri multoties.
+
+Manifestum igitur ex his quoniam neque physiologi be-
+
+ne dicunt, omnia sensibilia moveri semper dicentes.
+Moveri enim necesse est aliquem horum motuum, et
+maxime secundum illos est alterari: fluere enim dicunt
+semper et corrumpi; adhuc autem et generationem et
+corruptionem alterationem dicunt. Rufio autem nunc
+dixit universaliter de omni motu, quod secundum nul-
+lum motum contingit moveri continue extra eum qui
+circulo. Quare neque secundum alterationem neque se-
+cundum augmentum. Quod quiden-1 igitur neque in-
+finita sit mutatio neque una neque continua extra cir-
+culi motum, nobis dicta sint tanta.
+
+Omnis enim secundum locum motus, sicut et prius
+diximus, aut in circulo aut in recto aut mixtus est.
+Hoc autern necesse est priores esse illos: ex iuis enim
+constitutus est. Recto autem circularis: simplex enirn
+et‘perfectus magis est. In infinitum enim non est re-
+ctum ferri: sic enim infinitum non est, Sed neque si
+esset, moveretur utique¹ nihil: non enim fit impossibile;
+transire autem infinitum impossibile est. In finito au-
+tem recto reflectens quidem compositus est, et duo sunt
+motus: non reflexus autem imperfectus et corruptus.
+Prius autem et natura et ratione et tempore est per-
+fectum quidem imperfecto, corruptibili autem incor-
+ruptibile.
+
+Amplius, prior est quem contingit perpetuum esse, non
+
+contingenti. Circularem quidem igitur contingit pe'r-
+petuum esse: aliorum autem neque loci mutationem,
+neque alium neque unum contingit esse perpetuum.
+Statum enim oportet fieri: si autem status est, corru-
+ptus est motus prior.
+
+Text
+
+'¹ ¹¹⁸¹· 7⁴-
+
+ 
+

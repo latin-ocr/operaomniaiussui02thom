@@ -1,0 +1,159 @@
+ 
+
+ 
+
+CAP. VIII, LECT. XVIII
+
+LECTIO DECIMAOCTAVA
+
+RATIONIBUS LOGICIS OSTENDITUR QUOD MOTUS REFLEXUS NON EST CONTINUUS
+
+λογικῶς δ’ ἐπισκοποῦσι κᾶν ἐκ τῶνδε δόξειέ τῳ ταὺτὸ
+τοῦτο συμβαίνειν·
+
+ἅπαν γὰρ τὸ κινούμενον συνεχῶς, ὂὶν ὑπό μηδενὸς ἑκ-
+κροόηται, εἰς ὅπερ ἦλθε κατοὶ τήν φοροίν, εἰς τοῦτο
+καὶ ἐφέρετο πρότερον, οἷον εἰ ἐπὶ τὸ Β ἦλθε, καὶ
+ἐφέρετο ἐπὶ τὸ Β, καὶ οὐχ ὅτε πλησίον ἦν, ἀλλ’
+εὖθῦς ὦς ἤρξατο κινεῖσθαι· τί dp μᾶλλον νῦν ἦ
+πρότερον; Ὁμοίως δὲ ἐπὶ τῶν {Mum Τό δ’ ἀπὸ
+τοῦ Α ἐπὶ τὸ Γ φερόμενον, ὅταν ἐπὶ τὸ Γ ἔλθῃ,
+πάλιν ἥξει ἐπὶ τὸ Α συνεχῶς κινούμενον. Ὅτε α”ρα
+ἀπὸ τοῦ A φέρεται πρὸς τὸ Γ,·το’τε καὶ εἰς τὸ Α
+φέρεται τήν ἀπὸ τοῦ Γ κίνησιν· ὥσθ’ ἅμα τοὶς ἐναν-
+τίας· ἐναντίαι γαρ αἱ κατ’ εὐθεῖαν.
+
+’ 'Ap-ot δὲ καὶ ἐκ τούτου μεταβάλλει ἐν ᾦ οὐκ ἐ’στιν. Εἰ
+οὖν τοῦτ’ ἀδύνατον, ἀνάγκη ἵστασθαι ἐπὶ τοῦ Γ.
+
+, Οὐκ ἄρα μία ἦ κίνησις· ἡ γοὶρ διαλαμβανομένη στα-
+σει οὐ μία.
+
+Ἔτι δὲ καὶ ἑκ. τῶνδε φανερὸν καθόλου μᾶλλον περὶ ποί-
+σης κινήσεως· εἱ γοίρ ἅπαν τὸ κινουμενον τῶν εἰρη-
+μένων τινοὶ κινεῖται κινήσεων καὶ ἠρεμεῖ τῶν ἀντι-
+κειμένων ἡρεμιῶν (οὐ γαρ ἦν ἄλλη παρὰ ταύτας),
+τὸ δὲ μὴ ἀεὶ κινούμενον τήνδε τήν κίνησιν (λέγω
+δ’ ὅσαι ἕτεραι τῷ εἴδει, καὶ μη εἴ τι μόριόν ἐστι
+τῆς ὅλης) ἀνάγκη πρότερον ἠρεμεῖν τήν ἀντικειμέ-
+νην ἠρεμίαν· ἡζγοὶρ ἠρεμία στέρησις κινήσεώς ἐστιν.
+Εἰ οὖν ἐναντίαι μὲν κινήσεις αἱ κατ’ εὐθεῖαν, ἅμα
+δὲ μὴ ἐνδέχεται κινεῖσθαι τοὶς ἐναντίας, τὸ ἀπό
+τοῦ, 'A πρὸς τό Γ φερόμενον οὐκ ὀὲν φέροιτο ἅμα καὶ
+ἀπὸ τοῦ Γ πρὸς τό Α. Ἐπεὶ δ’ οὐχ ἅμα φέρεται,
+κινήσεται δὲ ταύτην τήν κίνησιν, ἀναχκη πρότερον
+ἠρεμῆσαι τήν πρὸς τῷ Γ· αὕτη γοὶρ ην ἡ ἀντικει-
+μένη ἠρεμία τῇ ἀπὸ τοῦ Γ κινήσει. Δῆλον τοίνυν
+ἐκ τῶν εἰ ημένων, ὅτι οὐκ ἔστι συνεχής ἡ κίνησις.
+
+Ἔτι δὲ καὶ οδε ὁ λόγος ἄλλον οἰκεῖος τῶν εἰρημένων.
+’Ἀμα γαρ ἔφθαρται το οὐ λευκὸν καὶ γέγονε λευκόν.
+Ei οὖν συνεχής ἡ ἀλλοίωσις εἰς λευκὸν καὶ ἐκ λευ-
+κοῦ, καὶ μή μένει τινα χρόνον, ἅμα ἔφθαρται τό
+οὗ λευκὸν καὶ γέγονε λευκὸν καὶ γέγονεν ού λευκόν·
+τριῶν γὀὶρ ἔσται ὁ αὐτὸς χρόνος.
+
+Ἔτι οὐκ εἰ συνεχής ὁ χρόνος, καὶ ἡ κίνησις, ἀλλ’ ἑφε-
+ξῆς. Πῶς δ’ ἀν εἴη τὸ ἔσχατον τὸ αὐτὸ τῶν ἐναν-
+τίων, οἷον λευκότητος καὶ μελανίας;
+
+SYNOPSts — t. Argumentum et divisio textus-Logice etiam
+est manifestum quod motus reflexus non est continuus. - 2. Pro-
+batur primo duabus rationibus in motu locali reflexo. a) Omne
+quod motu continuo movetur, iam a principio sui motus, nisi
+aliquid impediat, fertur in terminum, ad quem per loci mutatio-
+nem pertingit. Si ergo motus reflexus est continuus, quod rno-
+vetur ab A in C„et iterum reflectitur ad A, in prima parte motus
+qui est ab A in C, movebatur ad terminum ultimae partis, qui
+est A; et sic dum movetur ab A, movetur simul in A. Movetur
+ergo motibus contrariis, quod esse non potest. - 3. b) Alia ratio
+ex eodem medio. Non potest mobile moveri ad A, nisi ex aliquo
+termino contraposito, nempe ex C; sed mobile nondum est in
+hoc signo quando incipit moveri ab A, ergo in hypothesi mo-
+bile movetur ab illo termino in quo non est, quod est im-
+possibile. Ergo impossibile est quod motus reflexus sit conti-
+nuus et unus. — 4. Probatur communiter in qualibet specie
+motus. a) Mobile quod actualiter non movetur aliqua deter-
+minata speeie motus, quiescit quiete opposita: quies enirn pri-
+vative opponitur motui, et duorum quae privative opponuntur,
+curn unum non inest, oportet alterum inesse susceptibili. Ergo
+
+Opp. D. Tuomst: T. 11.
+
+* Rationabiliter autem et ex his intendentibus videbitur
+alicui et idem hoc accidere.
+
+Omne enim quod movetur continue, si a nullo prohi-
+beatur, in quod quidem venit secundum loci mutatio-
+nem, in hoc et ferebatur prius: ut si in B venit, et
+ferebatur in A, et non cum proximum erat, sed mox
+sicut incepit moveri. Quid enim magis nunc quam
+prius? Similiter autem et in aliis. Quod autem ab A
+fertur in C, iterum veniet in A continue motum. Cum
+ergo ab A in C ferebatur, tunc et in A fertur secun-
+dum motum qui est a C. Quare simul contrariis: con-
+trarii enim qui secundum rectitudinem.
+
+Simul autem et ex hoc mutatur in quo non est. Si igitur
+hoc impossibile, necesse est stare in C. Non ergo unus
+motus: distinctus enim statu non est unus.
+
+’¹‘ Amplius et ex his manifestum universaliter magis de omni
+motu. Si enim omne quod movetur, movetur aliquo
+dictorum motuum; et quiescit aliqua oppositarum quie-
+tum: non erat enim alius praeter istos. Quod autem
+non semper movetur secundum hunc motum (dico
+autem quicumque sunt alteri specie, et non si aliqua
+pars est totius), necesse est prius quiescere secundum
+oppositam quietem: quies enim privatio est motuS. Si
+igitur contrarii quidem motus sunt qui secundum re-
+ctitudinem3 simulantem non contingit moveri contra-
+rios: quod ab A ad C fertur, non utique feretur simul
+ab ipso C ad A. Quoniam autem non simul fertur,
+movebitur autem hune motum, necesse est prius quie-
+scere apud C: haec enim opposita quies ei qui est a C
+motui. Manifestum igitur ex his quae dicta sunt, quo-
+niam non est continuus motus.
+
+* Amplius autem et haec ratio magis propria est his quae
+dicta sunt. Simul enim corruptum est quod non album,
+et factum est album. Si igitur continua alteratio ad al-
+bum et ex albo, et non manet aliquo tempore; simul
+corruptum est non album, et factum est album, et fa-
+ctum est non album: trium enim erit idem tempus.
+
+Amplius, non si continuum est tempus, et motus; sed con-
+sequenter. Quomodo igitur erit ultimum idem contra-
+riorum, ut albedinis et nigredinis?
+
+cum mobile non possit simul moveri motibus oppositis de A
+ad C et de C ad A, necesse est quod dum movetur de A ad C,
+quiescat quiete opposita. Sed motui qui est a C, opponitur
+quies quae est in C: ergo motus reflexus interrumpitur quiete,
+seu non est unus et continuus. — 5. b) Si motus reflexus in
+quolibet genere sit continuus absque interpositione quietis, se-
+quitur quod in eodem tempore simul aliquid corrumpitur et fit3
+quod est impossibile. Patet sequela: narn simul corrumpitur non
+album et generatur album, et e converso simul corrumpitur al-
+bum et fit non album. Sed si motus reflexus est continuus, ista
+tria sunt in eodem tempore, nempe fieri album et corrumpi non
+album et iterum fieri non album: ergo manifestum est quod in
+hypothesi simul aliquid fit et corrumpitur. - 6. c) Motus diversa-
+rum specierum, etsi sibi succedant in ternpore continuo, non
+sunt continui, sed sunt consequenter se habentes. Cum igitur
+in quocumque genere motus, ille qui est ab A in C, sit contra-
+rius motui qui est a C in A, impossibile est quod isti duo motus
+sint continui ad invicem, etiam si tempus eorum sit continuum,
+nulla interposita quiete. - Quare rationes praemissae dicantur
+logicae. —
+
+55
+
+' Seq. cap. vm
+
+et text. 70.
+
+'¹ Text. 71.
+
+” Text. 72.
+

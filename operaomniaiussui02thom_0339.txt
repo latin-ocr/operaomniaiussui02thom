@@ -1,0 +1,179 @@
+ 
+
+CAP. IX, LECT. XI
+
+non sequi ex praemissis. Ad hoc enirn quod ali-
+quid moveatur in tempore aliquo, oportet quod
+moveatur in qualibet parte illius temporis: ipsa
+
+aUtem nunc non SUnt partes tempor183 non enlm'
+
+componitur tempus ex nune indivisibilibus, sicut
+neque aliqua magnitudo componitur ex indivisibi-
+libus, ut supra *probatum est: unde non sequitur
+quod m tempore non moveatur aliquid, ex hoc
+quod in nullo nunc movetur.
+
+3. Deinde cum dicit: Quatuor autem sunt ra-
+tiones etc., ponit seriatim omnes rationes Zeno-
+nis, quibus utebatur ad destruendum motum. Et
+circa hoc tria facit: primo manifestat quomodo
+destruebat per suas rationes motum localem; se-
+cundo quomodo destruebat alias species mutatio-
+num, ibi: Neque igitur secundum mutationem ’¹‘ etc.;
+tertio quomodo destruebat specialiter motum cir-
+cularem, ibi: Iterum autem in circulo '⁸ etc.
+
+4. Circa primum quatuor rationes ponit: et hoc
+est quod dicit, quod Zeno utebatur quatuor ratio-
+nibus contra motum, quae ingerebant difficulta-
+tem multis eas solvere volentibus. Quarum prima
+talis est. Si aliquid movetur per totum aliquod
+spatium, oportet quod prius pertranseat medium
+quam perveniat ad finem: sed cum illud medium
+sit divisibile, oportebit quod etiam prius pertran-
+seat medium illius medii, et sic in infinitum, cum
+magnitudo sit in infinitum divisibilis: infinita au-
+tem non est transire in aliquo tempore finito:
+ergo nihil potest moveri.
+
+Dicit ergo Aristoteles quod superius *, circa prin-
+cipium huius sexti libri, solvit istam rationem per
+hoc, quod similiter tempus in infinita β dividitur,
+sicut et magnitudo. Quae quidem solutio est ma-
+gis ad interrogantem si infinita contingat transire
+in tempore finito, quam ad interrogationem, ut
+dicet in octavo ’ἣ ubi solvit hanc rationem per
+hoc, quod mobile non utitur infinitis quae sunt
+in magnitudine, quasi in actu existentibus, sed ut
+in potentia existentibus. Tunc autem ²⁸ aliquo pun-
+cto spatii utitur quod movetur ut in actu existenti,
+quando utitur eo ut principio et ut fine: et tunc
+necesse est quod ibi stet, ut ibi ostendetur. Et si
+sic oporteret transire infinita quasi in actu exi-
+stentia, numquam veniretur ad finem.
+
+5. Secundam rationem ponit ibi: Secunda au-
+tem vocata etc.; et dicit quod hanc secundam
+rationem vocabant Achillem, quasi invincibilem
+et insolubilem. Et erat ratio talis. Quia si aliquid
+movetur, sequitur quod id quod currit tardius,
+si incepit primo moveri, nunquam iungetur vel
+attingetur a quocumque velocissimo. Quod sic
+probabat. Si tardum incepit moveri ante velo-
+cissimum per aliquod tempus, in illo tempore
+pertransivit aliquod spatium: ante igitur quam
+velocissimum quod persequitur, possit attingere
+tardissimum quod fugit, necesse est quod vadat
+ab 'illo loco uncle movit fugiens, usque ad illum
+locum quo pervenit fugiens tempore illo quo
+
+β) in infinita.— in infinitum DE, per infinita H. - Pro dividitur,
+dividatur AIKLRSTYXab.
+γ) Sed oportet quod velocissimum.- Et oportet quod adhuc velo—
+
+Opp. D. Tuom T. 11.
+
+313
+
+persequens non movebatur. Sed oportet quod ve-
+locissimum “illud spatium pertranseat in aliquo
+tempore, in quo tempore iterum tardius aliquod
+spatium pertransit, et sic semper. Ergo semper
+tardius habet aliquid ante, idest aliquod spatium
+in quo praecedit velocissimum, quod ipsum per-
+sequitur: et ita velocius numquam attinget tar-
+dius. Hoc autern est inconveniens. Ergo magis di-
+cendum est quod nihil movetur.
+
+6. Ad solvendum autem hanc rationem dicit,
+quod haec ratio est eadem curn prima, quae pro-
+cedebat ex decisione spatii in duo media, quantum
+ad virtutem medii: sed differt ab ea in hoc, quod
+aliqua accepta magnitudo spatii non dividitur in
+duo media, sed dividitur secundum proportionem
+excessus velocioris ad tardius in motu. Nam in
+primo tempore, ³* quo movebatur solum tardius,
+accipitur maior magnitudo; in secundo autern
+tempore, in quo velocius pertransit praedictum
+spatium, cum sit minus, accipitur minor magni-
+tudo pertransita a tardiori, et sic semper. Unde quia
+tempus et magnitudo semper dividuntur, videtur
+accidere ex hac ratione quod tardius nunquam
+iungatur a '¹‘ velociori. Sed hoc in idem tendit cum
+eo quod in prima ratione dicebatur de divisione
+magnitudinis in duo media: quia in utraque ratione
+
+· ἰη add. tu.
+
+· αοῐηᾼικικετκ.
+
+videtur accidere quod mobile non possit adiun- g
+
+gere *usque ad terminum quendam, propter di-
+visionem magnitudinis in infinitum, quocunque
+modo dividatur; seilicet vel in duo media, sicut
+prima ratio procedebat, vel secundum excessum
+velocioris ad tardius, sicut procedebat secunda
+ratio. Sed in hac secunda ratione apponitur, quod
+velocissimum non potest attingere ad tardius dum
+
+'persequitur ipsum: quod dictum est cum ‘⁴⁵ quadam
+
+tragoedia, idest cum Ψ quadam magnificatione
+verborum ad admirationem movendam3 sed non
+facit aliquid ad virtutem rationis ³¹⁶.
+
+Unde patet quod necesse est esse eandem so-
+lutionem huius secundae rationis et primae. Sicut
+enim in prima ratione falsum concludebatur, quod
+scilicet mobile nunquam perveniret ad terminum
+magnitudinis, propter infinitam magnitudinis divi-
+sionem; ita falsum est quod vult secunda ratio
+concludere, quod tardius praecedens nunquam
+iungatur ²¹² a velociori sequente; quod nihil est aliud
+quam mobile non pervenire ad aliquem terminum.
+
+Verum est enim quod quamdiu praecedit tar-
+dius, non coniungitur sibi velocius. Sed tamen
+quandoque coniungetur '⁸² sibi, si hoc detur, quod
+mobile possit pertransire finitam magnitudinem
+in tempore finito. Pertransibit enim velocius per-
+sequens totam illam magnitudinem qua praece-
+debat 'ipsum tardius fugiens, et adhuc maiorem, in
+minori tempore quam tardius moveatur ultra per
+aliquam determinatam quantitatem: et ita non so-
+lum attinget ²¹* ipsum, sed etiam ultra transibit.
+Hae igitur sunt duae rationes Zenonis, sic solutae.
+7. Tertiam rationem ponit ibi: Tertia autem etc.
+
+cissimum Pb.- lbi: aliquod spatium pertransit, aliquod spat1'um non
+
+pertransit ed. a; istud non Pb corrigunt in modicum-Infra pro attin-
+
+get, attingit BZ, attingeret Pab et cet. exc. EFGHO.
+40
+
+‘attingere bron.
+
+‘¹ procedit P.
+
+' in codd. et a.
+
+*in D.
+
+· verborum n.
+
+“ vincatur mxu
+srvxrah.
+
+⁶ iungetur nv,
+coniun itur pse
+sffloa.
+
+· attingit neon,
+attingatz, attin-
+geret cet. exc.
+
+uLoas.
+

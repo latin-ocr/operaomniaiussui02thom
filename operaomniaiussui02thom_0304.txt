@@ -1,0 +1,206 @@
+· Num. 3.
+
+⁴ Num. 4.
+
+· unum rab.
+
+⁴ Lect. ι, n. 6.
+
+¹· uod κ,
+et cet. ex
+urunqsz.
+
+qui P
+c.
+
+· signata om .
+
+· Num. praec.
+
+· Eleatis om.
+codd. et a ὑ.
+
+278
+
+titate finito, infinitum tamen divisione potest, cum et ipsum
+tempus sic sit infinitum. Est tamen haec solutio ad hominem,
+non ad veritatem. — 4. Resumitur propositum. Subdivisio tex-
+tus. - 5. Probatur quod tempus non potest esse infinit-um si ma-
+gnitudo sit finita. a) Dato quod mobile pertranseat spatium fini-
+tum in ternpore infinito, partem eiusdem conficiet in parte aliqua
+finita huius temporis. 'Pars autem illa magnitudinis finitae, si
+multoties sumatur, mensurabit vel excedet totum3 sic enim se
+habet finitum minus ad finitum maius: ergo et pars temporis
+finita mensurabit vel excedet totum, curn similiter dividantur
+tempus et magnitudo. Erit itaque totum tempus finitum. — 6. b)
+Accipiatur magnitudo finita quae finito tempore transeatur (tales
+enirn dari conspicimus)= huiusmodi metietur illam finitam cui
+respondere supponitur tempus infinitum. Idem vero mobile ma-
+gnitudinem aequalem magnitudini acceptae, tempore aequali fi-
+nito pertransibit: ideoque totum tempus constituetur ex tempori-
+bus finitis toties acceptis, quoties magnitudines aequales accipien-
+tur ad constituendam totam magnitudinem de qua est quaestio.
+Erit ergo tempus finitum. — 7. ln quo haec ratio differat a prima.
+
+   
+
+      
+    
+
+  
+
+5⁶¹³< similiter inveniuntur in magnitudine
+et tempore. Et circa hoc tria facit: primo ponit
+propositum3 secundo ex hoc solvit dubitationem,
+ibi: Unde et Zenonis ratio ’·’”’ etc.; tertio probat pro-
+positum, ibi: Neque iam infinitum etc.-
+
+2'. Dicit ergo primo, quod si quddcumque ho-
+rum duorum, scilicet temporis et magnitudinis,
+sit infinitum, et alterum est infinitum3 et eo modo
+quo alterum est infinitum et alterum. Et hoc
+exponit distinguendo duos modos infiniti; dicens
+quod si tempus est infinitum in ultimis, et ma-
+gnitudo est infinita in ultimis. Dicitur autern tem-
+pus et magnitudo α esse infinita in ultimis, quia
+scilicet ultimis caret; sicut si imaginaremur lineam
+non terminari ad aliqua puncta, vel tempus non
+terminari ad aliquod primum aut ultimum in-
+stans, Et si tempus sit infinitum divisione, et
+longitudo erit divisione infinita. Et est hic se-
+cundus modus infiniti: dicitur enim divisione
+infinitum, quod in infinitum dividi potest; quod
+
+est de ratione continui, ut dictum est ²³⁴. Et si.
+
+tempus esset utroque modo infinitum, et longitu-
+do esset utroque modo infinita. Et convenienter
+isti duo modi infiniti contraponuntur: quia pri-
+mus modus infiniti accipitur ex parte ultimorum
+indivisibilium quae '¹‘ privantur; secundus autem
+modus accipitur secundum indivisibilia quae si-
+gnantur in medi0; dividitur enim linea secundum
+puncta infra lineam signata ’ἦ
+
+3. Deinde cum dicit: Unde et Zenonis etc„ ex
+praemissis ’ἃ removet dubitationem Zenonis Elea-
+tis ²², qui volebat probare quod nihil movetur de
+uno loco ad alium, puta de A in B. Manifestum
+est enim quod inter A et B sunt infinita puncta
+media, cum continuum sit divisibile in infinitum.
+Si ergo movetur aliquid de A in B, oportet quod
+pertranseat infinita, et quod tangat unumquodque
+infinitorum; quod non est possibile fieri in tem-
+
+α) D1‘citur autem tempus et magnitudo. — Pro dicitur, dicuntur
+gtnpogga pro caret, carent D ς pro et, vel BFGMNRVXZ. - scilicet
+
+β) secundo quod e converso etc. —- secundo cum dicit.- Eadem au-
+
+⁸ ostquam ostendit quod magnitudo et
+
+PHYSICORUM ARISTOTELIS LIB. VI
+
+Necessitas illam inducendi. — 8. Quod e converso longitudo non
+possit esse infinita si tempus finitum sit, simili ratione probatur:
+accipietur nempe aliquid longitudinis infinitae quod erit finitum. -
+9. De divisione continui. Nullum continuum est indivisibile:
+tum quia impossibile est continuum ex indivisibilibus componi,
+quod tamen ex continuis componi potest; tum quia sequeretur
+quod indivisibile divideretur. ·- 10. Ostenditur hoc secundum
+inconveniens sequi. - Tria praesupposita. - Probatio. Sit ali-
+quid velocius altero secundum hanc proportionem, ita scilicet
+quod velocius pertranseat unam magnitudinem compositam ex
+tribus indivisibilibus, dum tardius per magnitudinem fertur ex
+duobus impartibilibus compositam. In tria ergo indivisibilia di-
+videtur tempus in quo velocius cursum suum conficiet: tar-
+diori autem in eodem ternpore per duas magnitudines indivisi-
+biles delato, unam earum in uno ternpore indivisibili et dimi-
+dio pertransibit. Dividetur ergo indivisibile temporis. Et eodem
+modo sequetur magnitudinem indivisibilem dividi, si ponatur
+tardius per tria indivisibilia spatii in tribus indivisibilibus tern—
+poris moveri.
+
+pore finito. Ergo in nullo tempore quantumcum-
+que magno, dummodo sit finitum, aliquid potest
+moveri per quantumcumque parvum spatium.
+Dicit ergo Philosophus quod ista ratio procedit ²⁸
+ex falsa existimatione; quia ⁶² longitudo et tempus,
+et quodcumque continuum, dupliciter dicitur esse
+infinitum, ut dictum est *; seilicet secundum divi-
+sionem et in ultimis. Si igitur essent aliqua, sci-
+licet mobile et spatium, infinita secundum quan-
+titatem, quod est esse infinitum in ultimis3 non
+contingeret quod se invicem tangerent in tempore
+finito. Si vero sint infinita secundum divisionem,
+hoc contingit; quia etiam tempus quod est finitum
+secundum quantitatem, est sic infinitum, scilicet
+secundum divisionem. Unde sequitur quod infi-
+nitum transeatur, non quidem in tempore finito,
+sed in tempore infinito; et quod infinita puncta
+magnitudinis transeantur in infinitis nunc temp03
+ris, non autem in nunc '¹⁸' finitis. Est autem scien· ·
+
+dum quod haec solutio est ad hominem, et non '
+
+ad veritatem, sicut infra Aristoteles manifestabit
+in octavo *. f
+
+⁶4. Deinde cum dicit: Neque iam infinitum ete, ·
+probat quod supra* posuit. Et primo resumit pro-
+positum3 secundo probat, ibi: Sit enim magni—
+tudo * etc. Dicit ergo primo quod nullum mobile
+potest transire infinitum spatium in tempore fi- ·
+nito, neque finitum spatium in tempore infinito;
+sed oportet, si tempus est infinitum, quod ma-
+gnitudo sit infinita, et e conversa
+
+Deinde cum dicit: Sit enim magnitudo etc.,·
+probat propositum. Et primo quod tempus non
+potest esse infinitum, si magnitudo sit finita3 se-
+cundo quod e converso Ρ, si longitudo sit infinita,
+tempus non potest esse finitum, ibi: Eadem autem
+demonstratio est *² etc.
+
+5. Primum autem ⁸* ostendit duabus rationibus:
+quarum prima talis est. Sit magnitudo finita
+quae est ΑΒ, et sit tempus infinitum quod est
+G ⁷. Accipiatur autem ²* huius infiniti temporis
+aliqua pars finita quae sit GD. Quia igitur mo-
+
+γ) quod est G. - quod est CD Pinna. —Item post unam lineam ad
+designandum tempus infinitum utitur siglis (ΣΙ), sed in fine numeri bis
+G, curn codicibus. Partem temporis infiniti (GD) prima vice nominat
+(ΣΙ), secunda vice HD, tertia et quarta vice BD; part magnitudinis fini-
+
+rem, probat e converso. Primum autem N. - Pro tempus non potest tae (ΒΕ) bis audit ΒΕ, postea BC. - Num. seq. pro BE semper Bc. -
+
+esse finitum, et tempus oportet csse infinitum EG.
+
+Num. 7 pro ΒΕ prima et quam vice BC, de cetero ΒΚ.
+
+· procedebaeeo- ¹
+dicen exc. nn.
+
+· et add. codd. s
+exc. n.
+
+⁸ Num. praec.
+
+m
+
+⁸ Leet. xm.
+
+· Num. a.
+
+· narn in nne?
+num·
+
+' Num. 8.
+
+'aum om. ν. ³⁴
+οικκινκι. Ἴ v
+
+⁸ auen-‘on- ι ¹ ⁷
+xpo.
+

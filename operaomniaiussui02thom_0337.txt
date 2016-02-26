@@ -1,0 +1,193 @@
+ 
+
+CAP. lx, LECT. xi
+
+311
+
+LECTIO UNDECIMA
+
+SOLVUNTUR RATIONES ZENONIS, QUIBUS MOTUM OMNEM EXCLUDERE CONATUS EST
+
+Ζήνων δέ παραλογίζεται· εἰ γαὶρ ἀεί, φησίν, ἠρεμεῖ πᾶν
+ἥκινεῗται, ὅταν ᾗ κατᾶ τὸ ἴσον, ἔστι δ’ ἀεὶτὸ φε-
+ρόμενον ἓν τῷ νῦν, ἀκίνητον τήν φερομένην εἶναι
+ὀϊστόν. Τοῦτο δ’ ἐστὶ ψεῦδος· οὗ γαὶρ σύγκειται ὀ
+χρόνος ἐκ τῶν νῦν ὄντων τῶν ἀδιαιρέτων, ὥσπερ
+οὐδ’ ἄλλο μέγεθος οὐδέν.
+
+Τέτταρες δ’ εἰσὶ λόγοι περὶ κινήσεως Ζήνωνος· οἱ πα-
+ρέχοντες ταὶς δυσκολίας τοῖς λύουσι· πρῶτος μὲν ὁ
+περὶ τοῦ ἣ κινεῖσθαι διαὶ τὸ πρότερον εἰς τὸ ἥμισυ
+δεῖν ἀφικεσθαι τό φερόμενον ἦ πρὸς τὸ τέλος· περὶ
+οὗ διείλομεν ἐν τοῖς πρότερον λόγοις.
+
+Δεύτερος δ’ ὁ καλούμενος Ἀχιλλεύς· ἔστι δ’ οὗτος, ὅτι
+vd βραδύτερον οὐδέποτε καταληφθήσεται θέον ὑπὸ
+τοῦ ταχίστου· ἔμπροσθεν γαὶρ ἀναγκαῖον ἐλθεῖν τὸ
+διῶκον, ὅθεν ὥρμησε τό φεῦγον· ὥστ’ ἀεί τι προέ-
+χειν ἀναγκαῖον τὸ βραδύτερον. Ἔστι δέ καὶ οὗτος
+ὀ αὐτὸς λόγος τῷ διχοτομεῖν, διαφέρει δ’ ἐν τῷ διαι-
+ρεῖν μή δίχα τὸ προσλαμβανόμενον μέγεθος. To* μὲν
+οὖν μή καταλαμβάνεσθαι τὸ βραδύτερον συμβέβηκεν
+ἐκ τοῦ λόγου· γίνεται δὲ παραὶ ταύτό τῇ διχοτομία
+(ὲν ἀμφοτέροις γαὶρ συμβαίνει μή ἀφικνεῖσθαι πρὸς
+τὰ πέρας, διαιρουμένου πως τοῦ μεγέθους· ἀλλαὶ
+πρόσκειται ἐν τούτῳ ὅτι οὐδὲ το“ τάχιστον τετραγῳ-
+δημένον ἐν τῷ διώκειν τὸ βραδύτερον), ὥστ’ ἀνάγκη
+καὶ τήν λύσιν εἶναι τήν αὐτήνζ Τὸ δ’ ἀξιοῦν ἀ’τι τό
+προέχον οὐ καταλαμβάνεται, ψεῦδος· ὅτε γαὶρ προέ-
+χει, οὐ καταλαμβάνεται· ἀλλ’ ὅμως καταλαμβάνε-
+ται, εἴπερ δώσει ιεξιέναι τήν πεπερασμένην. Οὗτοι
+μὲν οὖν οἱ δύο λόγοι.
+
+Τρίτος δ’ ὁ νῦν ῥηθείς, ὅτι ’ἦ ὸϊστός φερομένη ἕστηκε.
+Συμβαίνει δὲ παραὶ τὰ λα βάνειν τόν χρόνον συγκεῖ-
+σθαι ἑκ τῶν νῦν· μή δι ομένου γαὶρ τούτου, οὐκ
+ἔσται ὁ συλλογισμός.
+
+Τέταρτος δ’ ὁ περὶ τῶν ὲν τῷ σταδίῳ κινουμένων ἐξ
+ἐναντίας ἴσων ὄγκων παρ’ ἴσους, τῶν μὲν ἀπὸ τέ-
+λους τοῦ σταδίου, τῶν δ“ ἀπὸ τοῦ μέσου, ἴσῳ τάχει,
+ἐν ᾤ συμβαίνειν οἴεται ἴσον εἶναι χρόνον τῷ διπλα-
+σίῳ τόν ἥμισυν.
+
+Ἔστι δ’ ὀ παραλογισμὸς ὲν τῷ τὸ μὲν παραὶ κινούμε-
+νον τὸ δὲ παρ’ ἠρεμοῦν τὸ ἴσον μέγεθος ἀξιοῦν τῷ
+ἴσῳ τάχει τὸν ἴσον φέρεσθαι χρόνον. Τοῦτο δ’ ἐστὶ
+ψεῦδος· ·
+
+οἷον ἔστωσαν οἱ ἑστῶτες ’ίσοι ὄγκοι, ἐφ’ ὧν ταὶ ΑΑ, οἱ
+δ’ ἐφ’ ὧν ταὶ ΒΒάἰρχόμενοι ἀπὸ τοῦ μέσου τῶν Α,
+ἴσοι τόν ἀριθμὸν τούτοις ὄντες καὶ τὸ μέγεθος, ὁ
+δ’ ἐφ’ ὧν ταὶ ΓΓ ἀπὸ τοῦ ἐσχάτου, ἴσοι τὸν ἀριθμὸν
+ὄντες τούτοις καὶ τὸ μέγεθος, καὶ ἰσοταχεῖς τοῖς Β.
+Συμβαίνει δή τὸ πρῶτον Β ἅμα ἐπὶ τῷ ἐσχάτῳ εἶναι
+καὶ τὸ πρῶτον Γ, παρ’ ἄλληλα κινουμένων. Συμβαί-
+νει δὴ ταί Γ παραὶ πάντα ταὶ Β διεξεληλυθέναι· ταὶ
+δὲ Β παραὶ ταὶ ἡμίση· ὥστε ἥμισυν ειναιλτόν χρόνον·
+ἴσον γαρ ἑκάτερόν ἑστι παρ’ ἕκαστον. ΙἈμα δέ συμ-
+βαίνει ‘td Β παραὶ πάντα ταὶ Γ παρεληλυθέναι (ἅμα
+γοὶρ ἔσται τό πρῶτον Γ καὶ τὸ πρῶτον Β ἐπὶ τοῖς
+ἐναντίοις ἐσχάτοις) ἴσον χρόνον παρ’ ἕκαστον γινό-
+μενον τῶν Γ ὅσον περ τῶν Α, ὥς φησι, διαὶ τὸ αἰμ-
+φότερα ’ίσον χρόνον ’παραὶ ταὶ Β ίγνεσθαι. Ὀ μὲν
+οὖν λό ος οὗτος ἐστι· συμβαίνει δίέ παραὶ τὸ εἰρη-
+
+μένον φίεῦδος. ,
+
+Οὐδὲ δή καταὶ τήν ἓν τῇ ἀντιφάσει μεταβολήν οὐδὲν
+ἡμῖν ἔσται ἀδύνατον, οἶον εἰ ἐκ τοῦ μή λευκοῦ εἰς
+τὰ λευκὸν μεταβάλλει καὶ ἐν μηδετερῳ ἐστίν, ὠς
+α’ίρα οὔτε λευκὸν ἔσται οὔτε οὐ λευκόν· οὐ γαὶρ εἱ
+μή ὅλον ἐν ὁποτερῳοῦν ἐστίν, οὗ λεχθήσεται λευκόν
+ἦ οὖ λευκόν· λευκὸν γαὶρ λέγομεν ἦ οὗ λευκόν, οὗ
+
+* Zeno autem male ratiocinatur et paralogizat. Si enim
+semper, dicit, quiescit omne aut movetur, cum est se-
+cundum aequale; est autem semper quod fertur in ipso
+nunc: immobilem eam esse sagittam quae fertur. * Hoc
+autem falsum est. Non enim componitur tempus ex
+ipsis nunc indivisibilibus, sicut nec alia magnitudo ulla.
+
+* Quatuor autem sunt rationes de motu Zenonis, ingerentes ·
+
+difficultatem solventibus. Prima quidem de eo quod
+non movetur, propter hoc quod prius in medium opor-
+tet accedere quod fertur quam ad finem: de qua di-
+visimus in prioribus rationibus.
+
+* Secunda autern vocata Achilles. Est autern haec, quod tar-
+dius nequaquam iungetur currens a velocissimo j ante
+enim necesse est ire persequens unde movit fugiens; qua-
+
+re semper habere ante aliquid necesse est tardius. * Est *
+
+autem haec eadem ratio in decidendo in duo: differt
+autem in dividendo non in duo acceptam magnitudi-
+nem. Non quidem igitur coniungi tardius accidit ex
+ratione: fit autem ad idem in duo decisioni. In utrisque
+enim accidit non attingere ad terminum, divisa quo-
+dammodo magnitudine. Sed apponitur insshac‚ quia
+neque velocissimum, quod curn tragoedia dictum est,
+iu persequendo tardius. Quare necesse est eandem esse
+
+{Scap xx. Text.
+
+³ Text. 76.
+
+Text. 77.
+
+* Text. 78.
+
+Text. 79.
+
+solutionem. Velle autem quod praecedens non iunga- ’
+
+tur, falsum est. Cum enim praecedit, non coniungetur:
+sed tamen coniungetur, si quidem dabitur transire fini-
+tam. Hae quidem igitur rationes sunt duae.
+
+* Tertia autem, quae nunc dicta est, quoniam sagitta quae *
+
+fertur, stat. Accidit autem quia accipit tempus com-
+poni ex ipsis nunc: non dato enim hoc, nullus erit
+syllogismus.
+
+'¹‘ Quarta autem ex his quae moventur stadio, ex contra-
+rietate aequalium magnitudinum iuxta aequalia, his
+quidem a fine stadii, illis vero a medio, aequali velo—
+citate. In quo accidere opinatur aequale tempus dimi-
+dium duplo.
+
+* Est autern deceptio in eo quod hoc quidem secus motum,
+
+illud autem secus quiescenS, aequalem magnitudinem,
+
+velle aequali velocitate secundum aequale ferri tempuS.
+
+Hoc autem falsum est.
+
+sint stantes aequales magnitudines in quibus sunt AAA;
+
+aliae autem in quibus ipsa BBB, incipientes a medio
+
+ipsorum A, quae aequales secundum numerum et ma-
+gnitudinem sunt; aliae autern, in quibus ipsa CCC,
+ab ultimo, aequales numero his et magnitudine, et ae-
+que 'veloces ipsis Β. Contingit igitur primum' Β simul
+cum ultimo A esse, et primum C secus invicem mo-
+torum. Accidit autem ipsum C iuxta omnia A transire,
+et ipsum B secus media A. Quare medium esse tem-
+pus: aequale enim utrumque est secus unumquodque.
+
+Simul autern accidit ipsum B secus omnia C transa-
+
+ctum esse: simul enim erit primurn B et primum C
+
+in contrariis ultimis; in aequali tempore ad unumquod-
+
+que factum ipsorum B, quantum quidem ipsorum A,
+
+ut ait, propter ambo aequali tempore secus ipsa A
+
+fieri. Ratio igitur haec est. Incidit autem ad dictam fal-
+
+sitatem.
+
+* Neque igitur secundum mutationem in contradictione,
+nihil nobis erit impossibile: ut si ex non alboin al-
+bum mutetur, et in neutro est, tanquam ergo neque
+album erit neque non album. Non enim si non to-
+tum in quolibet est, non dicetur album aut non al-
+bum: album enim dicitur aut non album, non quod
+
+Ut
+
+Text. So.
+
+¹ Text. 81.
+
+' Text. 82.
+
+² Text. 83.
+

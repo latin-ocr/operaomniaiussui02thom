@@ -1,0 +1,183 @@
+398
+
+etngovdefmrcvglf licet quod movens non moveat³³ propter id quod
+
+cf.tex
+
+t.
+
+“moveto-vrt-
+
+· Lect. 1 seqq.
+
+gam
+
+· moventia add.
+
+vab.
+
+· ut tamen codd.
+
+ct a.
+
+· alium cdd. ab
+et codd-exc. ιε.
+
+Onl'mus
+X.C Ns 0-
+
+coniungantur
+
+movetur* (ut si dicamus aedificatorem esse mu·-
+sicum, non quia musicus est, sed per accidens);
+aut non est per accidens quod movens movea-
+tur, sed per se.
+
+7. Deinde curn dicit: Primum quidem etc.‚ de-
+struit primum membrum tripliciter. Primo quidem
+tali ratione. Nihil quod est per accidens, est ne-
+cessarium: quod enim inest alicui per accidens,
+non ex necessitate inest ei, sed contingit non
+inesse, sicut musicum aedificatori. Si igitur mo-
+ventia per accidens moventur, sequitur quod con-
+tingat ea non moveri; sed cum tu ponas quod
+omne movens movetur, consequens est quod si
+non moventur moventia, quod non moveant3 se-
+quitur ergo quod aliquando nihil moveatur. Hoc
+autem est impossibile, quia ostensum> est supra ³²,
+quod necesse est motum semper esse. Istud au-
+tem impossibile non sequitur ex hoc quod sup—
+posuimus 2‘ moventia non moveri: quia si hoc est
+
+, per accidens quod movens moveatur, moventia
+
+non moveri erit possibile; possibili autem posito,
+nullum sequitur impossibile. Relinquitur ergo quod
+aliud ex quo sequitur, sit impossibile, scilicet quod
+omne movens moveatur.
+
+8. Secundo ibi: Et rationabiliter hoc acci-
+dit etc., probat idem alia probabili ratione: quae
+talis est. In motu tria inveniuntur: quorum unum
+est mobile quod movetur, aliud autem est mo-
+vens, tertium est instrumentum quo movens mo-
+vet. In istis autem tribus manifestum est quod
+id quod movetur, necesse est moveri, sed non
+est necesse quod moveat. Instrumentum autem
+quo movens movet, necesse est et movere et mo-
+veri (movetur autem a principali movente, et mo-
+vet ultimum motum): unde et omne quod movet
+et movetur, habet rationem instrumenti.— Ideo au-
+tem instrumentum quo movens movet, et movetur
+et movet, quia communicat cum utroque, existens
+in quadam identitate ad id quod movetur. Et hoc
+maxime manifestum est in motu locali: necesse
+est enim quod *' a primo movente usque ad ulti-
+mum motum, omnia se tangant ad invicem3 et
+sic patet quod instrumentum medium est idem
+per contactum curn mobili, et sic simul movetur
+cum ipso, inquantum communicat ipsi.·Sed etiam
+communicat moventi, quia est movens; hoc modo
+tamen ut '⁴² instrumentum quo movet, non sit im-
+mobile.- Sic igitur ex praemissis apparet quod
+ultimum motum movetur quidem, sed non habet
+in se principium movendi neque seipsum neque
+aliud *3 et movetur quidem ab alio, sed non a se-
+ipso. Unde videtur esse rationabile, idest proba-
+bile (nec ad praesens curamus dicere quod sit
+necessarium), esse aliquod tertium, quod moveat
+curn sit immobile. Probabile enim est, quod si
+aliqua duo coniunguntur per accidens, et unum
+invenitur sine ali0, quod etiam aliud inveniatur
+sine illo (sed quod possit inveniri sine illo, hoc
+est necessarium quia quae per accidens coniun-
+guntur, contingit non coniungi): sicut si album et
+dulce per accidens coniunguntur ” in zuccaro, et
+
+PHYSICORUM ARISTOTELIS LIB. VIII
+
+album invenitur sine dulci, ut in nive, probabile
+est quod et dulce inveniatur in aliqua re sine albo,
+ut in cassia. Si igitur movens moveri est per acci-
+dens, et invenitur moveri absque movere in ali—
+quo ‚- sicut in ultimo mot0; probabile est quod
+inveniatur movere absque moveri, ut sit aliquod
+movens quod non movetur.-Ex quo -patet quod
+ista ratio non habet instantiam in substantia et
+accidente, et materia et forma, et in similibus,
+quorum unum invenitur sine alio sed non e
+converso: accidens enirn per se inest substantiae,
+et materiae per se convenit ut habeat esse per
+formam.
+
+9. Tertio ibi: Unde Anaxagoras dicit etc.‚
+probat idem testimonio Anaxagorae. Quia enim
+contingit inveniri aliquod movens quod non mo-
+vetur, ideo Anaxagoras recte dixit, ponens intel·
+lectum impassibilem et immixtum. Et hoc ideo,
+quia ipse ponebat intellectum primum principium
+motus: sic autem solummodo poterit movere et
+imperare, absque hoc quod moveatur, si *¹ sit im-
+mixtus: quod enim commiscetur alteri, movetur
+quodammodo ad motum ipsius.
+
+10. Deinde cum dicit: At vero si non secundum
+accidens etc.‚ prosequitur aliam partem divisionis *ς
+scilicet quod omne quod movetur, movetur ab
+aliquo quod movetur per se et* non secundum
+accidens. Et improbat hoc duabus rationibus:
+quarum prima talis est. Si hoc non est secundum
+accidens sed ex necessitate ut movens moveatur,
+et '⁸ nunquam possit mover'e nisi moveatur, oportet
+hoc contingere duobus modis: quorum unus est
+ut movens moveatur secundum eandem speciem
+motus qua movet3 alius est ut movens secundum
+unam speciem motus moveat *, secundum ειῙῙε-;ἲ
+ram moveatur. Exponit autern consequenter pri—
+mum modum, cum dicit: Dico autem etc. Sic
+enim dicimus movens moveri secundum eandem
+speciem motus, puta si calefaciens calefiat, et
+sanans sanetur, et ferens secundum locum fera-
+tur. Et secundum modum exponit cum dicit: vel
+sanans ’ feratur, vel ferens augeatur; hoc enim est
+ut secundum aliam speciem motus moveat et mo-
+veatur. ,
+
+Deinde ostendit impossibilitatem primi modi,
+cum dicit: Sed manifestum etc. Manifestum est
+enim impossibile esse quod movens secundum
+eandem motus speciem moveatur. Non enim
+sufficiet stare in aliqua specie subalterna, sed
+oportebit pervenire per divisionem usque ad in-
+dividua, idest usque ad species specialissimas·
+puta * si aliquis doceat, non solum doceatur, sed
+idern doceat et doceatur; puta si docet geome-
+triam, quod hoc idem doceatur; aut si movet
+specie motus localis quae est proiectio, quod se-
+cundum eundern motum proiectionis moveatur:
+et hoc est manifeste falsum.
+
+Deinde destruit secundum modum, ut scilicet
+non moveatur movens secundum eandem spe-
+ciem motus, sed quod movet uno genere motus,
+moveatur alio genere: puta quod movet secun-
+dum locum, moveatur per augmentum3 et quod
+
+¹ in om. rab.
+
+⁶ et Ρ.
+
+· Cf. n. ⁶.
+
+'eron-mle*
+
+ 
+
+'quod u, aquea
+ιιιππκοιιι ἩραΙιο ¹
+
+Ἢῖῗϊὶ
+m.
+
+· ut uid. nunu„
+

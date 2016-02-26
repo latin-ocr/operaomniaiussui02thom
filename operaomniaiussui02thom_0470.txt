@@ -1,0 +1,182 @@
+· enim add. ner
+sunnon.
+
+’ Num. seq.
+
+· Lect. vii, sqq.
+
+· huiusmodi vno
+ιοιαὸ.
+
+444
+
+SYNOPSis. — Argumentum et divisio textus. - 2. Textus sub-
+divisio. - Impossibile est aliquod finitum secundum potentiam,
+movere per tempus infinitum. Probatur. Ponatur quod A mo-
+veat B in tempore C infinit0; et simul ponatur quod aliqua
+pars ipsius A, nempe D, moveat partem B, quae sit E, in tem-
+pore Z. In primis hoc tempus Z oportet esse finitum: est enim
+minus ternpore C, quia in maiori tempore pertransit aliquod
+signum totum mobile quam pars. Si autem ab A et a B subtra-
+hantur ita partes, quod toturn quod est in A addatur D, et totum
+quod est in B addatur E, sequitur quod totum A movet totum
+B in tempore finito. Cum enim secundum proportionem qua ad
+ditur ad mobile et ad motorem‚ addatur ad tempus motus, per
+additionem proportionalem ad tempus Z, resultabit tempus fini-
+tum, in quo totum movebit totum. Oportet erge, si movens et
+motum sunt finita, quod etiam tempus sit finitum. Unde non
+contingit quod finitum movens moveat motu infinito. — 3. Du-
+bitatio Avicennae circa hanc demonstrationem. - Responsio Aver-
+rois. - Alia responsio. - 4. Alia difficilior dubitatio. Non videtur
+esse contra rationem moventis finiti quod moveat tempore in-
+finito: nam si illud finitum est incorruptibile, et non recedit a
+sua naturali dispositione semper eodem modo se habet ad mo-
+vendum. Unde non est magis ratio quare non possit movere
+post, quam ante. — Solutio. Tempus motus, praecipue in motu
+locali, potest accipi vel secundum partes mo'bilis, vel secundum
+partes magnitudinis. In demonstratione autem supra posita ac-
+cipitur priori modo: secus non esset verum quod pars moventis
+moveat in minori tempore partem mobilis, quam totum moveat
+totum. Sed si tempus motus ita accipiatur, non potest tempore
+infinito moveri nisi mobile infinitum3 hoc autem requirit mo-
+torem infinitum. Ergo oportet finaliter concludere quod motus
+infinitus non sit nisi mobilis infiniti a motore infinito. — 5. Obie-
+ctio contra hanc ipsam solutionem. Motum esse infinitum non
+
+est probatum ex partibus mobilis, quasi nempe sit motus corpo- ·
+
+ris infiniti, quia totum universum corporeum est finitum. Non
+ergo videtur quod demonstratio posita possit accipi in sensu
+praedicto. - Solutio. Prima causa motus infiniti oportet quod sit
+per se causa infinitatis motus, et consequenter quod sit causa
+illius infinitatis quae per se est in motu. Haec autem in motu
+attenditur secundum partes mobilis; quia quantitas motus quae
+accipitur secundum partes mobilis, competit motui secundum
+proprium subiectum, et ita inest ei per se. Prima ergo causa
+habet virtutem super infinitatem motus quae est per se, ut sci-
+licet possit movere mobile infinitum, si contingat. Unde opor-
+tet quod habeat virtutem infinitam. - 6. Toxtus subdivisio. - In
+magnitudine finita non potest esse virtus infinita. Prima suppo-
+sitio: maior potentia aequalem effectum perficit in minori tem-
+pore quarn minor. Altera suppositio· omne quod movetur, mo-
+vetur in tempore; ergo ab agente infinitae virtutis patiens, non
+potest immutari iri non tempore; ergo in ternpore immutatur. -
+Ex his autem probatur thesis. Sit enim tempus in quo virtus
+infinita movet, A; tempus autem in quo aliqua virtus finita
+movet, sit AB, quod est maius A. Si accipiatur alia et alia po-
+tentia finita maior illa quae movet in tempore AB, semper mi-
+nuitur tempus AB, et erit aliquando devenire ad potentiam fini-
+tam quae moveat in tempore A. Ex hoc autem sequitur quod
+potentia finita perficiat motum iri aequali tempore curn potentia
+infinita; quod est impossibile. Ergo etc. - 7. Difficultates. Primo
+non videtur ratio concludere: nam a) etiam posita virtute in-
+finita, non sequitur quod motus sit in non tempore: esse enim
+in tempore per se convenit motui, et ideo per nullam poten-
+tiam potest ab eo separari. b) Motum esse in non ternpore
+
+, '2‘ ostquam Philosophus ostendit qualis
+χ sit primus motus, hic ostendit quale sit
+η Υ ’ψ primum movens. Et dividitur in par-
+—r ⁴ ‘¹ tes duas: primo ἢ* dicit de quo est in-
+tentio; secundo exequitur propositum, ibi: Horum
+autem unum quidem* etc. Dicit autem primo, quod
+cum dictum sit supra ²⁹ quod primum movens est
+immobile, nunc dicendum est quod primum mo-
+vens est indivisibile et nullam habens magnitudi-
+nem, sicut omnino incorporeum. Sed antequam
+hoc ostendamus, oportet praedeterminare quae-
+dam quae exiguntur ad huius * probationem.
+
+ 
+
+2. Deinde cum dicit: Horum autem unum qui-
+dem etc., exequitur propositum. Et primo prae-
+mittit quaedam quae sunt necessaria ad princi-
+
+PHYSICORUM ARISTOTELIS LIB. VIII
+
+aequaliter sequitur, secundum rationem praemissam, tarn si vir·
+tus infinita sit in corpore, quam si sit extra corpus; ergo ex
+eo quod sit impossibile moveri in non tempore, non debet
+concludi quod nulla virtus infinita sit in magnitudine, sed sim-
+pliciter quod nulla ‘virtus movens sit infinita. c) Secundum
+excessum in velocitate motus, non est concludendum quod vir- -
+tus infinita non potest esse in magnitudine; sed quod virtus
+quae movet tempore infinito, propter sui infinitatem moveat
+etiam in non tempore. - d) Praeterea ipsa conclusio videtur esse
+falsa. Nam si nullius corporis potentia esset infinita, nullum
+corpus posset in infinitum durare; quod patet esse falsum. -
+8. Ad primam dubitationem. Demonstratio posita non est osten-
+siva, sed est demonstratio ad impossibile, in qua quia ex ali-
+quo dato sequitur impossibile, concluditur primum datum esse
+impossibile. Manifestatur responsio. - 9. Quoad secundam dubita-
+tionem, excluditur primo una Averrois responsio, utpote quae sit
+et contra intentionem Aristotelis, et contra veritatem. ·- Excludi-
+tur pariter altera eiusdem Commentatoris responsio, utpote in-
+sufficiens.- 10. Deinde solvitur dubitatio manifestando differen-
+tiam quae est inter agens materiale et agens per intellectum.
+Huius enim actio non proportionatur suae naturae, sed formae
+per intellectum apprehensae: unde non operatur quantum po-
+test, sed secundum quod convenit fini intento et naturae subiecti.
+Ex eo ergo quod sit virtus infinita extra omnem magnitudinem
+existens, non sequitur quod motus ab ea procedens sit veloci-
+tatis infinitae‚ seu sit in non tempore. —- confirmatur solutio.
+- 1 1. Hinc solvitur tertia dubitatio: moveri enim tempore infinito
+non repugnat rationi magnitudinis, sed eius rationi contrariatur
+moveri velocitate infinita. - 12. Quartam dubitationem solvit Ale-
+xander, dicens quod corpus caeleste, sicut perpetuitatem motus,
+ita perpetuitatem in esse non habet ex infinitate propriae virtutis,
+sed ex motore separato, cuius est virtus infinita. - Animadver-
+sio Commentatoris in hanc responsionem, et alia eius solutio.-
+13. Quae tamen et veritati multipliciter repugnat, et repugnat
+etiaeim intentioni Aristotelis. - 14. Nec convenienter Averroes im-
+pugnat solutionem Alexandri, quasi iste posuerit quod corpus
+caeleste de se esset corruptibile, et acquireret ab alio esse seal-
+per (quod nunc discutere non pertinet ad propositum„ sed
+posuit quod, cum corpus caeleste non sit suum esse, sed habeat
+esse ab alio, consequenter etiarn esse perpetuum ab alio habet. —
+15. Quomodo in corpore caelesti diversimode se habet poten-
+tia ad esse perpetuo et ad moveri perpetuo; ex qua differentia
+intelligitur quod si per impossibile corpus caeleste non haberet
+esse ab alio, adhuc non posset ex perpetuitate ipsius concludi
+quod in eo sit virtus infinita. - 16. In magnitudine infinita
+non potest esse potentia finita. — 17.Excluditur quoddam per
+quod alicui videri posset contrarium. —- 18. Probatur thesis. a)
+Virtus existens in magnitudine infinita debet excedere virtutem
+cuiuslibet magnitudinis finitae; sed non excedit si et ipsa sit fi-
+nita3 ergo etc. Declaratur minor: virtus finita magnitudinis in-
+finitae oportet quod moveat tempore finitoz accipiatur ergo alia
+magnitudo finita alterius generis, cuius virtus se habeat ad vir·
+tutem finitam magnitudinis infinitae ut unum ad centum3 si
+prima movet D spatio unius horae, secunda ad movendum D
+insumet 100 horas. Sed magnitudo finita potest centuplicari et
+etiarn ulterius augeri3 ergo eius virtus movebit in minori tem-
+pore quam virtus existens in magnitudine infinita; ergo in quanti·
+tate infinita erit minor virtus quam in quantitate finita.- ¹9· b) Idem
+probatur alia ratione, quae non differ‘t a prima, nisi quia con-
+cludit assurnendo potentiam finitam existentem in magnitudine
+eiusdem generis cum magnitudine infinita. - Epilogus et conclusio.
+
+palis propositi ostensionem; secundo ostendit
+principale propositum, ibi: Determinatis autem
+his 'ss etc., Circa primum tria facit: primo> ostendit
+quod ad motum infinitum requiritur potentia in-
+finita3 secundo quod potentia infinita non potest
+esse in magnitudine finita, ibi: Quod autem omni-
+no infinita magnitudine*ete.; tertio quod primurn
+motorem oportet esse unum, qui moveat motum
+continuum et sempiternum, ibi: De his autem
+quae feruntur * etc.
+
+Dicit ergo primo, quod inter ea quae praede-
+terminanda sunt ante principale propositum, unum
+est quod impossibile est aliquod finitum secundum
+potentiam, movere per tempus infinitum. Quod
+sic ostendit. Tria sunt in quolibet motu: quorum
+
+'Lace xxm, mg... «ἒ
+
+'Narmo-
+
+ 
+

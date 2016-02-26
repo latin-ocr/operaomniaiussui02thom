@@ -1,0 +1,163 @@
+440
+
+PHYSICORUM ARISTOTELIS LIB. VIII
+
+LECTIO VIGESIMA
+
+PER RATIONES LOGICAS ET COMMUNES OSTENDITUR QUOD MOTUS CIRCULARIS
+EST CONTINUUS ET PRIMUS - ITEM PER OPINIONES ANTIQUORUM PHILOSOPHORUM -
+OSTENDITUR QUOD MOTUS LOCALIS SIT PRIMUS MOTUUM
+
+Εὐλόγως δὲ συμβέβηκε vd τήν κύκλῳ μίαν εἶναι καὶ
+
+συνεχῆ, καὶ μὴ την ἐπ’ εὐθείας· τῆς μὲν γὰρ ἐπ’
+εὐθείας ὥρισται καὶ ἀρχή καὶ τέλος καὶ μέσον, καὶ
+πάντ’ ἔχει ἐν ἑαυτῇ· ὥστ’ ἔστιν ὅθεν ἄρξεται τὰ
+κινούμενον καὶ οὖ τελευτήσει· πρὸς γοὲρ τοῖς πέρασιν
+ἠρεμεῖ πᾶν, ἦ ὅθεν ἦ οὗ· τῆς δὲ περιφεροῦς ἀόριστα·
+τί γαρ μᾶλλον ὁποιονοῦν πέρας τῶν ἐπὶ τῆς γραμ-
+μῆς; ὁμοίως γαρ ἕκαστον καὶ ἀρχή καὶ μέσον καὶ
+τέλος, ὥστ’ ἀεί τέ τινα εἶναι ὲν ἀρχῇ καὶ ἐν τέλει
+καὶ μηδέποτε. Διὸ κινεῖται καὶ ἠρεμεῖ πως ἦ σφαῖ-
+ρα· τόν αὐτὸν γάρ κατέχει τόπον. Αἴτιον δ’ ὅτι
+πάντα συμβέβηκε ταῦτα τῷ κέντρῳ· καὶ γάρ ,ἀρ ἣ
+καὶ μέσον τοῦ μεγέθους καὶ τέλος ἐστίν· ὥστε ιοί
+τὸ ἔξω εἶναι τοῦτο τῆς περιφερείας οὐκ ἔστιν ὅπου
+τό φερόμενον ἦρεμῆσει ὥς διεληλυθός· ἀεὶ γαρ φέρε-
+ται περὶ τὸ μέσον, ἀλλ’ οὐ πρὸς τό ἔσχατον· διὰ
+δέ τὸ τοῦτο μένει, ἀεί τε ἠρεμεῖ πως τό ὅλον καὶ
+κινεῖται συνεχῶς.
+
+Συμβαίνει δ’ ἀντιστρόφως· καὶ γαρ ὅτι μέτρον τῶν κι-
+
+νήσεων ἡ περιφορα ἐστι, πρωτην ἀναγκαῖον αὐτην
+εἶναι (ἅπαντα γοὶρ μετρεῖται τῷ πρώτῳ), καὶ διότι
+πρώτη, μέτρον ἐστὶ τῶν ἄλλων.
+
+Ἔτι δὲ καὶ ὁμαλῆ ἐνδέχεται εἶναι την κύκλῳ μόνην·
+
+τοὶ γοίρ en* εὐθείας ἀνωμαλῶς ἀπὸ τῆς ἀρχῆς φέ-
+ρεται καὶ πρὸς τό τέλος· πάντα γοὶρ ὅσῳπερ ἂν
+ἀφίστηται πλεῖον τοῦ ἠρεμοῦντος, φέρεται θᾶττον·
+τῆς δὲ κύκλῳ μόνης οὔτ’ ἀρχή οὔτε τέλος ἐν αὐτῇ
+πέφυκεν, ἀλλ’ ἐκτός.
+
+Ὅτι δ’ ἡ κατα τόπον φοραὶ πρώτη τῶν κινήσεων, μαρτυ-
+
+ροῖσι πάντες ὅσοι περὶ κινήσεως πεποίηνται μνείαν·
+τοίς γοὶρ ἀρχοὶς αὐτῆς ἀποδιδόασι τοῖς κινοῦσι τοι-
+αύτην κίνησιν. Διάκρισις γάρ καὶ σύγκρισις κινήσεις
+κατοὶ τόπον εἰσίν· οὕτω δὲ κινοῦσιν ἡ φιλία καὶτὸ
+νεῖκος· τὸ μὲν γάρ διακρίνει, τό δὲ συγκρίνει αὖ-
+τῶν. Καὶ τόν νοῦν δέ φησιν Ἀναξαγόρας διακρίνειν
+τόν κινήσαντα πρῶτον. Ὁμοίως δέ καὶ ὅσοι τοιαύ-
+την μὲν οὐδεμίαν αἰτίαν λέγουσι, δια δὲ τό κενόν
+κινεῖσθαί φασι· καὶ γὰρ οὗτοι τήν κατα τόπον κί-
+νησιν κινεῖσθαι την φύσιν λέγουσιν· η γοὶρ 8ιοί τὸ
+κενὸν κίνησις φορά ἐστι καὶ ὠς ἐν τόπῳ· τῶν δ’ ἄλ-
+λων ούδεμίαν ύποίρχειν τοῖς πρώτοις, ἀλλαγτοῖς ἐκ
+τούτων οἴονται· αὐξάνεσθαι γοὶρ καὶ φθίνειν καὶ ἀλ-
+λοιοῦσθαι συγκρινομένων καὶ διακ ινομένων τῶν ἀτό-
+ων σωμάτων φασί. Τὸν αὐτόν ge τρόπον καὶ ὅσοι
+§toi πυκνότητα ἦ μανότητα κατασκευάζουσι γένεσιν
+ἦ φθοράν· συγκρίσει γάρ καὶ διακρίσει ταῦτα δια-
+κοσμοῦσιν. Ἔτι δὲ παρα τούτους οἱ την ψυχήν αὶ-
+τίαν ποιοῦντες κινήσεως· τό γαρ αὐτὸ ἑαυτὸ κινοῦν
+ἀργήν εἶναί ῳασι τῶν κινουμένων· κινεῖ δὲ τό ζῷον
+καῖ πᾶν τό εμψυ ον την κατα τόπον ἑαυτὸ κίνη-
+σιν. Καὶ κυρίως δε κινεῖσθαί φαμεν όνον τό κινού-
+μενον τήν κατοὶ τόπον κίνησιν· ἂν §3 ἠρεμῇ μὲν ἐν
+τῷ αὐτῷ, αὐξάνηται δ’ ἦ φθίνῃ ἦ αλλοιούμενον
+τυγχάνῃ, πῆ κινεῖσθαι, οἱπλῶς δὲ κινεῖσθαι οὐ φαμέν.
+
+’Ὀτι μὲν οὖν ἀεί τε κίνησις ἦν καὶ ἔσται τόν ἅπαντα
+
+χρόνον, καὶ τίς ἀρχή τῆς ἀϊδίου κινήσεως, ἔτι δὲ
+τίς πρώτη κίνησις, καὶ τίνα κίνησιν ἀίδιον ἐνδέχε-
+ται μόνην εἶναι, καὶ τό κινοῦν πρῶτον ὅτι ἀκίνη-
+τον, εἴρηται.
+
+ 
+
+* Rationabiliter autem accidit circularem unum esse et
+continuum, et non rectum. Eius enim qui in recto ‚
+determinatum est principium et finis et medium, et
+omnia· haec habet in seipso. Quare est unde incipiet
+quod movetur, et ubi finiet: apud terminos enim quie-
+scit omne, aut unde aut ubi. Circularis autem inde-
+terminati sunt. Quid enim magis quicumque terminus
+eorum qui sunt in linea? similiter enim unumquodque
+principium et medium est et finis. Quare semper quae-
+
+” dam sunt in principio et fine, et nunquam. Unde mo-
+vetur et quiescit quodammodo sphaera: eundem enim
+obtinet locum. Causa autem est, quod omnia haec ac—
+cidunt centro: principium enim et medium magnitudi-
+
+nis et finis est. Quare, propter id quod extra circu-'
+
+lationem est, non est ubi quod fertur quiescat, ut
+quod pervenit: semper enim fertur circa medium, sed
+non ad ultimum. Propter hoc autem manet et semper
+quiescit quodammodo totum , et movetur continue.
+
+Accidit autem conversim: et namque, quoniam mensura
+motuum circulatio, primam necesse est ipsam esse
+(omnia enim mensurantur primo); et quia primum, men-
+sura aliorum est. ,
+
+Amplius autem, et regularem contingit circularem esse
+
+solum. Quae enim in recto, a principio irregulariter·
+
+feruntur ad finem: omnia enim, quanto distant quidem
+plus a quiescente, feruntur velocius. Circularis autem
+solius neque principium neque finis in ipso aptum na-
+tum est esse, sed extra.
+
+* Quod autem secundum locum mutatio primus motuum ⁶
+
+est, testantur omnes quicumque de motu fecerunt memo-
+riam. Principia enim tradunt ipsius moventibus secun—
+dum huiusmodi motum. Disgregatio enim et congre-
+gatio motus secundum locum sunt: sic enim movent
+concordia et discordia; haec quidem enim disgregat,
+illa autem congregat. Et ipsum autem intellectum mo—
+ventem prius, ait Anaxagoras disgregare. Similiter au—
+tem et quicumque huiusmodi quidem neque unam cau·-
+sam dicunt, propter vacuum autem moveri dicunt. Et
+namque hi secundum locum motum natura moveri
+dicunt: motus enim qui propter vacuum fit, loci muta-
+tio est‚ aut sicut in loco. Aliorum autem neque unum
+inesse primis corporibuS, sed his quae sunt ex his, opi-
+nantur: augmentari enim et corrumpi et alterari, con-
+gregatis et disgregatis atomis corporibuS‚ dicunt. Eo·
+'dem autem modo et quicumque propter densitatem aut
+raritatem efficiunt generationem et corruptionem: con·
+gregatione enim et disgregatione haec componunt. Am—
+plius autem ςῐ praeter hos animam causam facientes
+motus. Ipsum seipsum enim movens, principium esse
+dicunt eorum quae moventur: movebit autem animal
+et omne animatum, secundum eam quae est secundum
+locum, auto-kinesim. Et proprie autem moveri dicimus
+solum quod movetur secundum locum motum: si autem
+quiescat quidem in seipso, augmentetur autem aut
+detrimentum patiatur aut alterari contingat, quodam-
+modo moveri, simpliciter autem moveri non dicimus.
+
+Quod quidem igitur semper motus erat et erit omni tem·
+pore, et quod est principium perpetui motus,' adhuc au-
+tem quis motus primus, et quem motum perpetuum
+contingit esse solum, et quod primum movens immo—
+bile sit, dictum est.
+
+· Seq. cipum I
+
+Text. 76.
+
+Text. 77.
+
+ 
+
+ 
+

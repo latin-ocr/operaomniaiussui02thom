@@ -1,0 +1,171 @@
+240
+
+PHYSICORUM ARISTOTELIS LIB. V
+
+LEcT10 QUARTA
+
+CONCLUDITUR MOTUM ESSE SOLUM IN QUANTITATE‚ QUALITATE ET UBI -
+QUALITER MOTUS SIT IN HIS TRIBUS GENERIBUS —
+QUOT MODIS DICATUR IMMOBILE
+
+Ἐπεὶ δέ οὔτε οὐσίας οὔτε τοῦ πρός τι οὔτε τοῦ ποιεῖν
+καὶ πάσχειν, λείπεται κατὰ τὸ ποιὸν καὶτὸ ποσόν
+καὶ τὸ ποῦ κίνησιν εἶναι μόνον· ἑν ἑκάστῳ γάρ ἑστι
+τούτων ἐναντίωσις.
+
+Ἡ μὲν οὖν κατα τὸ ποιὸν κίνησις ἀλλοίωσις ἔστω· τοῦτο
+γάρ ἐπέζευκται κοινὸν ὄνομα. Λέγο δὲ τὸ ποιὸν οὖ
+vd ἑν τῇ οὐσία (καὶ γάρ ἠ διαφορά ποιότης), ἀλλά
+τό παθητικόν, καθ’ ἃ λέγεται πάσχειν ἦ ἀπαθὲς
+Εἶναι.
+
+'H δὲ κατα τὸ ποσόν, τὸ μὲν κοινὸν ἀνώνυμον, καθ’
+ἑκάτερον δ’ αὔξησις καὶ φθίσις, ἠ μὲν εἰς τό τέλειον
+μέγεθος αὔξησις, ἡ δ’ ἐκ τούτου φθίσις.
+
+Ἠ δὲ κατά τόπον καὶ τὸ κοινὸν καὶ τό ἴδιον ἀνώνυμος,
+ἔστω δὲ φοραὶ καλουμένη τὸ κοινόν· καίτοι λέγεταί
+γε ταῦτα φέρεσθαι μόνα κυρίως, ὅταν μή ἐπ’ αὐτοῖς
+ᾗ τό στῆναι τοῖς μεταβάλλουσι τὸν τόπον, καὶ ὅσα
+αὐτοὶ μή ἑαυτοὶ κινεῖ κατά τόπον.
+
+Ἡ δ’ ἒν τῷ αὐτῷ εἴδει μεταβολή ἐπὶ τὰ μᾶλλον καὶ
+ἦττον ἀλλοίωσίς ἐστιν· ἠ γάρ ἐξ ἐναντίου εἱς ἐναν-
+τίον κίνησίς ἐστιν, ἦ ἁπλῶς ἦ πῇ· ἐπὶ μὲν γάρ τό
+ἠττον ἰοῦσα εἰς τούναντίον λεχθήσεται μεταβάλλειν,
+ἐπὶ δὲ τὸ μᾶλλον ὠς ἐκ τούναντίου εἰς τὸ αὑτό.
+Διαφέρει γάρ οὐδὲν πῇ μεταβάλλειν ἦ ἁπλῶς, πλήν
+πῇ δεήσει τάναντία ὑπάρχειν· τὸ δὲ μᾶλλον καὶ
+ἧττόν ἐστι τῷ πλέον ἦ ἔλαττον ἐνυπάρχειν τούναν-
+τίου καὶ μή.
+
+Ὅτι μὲν οὖν αὗται τρεῖς μόναι κινήσεις εἰσίν, ἐκ τού-
+των δῆλον.
+
+Ἀκίνητον δ’ ἐστὶ τό τε ὅλως ἀδύνατον κινηθῆναι,
+ὥσπερ ὁ ψόφος ἀόρατος, καὶ τὸ ἐν πολλῷ χρόνῳ
+μόλις κινούμενον ἦ τό βραδέως ἀρχόμενον, ὃ λέγε-
+ται δυσκίνητον, καὶ τὸ πεφυκός μὲν κινεῖσθαι καὶ
+δυνάμενον, μή κινούμενον δε τότε ὅτε πέφυκε καὶ
+οὗ καὶ ὥς, ὅπερ ἠρεμεῖν καλῶ τῶν ἀκινήτων μόνον·
+ἐναντίον γάρ ἠρεμία κινήσει, ὥστε στέρησις ἂν εἴη
+τοῦ δεκτικοῦ.
+
+Τί μὲν οὗν ἐστὶ κίνησις, καὶ τί ἠρεμία, καὶ πόσαι με-
+ταβολαί, καὶ ποῖαι κινήσεις, φανερόν ἐκ τῶν εἰρη-
+μένων.
+
+SYNOPSIS —- 1. Argumentum et divisio textus„ Ex dictis in
+praecedenti lectione relinquitur manifestum, motum esse solum
+in quantitate, qualitate et ubi: in quolibet enim horum generum
+est contrarietas, quam requirit motus. — 2. Textus subdivisio.
+Motus in qualitate vocatur alteratio, et hoc nomen convenit ei
+proprie secundum suum genus: nam alterum dicitur quod differt
+secundum qualitatem. Accipitur autem hic qualitas non secun-
+dum quod quale invenitur in genere substantiae, sed secundum
+quod continetur in tertia specie qualitatis, in qua specie contingit
+esse alterationem. - 3. Motus qui est in quantitate non habet
+nomen secundum genus suum, sed nominatur secundum spe-
+cies, quae sunt au mentum et decrementum. — 4. Motus in
+ubi, seu secundum ocum, non habet neque nomen commune
+generis, neque nomina propria specierum, sed impositum est ei
+nomen commune latio, quamvis hoc nomen non sit proprium
+motus localis in communi: nam illa solum proprie dicuntur ser-
+
+. f 'z' stenso quod non est motus in sub-
+ij'fff‘* stantia, neque in ad aliquid, neque
+
+’ in actione et passione, concludit in
+
+a quibus generibus sit motus. Et circa
+hoc tria facit: primo inducit conclusionem inten—
+
+  
+
+* Quoniam autem neque substantiae, neque ipsius ad ali- · Seq. cap. n.
+
+quid, neque ipsius facere aut pati, relinquitur secundum
+quale aut quantum et ubi, motum esse solum: in uno-
+quoque enim horum est contrarietas.
+
+Motus quidem igitur secundum quale alteratio sit: huic
+enim alludit commune nornen. Dico autem quale non
+in substantia (et namque differentia quale est), sed
+quod passivum, secundum quod dicitur pati aut impas-
+sibile esse.
+
+Qui vero secundum quantum, secundum commune quidem
+innominatus est: sed secundum utrumque augmentum
+aut decrementum. Qui enim est in perfectam magnitu-
+dinem, augmentum est; qui vero ex hac, decrementum.
+
+Qui autem est secundum locum, et secundum proprium et
+
+commune innominatus est: sit autem latio vocata, quod-
+
+commune est. Quamvis dicantur ferri haec sola proprie,
+cum non in seipsis sit stare mutantibus locum, et quae-
+cumque non ipsa seipsa movent secundum locum.
+
+* Quae autem est in eadem specie mutatio in magis et minus,
+alteratio est. Quae enim ex contrario in contrarium,
+motus est aut simpliciter aut sic. In minus quidem
+enirn vadens, in contrarium dicetur mutari: in magis
+autem, tanquam ex contrario in seipsum. Differt enim
+
+> nihil sic mutari aut simpliciter, nisi quod sic oportebit
+contraria esse, magis autem et minus est quo plus aut
+minus contrarii inest aut non.
+
+Quod quidem igitur hi tres soli motus sunt, ex his mani-
+festum est.
+
+⁶³* immobile autem est, et quod omnino impossibile est mo-
+veri, sicut sonus invisibilis: et quod in multo tempore
+vix movetur, aut quod tarde incipit; quod dicitur gra·
+viter mobile: et quod aptum natum est moveri, potest-
+que moveri, non movetur autem tunc cum aptum
+natum est, et ubi, et sic; quod quidem quiescere voco
+immobilium solum. Contrarium enim quies motui est3
+quare privatio erit susceptivi.
+
+Quid quidem igitur est motus, et quid quies, et quot muta-
+tiones, et quales motus, manifestum ex dictis.
+
+ri, quae non moventur a seipsis, sed ab aliis. - Ratio eorum
+quae dicta sunt circa nomina trium specierum motus. - 5. Mu-
+tatio quae est in eadem specie qualitatis, puta in albedine, se-
+cundum magis et minus, non reducitur ad motum augmenti
+vel decrementi, sed est alteratio. Nam mutari de contrario in
+contrarium secundum qualitatem, contingit aut simpliciter, si-
+cut cum aliquid de albo mutatur in nigrum, aut secundum
+magis et minus, sicut cum aliquid de magis albo mutatur in
+minus alburn, vel e converso. - Concluditur species motus esse
+solum tres praedictas. — 6. Tribus modis dicitur immobile. a)
+Quod nullo modo moveri potest, ut Deus; b) quod difficile est
+moveri3 c) quod natum est moveri et potest de facili moveri, non
+tamen movetur quando et ubi et eo modo quo moveri potest.
+Et hoc solum dicitur proprie quiescere: narn quies est contraria,
+seu privative opposita, motui. Unde quies est privatio in subiecto
+susceptivo motus. — Epilogus.
+
+tam; secundo ostendit qualiter sit motus in uno-
+quoque trium generum, ibi: Motus quidem igi-
+
+tur ss etc.; tertio removet quandam dubitationem, · Num· seq·
+
+ibi: Quae autem est in eadem specie* etc.
+Dicit ergo primo quod cum motus non sit ne—
+
+Text. ¹8.
+
+· Text. ¹9-
+
+· Text. πο-
+
+· Num. 5.
+
+ 
+
+,ἅ mm Ι
+
